@@ -1,4 +1,5 @@
 BEGIN;
+
 DROP TABLE IF EXISTS users,
 products,
 favourite_products CASCADE;
@@ -12,12 +13,11 @@ CREATE TABLE users(
 
 CREATE TABLE products(
     id SERIAL PRIMARY KEY,
-    user_id INTEGER REFERENCES users(id) ON DELETE CASCADE
-    name VARCHAR(250) NOT NULL,
+    user_id INTEGER REFERENCES users(id) ON DELETE CASCADE name VARCHAR(250) NOT NULL,
     description TEXT NOT NULL,
     class VARCHAR(250) NOT NULL,
     type VARCHAR(250) NOT NULL,
-    date DATE NOT NULL,
+    post_date DATE NOT NULL,
     city VARCHAR(200) NOT NULL,
     price INTEGER NOT NULL DEFAULT 0,
     currency VARCHAR(50),
@@ -25,11 +25,11 @@ CREATE TABLE products(
     images TEXT NOT NULL,
     phone VARCHAR(25),
     approved BOOLEAN NOT NULL DEFAULT false
-
 );
 
 CREATE TABLE favourite_products(
     user_id INTEGER REFERENCES users(id) ON DELETE CASCADE,
     product_id INTEGER REFERENCES products(id) ON DELETE CASCADE
 );
+
 COMMIT;
