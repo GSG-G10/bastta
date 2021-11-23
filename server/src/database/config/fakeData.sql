@@ -3,297 +3,248 @@ VALUES (
         'احمد',
         'dlouys0@angelfire.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ايمن',
         'ibahl1@hugedomains.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'فراس',
         'kwalkowski2@barnesandnoble.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'عدنان',
         'jwillden3@twitpic.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'اميرة',
         'chathaway4@ehow.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ابو محمد',
         'hfarlam5@irs.gov',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'جواد',
         'ahayer6@cdc.gov',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'سارة',
         'mveighey7@ocn.ne.jp',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ماهر',
         'rdowning8@msu.edu',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'عصام',
         'edog9@xinhuanet.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'هناء',
         'scumberpatcha@themeforest.net',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'نزار',
         'cdaughteryb@tinypic.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'صابرين',
         'ksawterc@skype.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'الهام',
         'tbirchenoughd@meetup.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'سارة',
         'hcolcombe@imdb.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'لينا',
         'alesmondef@geocities.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'عدنان',
         'lgosling@alexa.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ماهر',
         'adiamondh@quantcast.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'نور',
         'bmermani@topsy.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ماهر',
         'dferedayj@github.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'فراس',
         'ekleesk@nymag.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'جواد',
         'rfeasbyl@usatoday.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'جواد',
         'adorrinsm@github.io',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'عدنان',
         'theymesn@ovh.net',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ابو محمد',
         'mblazdello@prweb.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ليلى',
         'mturfordp@bbb.org',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ليلى',
         'kboylundq@altervista.org',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ابو محمد',
         'tmoninir@jalbum.net',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'جواد',
         'smealands@ft.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'عصام',
         'farckollt@un.org',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ليلى',
         'odurbinu@over-blog.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ماهر',
         'cmclaughlinv@cmu.edu',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ايمن',
         'bingyonw@comsenz.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'جمال',
         'charmsonx@answers.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ابراهيم',
         'strouncery@vistaprint.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'نور',
         'mlynez@sciencedaily.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'هناء',
         'lstanhope10@comcast.net',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'خليل',
         'slittefair11@fc2.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ليلى',
         'kspores12@businessweek.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'جمال',
         'fvaar13@blog.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'عدنان',
         'sbromley14@newsvine.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'نور',
         'abroszkiewicz15@t-online.de',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'فراس',
         'ncolleymore16@woothemes.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ام ايمن',
         'rfanton17@indiegogo.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'لينا',
         'oweekley18@theglobeandmail.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'لينا',
         'clancetter19@nifty.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'محمد',
         'ezaple1a@fc2.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'احمد',
         'sedmands1b@cnet.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'سارة',
         'wlundon1c@xrea.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
-    );
-INSERT INTO users (name, email, password)
-VALUES (
+    ),
+    (
         'ريم',
         'vqualtro1d@goodreads.com',
         '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
@@ -327,23 +278,8 @@ VALUES (
         false,
         50,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         31,
         'شفاط مطابخ',
         'الأجهزة',
@@ -357,23 +293,8 @@ VALUES (
         true,
         23,
         '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         16,
         'شاحن بطارية 20 امبير',
         'الأجهزة',
@@ -387,23 +308,8 @@ VALUES (
         false,
         33,
         '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         45,
         'انفيرتر طاقة شمسية 5 كيلو',
         'الأجهزة',
@@ -417,23 +323,8 @@ VALUES (
         true,
         37,
         '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         34,
         'غسالة فل اوتوماتيك LG',
         'الأجهزة',
@@ -447,23 +338,8 @@ VALUES (
         false,
         40,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         28,
         'ماكينة فرم متعددة الاستعمالات',
         'الأجهزة',
@@ -477,23 +353,8 @@ VALUES (
         true,
         16,
         '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         44,
         'انفيرتر طاقة شمسية 5 كيلو',
         'الأجهزة',
@@ -507,23 +368,8 @@ VALUES (
         false,
         15,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'غسالة فل اوتوماتيك LG',
         'الأجهزة',
@@ -537,23 +383,8 @@ VALUES (
         false,
         13,
         '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         9,
         'شفاط مطابخ',
         'الأجهزة',
@@ -567,23 +398,8 @@ VALUES (
         false,
         13,
         '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         1,
         'ثلاجة سامسونج 3 ضلف',
         'الأجهزة',
@@ -597,23 +413,8 @@ VALUES (
         false,
         41,
         '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'ثلاجة سامسونج 3 ضلف',
         'الأجهزة',
@@ -627,23 +428,8 @@ VALUES (
         false,
         2,
         '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'انفيرتر طاقة شمسية 5 كيلو',
         'الأجهزة',
@@ -657,23 +443,8 @@ VALUES (
         false,
         16,
         '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         29,
         'فرن كهربائي مع مروحة داخلية',
         'الأجهزة',
@@ -687,23 +458,8 @@ VALUES (
         true,
         27,
         '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         32,
         'شفاط مطابخ',
         'الأجهزة',
@@ -717,23 +473,8 @@ VALUES (
         false,
         22,
         '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         28,
         'شفاط مطابخ',
         'الأجهزة',
@@ -747,23 +488,8 @@ VALUES (
         false,
         14,
         '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'ماكينة فرم متعددة الاستعمالات',
         'الأجهزة',
@@ -777,23 +503,8 @@ VALUES (
         false,
         23,
         '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         17,
         'عجانة 5 لتر صناعة محلية',
         'الأجهزة',
@@ -807,23 +518,8 @@ VALUES (
         false,
         35,
         '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         2,
         'خلاط',
         'الأجهزة',
@@ -837,23 +533,8 @@ VALUES (
         false,
         45,
         '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         36,
         'ميكروويف جديد اجنص',
         'الأجهزة',
@@ -867,23 +548,8 @@ VALUES (
         true,
         20,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         47,
         'ماكينة فرم متعددة الاستعمالات',
         'الأجهزة',
@@ -897,23 +563,8 @@ VALUES (
         false,
         23,
         '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         25,
         'شفاط مطابخ',
         'الأجهزة',
@@ -927,23 +578,8 @@ VALUES (
         false,
         9,
         '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         39,
         'عجانة 5 لتر صناعة محلية',
         'الأجهزة',
@@ -957,23 +593,8 @@ VALUES (
         false,
         31,
         '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         38,
         'شاحن بطارية 20 امبير',
         'الأجهزة',
@@ -987,23 +608,8 @@ VALUES (
         false,
         37,
         '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         20,
         'ثلاجة سامسونج 3 ضلف',
         'الأجهزة',
@@ -1017,23 +623,8 @@ VALUES (
         false,
         18,
         '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         15,
         'شفاط مطابخ',
         'الأجهزة',
@@ -1047,23 +638,8 @@ VALUES (
         true,
         46,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         14,
         'ماكينة فرم متعددة الاستعمالات',
         'الأجهزة',
@@ -1077,23 +653,8 @@ VALUES (
         true,
         47,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'انفيرتر طاقة شمسية 5 كيلو',
         'الأجهزة',
@@ -1107,23 +668,8 @@ VALUES (
         true,
         5,
         '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         48,
         'خلاط',
         'الأجهزة',
@@ -1137,23 +683,8 @@ VALUES (
         true,
         36,
         '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         34,
         'فرن كهربائي مع مروحة داخلية',
         'الأجهزة',
@@ -1167,23 +698,8 @@ VALUES (
         true,
         16,
         '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         12,
         'ميكروويف جديد اجنص',
         'الأجهزة',
@@ -1197,23 +713,8 @@ VALUES (
         true,
         24,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         14,
         'خزانة أحذية 4 طوابق',
         'الأثاث',
@@ -1227,23 +728,8 @@ VALUES (
         true,
         42,
         '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         6,
         'خزانة أحذية 4 طوابق',
         'الأثاث',
@@ -1257,23 +743,8 @@ VALUES (
         false,
         21,
         '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         17,
         'طقم نوم كامل',
         'الأثاث',
@@ -1287,23 +758,8 @@ VALUES (
         true,
         49,
         '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         13,
         'مكتب كمبيوتر',
         'الأثاث',
@@ -1317,23 +773,8 @@ VALUES (
         true,
         25,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         4,
         'برواز علم فلسطين',
         'الأثاث',
@@ -1347,23 +788,8 @@ VALUES (
         true,
         23,
         '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         29,
         'خزانة أحذية 4 طوابق',
         'الأثاث',
@@ -1377,23 +803,8 @@ VALUES (
         true,
         25,
         '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         41,
         'برواز علم فلسطين',
         'الأثاث',
@@ -1407,23 +818,8 @@ VALUES (
         false,
         29,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         14,
         'طقم نوم كامل',
         'الأثاث',
@@ -1437,23 +833,8 @@ VALUES (
         false,
         1,
         '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'سرير اطفال مفرد',
         'الأثاث',
@@ -1467,23 +848,8 @@ VALUES (
         true,
         46,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         13,
         'طاولة سفرة – الدكان',
         'الأثاث',
@@ -1497,23 +863,8 @@ VALUES (
         false,
         36,
         '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         42,
         'سرير اطفال مفرد',
         'الأثاث',
@@ -1527,23 +878,8 @@ VALUES (
         true,
         9,
         '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'برواز علم فلسطين',
         'الأثاث',
@@ -1557,23 +893,8 @@ VALUES (
         false,
         45,
         '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         39,
         'طاولة سفرة – الدكان',
         'الأثاث',
@@ -1587,23 +908,8 @@ VALUES (
         false,
         21,
         '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         3,
         'طقم كنب',
         'الأثاث',
@@ -1617,23 +923,8 @@ VALUES (
         false,
         11,
         '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         40,
         'مكتب كمبيوتر',
         'الأثاث',
@@ -1647,23 +938,8 @@ VALUES (
         false,
         24,
         '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         30,
         'طقم كنب',
         'الأثاث',
@@ -1677,23 +953,8 @@ VALUES (
         true,
         6,
         '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         24,
         'مكتب كمبيوتر',
         'الأثاث',
@@ -1707,23 +968,8 @@ VALUES (
         true,
         49,
         '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         10,
         'برواز علم فلسطين',
         'الأثاث',
@@ -1737,23 +983,8 @@ VALUES (
         false,
         27,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         44,
         'مكتب كمبيوتر',
         'الأثاث',
@@ -1767,23 +998,8 @@ VALUES (
         true,
         24,
         '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         42,
         'طقم كنب',
         'الأثاث',
@@ -1797,23 +1013,8 @@ VALUES (
         true,
         3,
         '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         28,
         'سرير اطفال مفرد',
         'الأثاث',
@@ -1827,23 +1028,8 @@ VALUES (
         true,
         31,
         '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         35,
         'طقم نوم كامل',
         'الأثاث',
@@ -1857,23 +1043,8 @@ VALUES (
         true,
         14,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         11,
         'سرير اطفال مفرد',
         'الأثاث',
@@ -1887,23 +1058,8 @@ VALUES (
         false,
         14,
         '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         30,
         'برواز علم فلسطين',
         'الأثاث',
@@ -1917,23 +1073,8 @@ VALUES (
         false,
         4,
         '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         32,
         'طاولة سفرة – الدكان',
         'الأثاث',
@@ -1947,23 +1088,8 @@ VALUES (
         true,
         18,
         '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         8,
         'خزانة سحب',
         'الأثاث',
@@ -1977,23 +1103,8 @@ VALUES (
         true,
         19,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         34,
         'برواز علم فلسطين',
         'الأثاث',
@@ -2007,23 +1118,8 @@ VALUES (
         true,
         3,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         29,
         'برواز علم فلسطين',
         'الأثاث',
@@ -2037,23 +1133,8 @@ VALUES (
         true,
         30,
         '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         38,
         'خزانة سحب',
         'الأثاث',
@@ -2067,23 +1148,8 @@ VALUES (
         false,
         23,
         '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         40,
         'مكتب كمبيوتر',
         'الأثاث',
@@ -2097,23 +1163,8 @@ VALUES (
         true,
         14,
         '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         19,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
@@ -2127,23 +1178,8 @@ VALUES (
         true,
         21,
         '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         26,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
@@ -2157,23 +1193,8 @@ VALUES (
         true,
         27,
         '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         26,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
@@ -2187,23 +1208,8 @@ VALUES (
         true,
         4,
         '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         18,
         'ساعة لمس جديدة بالكارتون',
         'الإلكترونيات',
@@ -2217,23 +1223,8 @@ VALUES (
         false,
         2,
         '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         39,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
@@ -2247,23 +1238,8 @@ VALUES (
         true,
         30,
         '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         24,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
@@ -2277,23 +1253,8 @@ VALUES (
         false,
         17,
         '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         22,
         'لابتوب اتش بي core i3 10th gen للبيع',
         'الإلكترونيات',
@@ -2307,23 +1268,8 @@ VALUES (
         false,
         25,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         33,
         'لابتوب اتش بي core i3 10th gen للبيع',
         'الإلكترونيات',
@@ -2337,23 +1283,8 @@ VALUES (
         true,
         21,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         5,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
@@ -2367,23 +1298,8 @@ VALUES (
         true,
         44,
         '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         13,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
@@ -2397,23 +1313,8 @@ VALUES (
         true,
         50,
         '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         44,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
@@ -2427,23 +1328,8 @@ VALUES (
         true,
         19,
         '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         43,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
@@ -2457,23 +1343,8 @@ VALUES (
         true,
         2,
         '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         25,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
@@ -2487,23 +1358,8 @@ VALUES (
         true,
         32,
         '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         10,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
@@ -2517,23 +1373,8 @@ VALUES (
         false,
         8,
         '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         26,
         'جهاز انفيرتر 2000 وات للتحويل من بطاريه السياره 12 فولت',
         'الإلكترونيات',
@@ -2547,23 +1388,8 @@ VALUES (
         false,
         16,
         '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         1,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
@@ -2577,23 +1403,8 @@ VALUES (
         true,
         22,
         '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         22,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
@@ -2607,23 +1418,8 @@ VALUES (
         true,
         50,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         49,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
@@ -2637,23 +1433,8 @@ VALUES (
         true,
         15,
         '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'ساعة لمس جديدة بالكارتون',
         'الإلكترونيات',
@@ -2667,23 +1448,8 @@ VALUES (
         true,
         19,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         24,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
@@ -2697,23 +1463,8 @@ VALUES (
         false,
         40,
         '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         14,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
@@ -2727,23 +1478,8 @@ VALUES (
         true,
         28,
         '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         3,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
@@ -2757,23 +1493,8 @@ VALUES (
         false,
         21,
         '[{"image_1":"https://i.servimg.com/u/f52/17/02/63/65/tm/15603110.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         45,
         'جهاز انفيرتر 2000 وات للتحويل من بطاريه السياره 12 فولت',
         'الإلكترونيات',
@@ -2787,23 +1508,8 @@ VALUES (
         false,
         37,
         '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         24,
         'ساعة لمس جديدة بالكارتون',
         'الإلكترونيات',
@@ -2817,23 +1523,8 @@ VALUES (
         true,
         38,
         '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         22,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
@@ -2847,23 +1538,8 @@ VALUES (
         false,
         26,
         '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         4,
         'لابتوب اتش بي core i3 10th gen للبيع',
         'الإلكترونيات',
@@ -2877,23 +1553,8 @@ VALUES (
         false,
         45,
         '[{"image_1":"https://i.servimg.com/u/f52/17/02/63/65/tm/15603110.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         13,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
@@ -2907,23 +1568,8 @@ VALUES (
         false,
         39,
         '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         47,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
@@ -2937,23 +1583,8 @@ VALUES (
         true,
         35,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         20,
         'جهاز انفيرتر 2000 وات للتحويل من بطاريه السياره 12 فولت',
         'الإلكترونيات',
@@ -2967,23 +1598,8 @@ VALUES (
         false,
         31,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         27,
         'جهاز انفيرتر 2000 وات للتحويل من بطاريه السياره 12 فولت',
         'الإلكترونيات',
@@ -2997,23 +1613,8 @@ VALUES (
         false,
         33,
         '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         26,
         'فني كهرباء',
         'الخدمات',
@@ -3027,23 +1628,8 @@ VALUES (
         true,
         40,
         '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         38,
         'توصيل ديلفري',
         'الخدمات',
@@ -3057,23 +1643,8 @@ VALUES (
         true,
         34,
         '[{"image_1":"https://www.noonpost.com/sites/default/files/styles/article_image_1226_x_840/public/2020-03/istock-1033164998.jpg?itok=AdPwX11M","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         49,
         'بناء مجسمات هندسية',
         'الخدمات',
@@ -3087,23 +1658,8 @@ VALUES (
         true,
         19,
         '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         19,
         'فني تكييف وتبريد',
         'الخدمات',
@@ -3117,23 +1673,8 @@ VALUES (
         true,
         30,
         '[{"image_1":"https://www.noonpost.com/sites/default/files/styles/article_image_1226_x_840/public/2020-03/istock-1033164998.jpg?itok=AdPwX11M","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         20,
         'بناء مجسمات هندسية',
         'الخدمات',
@@ -3147,23 +1688,8 @@ VALUES (
         true,
         48,
         '[{"image_1":"https://www.alaraby.co.uk/sites/default/files/2020-09/one_6.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         25,
         'توصيل ديلفري',
         'الخدمات',
@@ -3177,23 +1703,8 @@ VALUES (
         true,
         31,
         '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         12,
         'توصيل ديلفري',
         'الخدمات',
@@ -3207,23 +1718,8 @@ VALUES (
         true,
         12,
         '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         6,
         'جلسات علاج طبيعي في المنزل',
         'الخدمات',
@@ -3237,23 +1733,8 @@ VALUES (
         false,
         45,
         '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         7,
         'بناء مجسمات هندسية',
         'الخدمات',
@@ -3267,23 +1748,8 @@ VALUES (
         true,
         39,
         '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         33,
         'جلسات علاج طبيعي في المنزل',
         'الخدمات',
@@ -3297,23 +1763,8 @@ VALUES (
         false,
         4,
         '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         41,
         'تركيب دش تلفزيون',
         'الخدمات',
@@ -3327,23 +1778,8 @@ VALUES (
         true,
         47,
         '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         6,
         'بناء مجسمات هندسية',
         'الخدمات',
@@ -3357,23 +1793,8 @@ VALUES (
         true,
         38,
         '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         2,
         'فني كهرباء',
         'الخدمات',
@@ -3387,23 +1808,8 @@ VALUES (
         false,
         46,
         '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         14,
         'حصص تعليمية خاصة باللغة الانجليزية',
         'الخدمات',
@@ -3417,23 +1823,8 @@ VALUES (
         false,
         49,
         '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         10,
         'تركيب دش تلفزيون',
         'الخدمات',
@@ -3447,23 +1838,8 @@ VALUES (
         false,
         20,
         '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         17,
         'توصيل ديلفري',
         'الخدمات',
@@ -3477,23 +1853,8 @@ VALUES (
         false,
         32,
         '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         46,
         'تعليم البرمجة للأطفال من',
         'الخدمات',
@@ -3507,23 +1868,8 @@ VALUES (
         true,
         41,
         '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         50,
         'تركيب دش تلفزيون',
         'الخدمات',
@@ -3537,23 +1883,8 @@ VALUES (
         true,
         11,
         '[{"image_1":"https://www.alaraby.co.uk/sites/default/files/2020-09/one_6.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         27,
         'توصيل ديلفري',
         'الخدمات',
@@ -3567,23 +1898,8 @@ VALUES (
         false,
         7,
         '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         10,
         'فني كهرباء',
         'الخدمات',
@@ -3597,23 +1913,8 @@ VALUES (
         true,
         37,
         '[{"image_1":"https://www.alaraby.co.uk/sites/default/files/2020-09/one_6.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         3,
         'تركيب دش تلفزيون',
         'الخدمات',
@@ -3627,23 +1928,8 @@ VALUES (
         true,
         21,
         '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         45,
         'حصص تعليمية خاصة باللغة الانجليزية',
         'الخدمات',
@@ -3657,23 +1943,8 @@ VALUES (
         true,
         12,
         '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         33,
         'تعليم البرمجة للأطفال من',
         'الخدمات',
@@ -3687,23 +1958,8 @@ VALUES (
         true,
         36,
         '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         43,
         'فني تكييف وتبريد',
         'الخدمات',
@@ -3717,23 +1973,8 @@ VALUES (
         false,
         12,
         '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         24,
         'عناية بالأطفال',
         'الخدمات',
@@ -3747,23 +1988,8 @@ VALUES (
         true,
         6,
         '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         9,
         'جلسات علاج طبيعي في المنزل',
         'الخدمات',
@@ -3777,23 +2003,8 @@ VALUES (
         true,
         5,
         '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         16,
         'تعليم البرمجة للأطفال من',
         'الخدمات',
@@ -3807,23 +2018,8 @@ VALUES (
         false,
         23,
         '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         24,
         'تعليم البرمجة للأطفال من',
         'الخدمات',
@@ -3837,23 +2033,8 @@ VALUES (
         true,
         5,
         '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         46,
         'حصص تعليمية خاصة باللغة الانجليزية',
         'الخدمات',
@@ -3867,23 +2048,8 @@ VALUES (
         false,
         39,
         '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         24,
         'تعليم البرمجة للأطفال من',
         'الخدمات',
@@ -3897,23 +2063,8 @@ VALUES (
         false,
         34,
         '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         47,
         'عقلة تثبت في الحائط',
         'الرياضة',
@@ -3927,23 +2078,8 @@ VALUES (
         false,
         44,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         3,
         'طقم كامل لفريق تشيلسي',
         'الرياضة',
@@ -3957,23 +2093,8 @@ VALUES (
         false,
         17,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         13,
         'حذاء رياضي نايك',
         'الرياضة',
@@ -3987,23 +2108,8 @@ VALUES (
         false,
         28,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         6,
         'جهاز مساج للعضلات',
         'الرياضة',
@@ -4017,23 +2123,8 @@ VALUES (
         false,
         6,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         34,
         'جهاز مساج للرقبة',
         'الرياضة',
@@ -4047,23 +2138,8 @@ VALUES (
         true,
         48,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         4,
         'كورة انجيل',
         'الرياضة',
@@ -4077,23 +2153,8 @@ VALUES (
         true,
         47,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         27,
         'كورة انجيل',
         'الرياضة',
@@ -4107,23 +2168,8 @@ VALUES (
         true,
         35,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         45,
         'حذاء رياضي نايك',
         'الرياضة',
@@ -4137,23 +2183,8 @@ VALUES (
         false,
         43,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         22,
         'حذاء رياضي نايك',
         'الرياضة',
@@ -4167,23 +2198,8 @@ VALUES (
         true,
         29,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         7,
         'طقم كامل ليفربول',
         'الرياضة',
@@ -4197,23 +2213,8 @@ VALUES (
         false,
         19,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         46,
         'جهاز مساج للرقبة',
         'الرياضة',
@@ -4227,23 +2228,8 @@ VALUES (
         true,
         24,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         27,
         'كورة انجيل',
         'الرياضة',
@@ -4257,23 +2243,8 @@ VALUES (
         true,
         11,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         39,
         'جهاز مساج للرقبة',
         'الرياضة',
@@ -4287,23 +2258,8 @@ VALUES (
         true,
         17,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         4,
         'حذاء رياضي نايك',
         'الرياضة',
@@ -4317,23 +2273,8 @@ VALUES (
         true,
         38,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         45,
         'طقم كامل ليفربول',
         'الرياضة',
@@ -4347,23 +2288,8 @@ VALUES (
         false,
         3,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         48,
         'طقم كامل ليفربول',
         'الرياضة',
@@ -4377,23 +2303,8 @@ VALUES (
         true,
         27,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         7,
         'طقم كامل ليفربول',
         'الرياضة',
@@ -4407,23 +2318,8 @@ VALUES (
         true,
         17,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         6,
         'جهاز تمرين للمعدة',
         'الرياضة',
@@ -4437,23 +2333,8 @@ VALUES (
         true,
         5,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         23,
         'جهاز مساج للرقبة',
         'الرياضة',
@@ -4467,23 +2348,8 @@ VALUES (
         false,
         20,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         22,
         'طقم كامل لفريق تشيلسي',
         'الرياضة',
@@ -4497,23 +2363,8 @@ VALUES (
         true,
         35,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         14,
         'جهاز تمرين للمعدة',
         'الرياضة',
@@ -4527,23 +2378,8 @@ VALUES (
         true,
         7,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         13,
         'جهاز تمرين للمعدة',
         'الرياضة',
@@ -4557,23 +2393,8 @@ VALUES (
         false,
         8,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         17,
         'جهاز مساج للرقبة',
         'الرياضة',
@@ -4587,23 +2408,8 @@ VALUES (
         true,
         29,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         2,
         'حذاء رياضي نايك',
         'الرياضة',
@@ -4617,23 +2423,8 @@ VALUES (
         false,
         21,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         30,
         'جهاز مساج للعضلات',
         'الرياضة',
@@ -4647,23 +2438,8 @@ VALUES (
         true,
         14,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         17,
         'جهاز مساج للرقبة',
         'الرياضة',
@@ -4677,23 +2453,8 @@ VALUES (
         false,
         24,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         37,
         'كورة انجيل',
         'الرياضة',
@@ -4707,23 +2468,8 @@ VALUES (
         false,
         26,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         43,
         'طقم كامل ليفربول',
         'الرياضة',
@@ -4737,23 +2483,8 @@ VALUES (
         true,
         39,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         48,
         'جهاز تمرين للمعدة',
         'الرياضة',
@@ -4767,23 +2498,8 @@ VALUES (
         true,
         22,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         23,
         'عقلة تثبت في الحائط',
         'الرياضة',
@@ -4797,23 +2513,8 @@ VALUES (
         true,
         47,
         '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         25,
         'سكودا رمش موديل 2017',
         'المركبات',
@@ -4827,23 +2528,8 @@ VALUES (
         true,
         29,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         39,
         'سكودا رمش موديل 2017',
         'المركبات',
@@ -4857,23 +2543,8 @@ VALUES (
         false,
         27,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         47,
         'جيب Toyota 4 × 4 جديد',
         'المركبات',
@@ -4887,23 +2558,8 @@ VALUES (
         false,
         24,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'هونداي H1 أبيض',
         'المركبات',
@@ -4917,23 +2573,8 @@ VALUES (
         false,
         3,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         31,
         'فزبة حلاوة تايجر جديد',
         'المركبات',
@@ -4947,23 +2588,8 @@ VALUES (
         true,
         12,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         45,
         'فزبة حلاوة تايجر جديد',
         'المركبات',
@@ -4977,23 +2603,8 @@ VALUES (
         true,
         13,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         1,
         'جيب Toyota 4 × 4 جديد',
         'المركبات',
@@ -5007,23 +2618,8 @@ VALUES (
         false,
         49,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         14,
         'سيارة سوبار',
         'المركبات',
@@ -5037,23 +2633,8 @@ VALUES (
         false,
         38,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         4,
         'فزبة دايون 400',
         'المركبات',
@@ -5067,23 +2648,8 @@ VALUES (
         true,
         4,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         23,
         'فيات 400 موديل 2019',
         'المركبات',
@@ -5097,23 +2663,8 @@ VALUES (
         true,
         1,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         26,
         'فزبة دايون 400',
         'المركبات',
@@ -5127,23 +2678,8 @@ VALUES (
         true,
         47,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         16,
         'هونداي H1 أبيض',
         'المركبات',
@@ -5157,23 +2693,8 @@ VALUES (
         false,
         2,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/258863002_438310314323671_5489259470837966375_n.jpg?_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jdEsFTq_pUYAX8UBuGN\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=fce66173a4dd21cfac0f4a01f7a1a63b\u0026oe=61A2A3BF","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         50,
         'هونداي سيفيك موديل 2005',
         'المركبات',
@@ -5187,23 +2708,8 @@ VALUES (
         false,
         31,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         28,
         'جيب اكسنت رمادي',
         'المركبات',
@@ -5217,23 +2723,8 @@ VALUES (
         false,
         50,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         26,
         'جيب Toyota 4 × 4 جديد',
         'المركبات',
@@ -5247,23 +2738,8 @@ VALUES (
         false,
         46,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         19,
         'جيب Toyota 4 × 4 جديد',
         'المركبات',
@@ -5277,23 +2753,8 @@ VALUES (
         false,
         18,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         13,
         'سيارة سوبار',
         'المركبات',
@@ -5307,23 +2768,8 @@ VALUES (
         true,
         17,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/258863002_438310314323671_5489259470837966375_n.jpg?_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jdEsFTq_pUYAX8UBuGN\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=fce66173a4dd21cfac0f4a01f7a1a63b\u0026oe=61A2A3BF","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         18,
         'سيارة سوبار',
         'المركبات',
@@ -5337,23 +2783,8 @@ VALUES (
         true,
         24,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         47,
         'هونداي H1 أبيض',
         'المركبات',
@@ -5367,23 +2798,8 @@ VALUES (
         false,
         29,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         8,
         'بسكليت اسرائيلي مستخدم خفيف',
         'المركبات',
@@ -5397,23 +2813,8 @@ VALUES (
         false,
         30,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         12,
         'جيب اكسنت رمادي',
         'المركبات',
@@ -5427,23 +2828,8 @@ VALUES (
         false,
         49,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         39,
         'بسكليت اسرائيلي مستخدم خفيف',
         'المركبات',
@@ -5457,23 +2843,8 @@ VALUES (
         false,
         35,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         5,
         'فيات 400 موديل 2019',
         'المركبات',
@@ -5487,23 +2858,8 @@ VALUES (
         false,
         32,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         7,
         'هونداي سيفيك موديل 2005',
         'المركبات',
@@ -5517,23 +2873,8 @@ VALUES (
         true,
         18,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         47,
         'جيب اكسنت رمادي',
         'المركبات',
@@ -5547,23 +2888,8 @@ VALUES (
         false,
         32,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         43,
         'جيب Toyota 4 × 4 جديد',
         'المركبات',
@@ -5577,23 +2903,8 @@ VALUES (
         false,
         24,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'هونداي H1 أبيض',
         'المركبات',
@@ -5607,23 +2918,8 @@ VALUES (
         false,
         39,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         12,
         'هونداي H1 أبيض',
         'المركبات',
@@ -5637,23 +2933,8 @@ VALUES (
         true,
         29,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         25,
         'سكودا رمش موديل 2017',
         'المركبات',
@@ -5667,23 +2948,8 @@ VALUES (
         true,
         1,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/258863002_438310314323671_5489259470837966375_n.jpg?_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jdEsFTq_pUYAX8UBuGN\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=fce66173a4dd21cfac0f4a01f7a1a63b\u0026oe=61A2A3BF","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         48,
         'فزبة حلاوة تايجر جديد',
         'المركبات',
@@ -5697,23 +2963,8 @@ VALUES (
         false,
         25,
         '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         24,
         'شفاط مطابخ',
         'الأجهزة',
@@ -5727,23 +2978,8 @@ VALUES (
         true,
         41,
         '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         20,
         'عجانة 5 لتر صناعة محلية',
         'الأجهزة',
@@ -5757,23 +2993,8 @@ VALUES (
         false,
         47,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         44,
         'انفيرتر طاقة شمسية 5 كيلو',
         'الأجهزة',
@@ -5787,23 +3008,8 @@ VALUES (
         false,
         41,
         '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         25,
         'ثلاجة سامسونج 3 ضلف',
         'الأجهزة',
@@ -5817,23 +3023,8 @@ VALUES (
         true,
         11,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         49,
         'ميكروويف جديد اجنص',
         'الأجهزة',
@@ -5847,23 +3038,8 @@ VALUES (
         false,
         29,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         4,
         'ماكينة فرم متعددة الاستعمالات',
         'الأجهزة',
@@ -5877,23 +3053,8 @@ VALUES (
         true,
         42,
         '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         13,
         'ميكروويف جديد اجنص',
         'الأجهزة',
@@ -5907,23 +3068,8 @@ VALUES (
         false,
         28,
         '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         48,
         'عجانة 5 لتر صناعة محلية',
         'الأجهزة',
@@ -5937,23 +3083,8 @@ VALUES (
         true,
         44,
         '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         19,
         'ماكينة فرم متعددة الاستعمالات',
         'الأجهزة',
@@ -5967,23 +3098,8 @@ VALUES (
         false,
         34,
         '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         45,
         'شفاط مطابخ',
         'الأجهزة',
@@ -5997,23 +3113,8 @@ VALUES (
         false,
         49,
         '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         49,
         'شاحن بطارية 20 امبير',
         'الأجهزة',
@@ -6027,23 +3128,8 @@ VALUES (
         true,
         32,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         17,
         'فرن كهربائي مع مروحة داخلية',
         'الأجهزة',
@@ -6057,23 +3143,8 @@ VALUES (
         false,
         15,
         '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         21,
         'غسالة فل اوتوماتيك LG',
         'الأجهزة',
@@ -6087,23 +3158,8 @@ VALUES (
         true,
         43,
         '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         46,
         'غسالة فل اوتوماتيك LG',
         'الأجهزة',
@@ -6117,23 +3173,8 @@ VALUES (
         true,
         27,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         2,
         'انفيرتر طاقة شمسية 5 كيلو',
         'الأجهزة',
@@ -6147,23 +3188,8 @@ VALUES (
         false,
         20,
         '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         32,
         'ماكينة فرم متعددة الاستعمالات',
         'الأجهزة',
@@ -6177,23 +3203,8 @@ VALUES (
         false,
         41,
         '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         2,
         'غسالة فل اوتوماتيك LG',
         'الأجهزة',
@@ -6207,23 +3218,8 @@ VALUES (
         true,
         18,
         '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         33,
         'خلاط',
         'الأجهزة',
@@ -6237,23 +3233,8 @@ VALUES (
         true,
         16,
         '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         6,
         'شاحن بطارية 20 امبير',
         'الأجهزة',
@@ -6267,23 +3248,8 @@ VALUES (
         false,
         1,
         '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         18,
         'عجانة 5 لتر صناعة محلية',
         'الأجهزة',
@@ -6297,23 +3263,8 @@ VALUES (
         false,
         20,
         '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         24,
         'عجانة 5 لتر صناعة محلية',
         'الأجهزة',
@@ -6327,23 +3278,8 @@ VALUES (
         false,
         49,
         '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         34,
         'ثلاجة سامسونج 3 ضلف',
         'الأجهزة',
@@ -6357,23 +3293,8 @@ VALUES (
         false,
         42,
         '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         8,
         'شاحن بطارية 20 امبير',
         'الأجهزة',
@@ -6387,23 +3308,8 @@ VALUES (
         true,
         48,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         3,
         'ماكينة فرم متعددة الاستعمالات',
         'الأجهزة',
@@ -6417,23 +3323,8 @@ VALUES (
         false,
         21,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         14,
         'ميكروويف جديد اجنص',
         'الأجهزة',
@@ -6447,23 +3338,8 @@ VALUES (
         false,
         39,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         9,
         'شاحن بطارية 20 امبير',
         'الأجهزة',
@@ -6477,23 +3353,8 @@ VALUES (
         true,
         6,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         15,
         'شفاط مطابخ',
         'الأجهزة',
@@ -6507,23 +3368,8 @@ VALUES (
         true,
         34,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         8,
         'خلاط',
         'الأجهزة',
@@ -6537,23 +3383,8 @@ VALUES (
         true,
         22,
         '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         49,
         'عجانة 5 لتر صناعة محلية',
         'الأجهزة',
@@ -6567,23 +3398,8 @@ VALUES (
         false,
         31,
         '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
-    );
-INSERT INTO products (
-        user_id,
-        name,
-        class,
-        type,
-        post_date,
-        city,
-        phone,
-        description,
-        price,
-        currency,
-        approved,
-        likes,
-        images
-    )
-VALUES (
+    ),
+    (
         5,
         'شاحن بطارية 20 امبير',
         'الأجهزة',
@@ -6599,602 +3415,303 @@ VALUES (
         '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
     );
 INSERT INTO favourite_products (user_id, product_id)
-VALUES (39, 70);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (39, 191);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 179);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (12, 40);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (25, 20);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 112);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (46, 184);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (18, 1);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (29, 22);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (17, 183);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (38, 164);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (12, 67);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (4, 195);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (35, 69);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (48, 206);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (26, 86);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (2, 44);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (19, 188);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 72);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (34, 12);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 25);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (23, 178);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (26, 89);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (1, 50);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 103);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 126);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (35, 209);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (45, 187);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (41, 94);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (2, 118);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (34, 190);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (28, 198);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (31, 29);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (9, 137);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (14, 192);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (45, 13);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (8, 19);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (12, 11);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (40, 37);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (2, 133);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (45, 74);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (5, 45);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (14, 136);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (34, 71);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (39, 48);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (39, 28);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (36, 92);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (38, 43);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (22, 37);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (5, 50);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (33, 172);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 59);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (33, 39);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (25, 107);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (20, 33);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (38, 2);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (44, 189);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (15, 2);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 129);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (12, 79);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (14, 143);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (23, 205);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (29, 107);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (38, 96);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (18, 30);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (24, 94);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (50, 60);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 200);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (47, 63);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (6, 145);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (47, 19);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (21, 208);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (48, 78);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (18, 126);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (50, 32);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (35, 48);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (11, 94);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (12, 92);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (28, 97);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (28, 99);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (12, 153);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (28, 97);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (41, 55);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (39, 34);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (29, 39);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (1, 63);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (40, 151);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (49, 106);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (10, 159);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (12, 48);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (33, 97);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (21, 136);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (23, 119);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (49, 156);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (27, 150);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (22, 84);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (19, 107);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (13, 151);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (4, 60);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (49, 121);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (28, 172);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (15, 185);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (12, 172);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 151);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (45, 120);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (13, 94);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (46, 173);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 156);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 39);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (26, 191);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (19, 41);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (50, 164);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (37, 53);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (36, 185);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (2, 154);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 185);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (22, 208);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (14, 10);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (9, 67);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (18, 21);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (1, 198);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 184);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 90);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 34);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 88);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 199);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (44, 204);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (50, 162);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (27, 58);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (30, 72);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (1, 59);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (2, 86);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (9, 150);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (17, 142);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (14, 162);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (4, 5);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (24, 126);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (47, 198);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (8, 144);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (39, 18);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (23, 89);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (21, 22);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (11, 6);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (29, 118);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (27, 135);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 129);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 188);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (40, 11);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (19, 111);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (41, 73);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (1, 64);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 178);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (35, 60);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (2, 152);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (49, 138);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (1, 208);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (6, 138);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (25, 26);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (9, 191);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (9, 59);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (29, 89);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (31, 30);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (2, 93);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (20, 200);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (34, 35);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (29, 208);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (6, 62);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (4, 73);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (17, 136);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (33, 154);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 119);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (32, 88);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (10, 74);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (26, 121);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (45, 184);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 199);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (47, 173);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (45, 17);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (11, 188);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (11, 112);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (24, 24);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (40, 78);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (35, 68);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (13, 163);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (20, 126);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (44, 186);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (34, 136);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (20, 153);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (35, 182);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (7, 60);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 144);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (15, 205);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (40, 101);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (50, 6);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (50, 125);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (24, 53);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (45, 71);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (10, 7);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (39, 171);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (20, 122);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (19, 117);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 167);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (21, 58);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (47, 161);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (18, 200);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (19, 36);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (29, 38);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (14, 203);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (41, 42);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (23, 101);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (33, 21);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (26, 129);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (6, 192);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (27, 92);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (17, 195);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (47, 185);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (34, 139);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (38, 101);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (35, 47);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (23, 113);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 84);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (1, 101);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (18, 199);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (10, 71);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (15, 179);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 5);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (12, 153);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (22, 53);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (46, 128);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (29, 205);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (39, 188);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (32, 124);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (11, 162);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (25, 176);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (3, 35);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (46, 53);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (34, 108);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (45, 62);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 80);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (38, 28);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (50, 80);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (19, 122);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (29, 207);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (44, 91);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (7, 104);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (9, 120);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (44, 166);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (2, 63);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (2, 58);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (13, 101);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (28, 79);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (4, 152);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (35, 113);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (6, 169);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (47, 167);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 59);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (45, 38);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (28, 98);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (34, 27);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (31, 36);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (29, 146);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (27, 134);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (27, 203);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (33, 94);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (35, 58);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (43, 76);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (40, 90);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (13, 33);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 208);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (45, 10);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (22, 3);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (14, 116);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (36, 109);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (1, 100);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 6);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (44, 138);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (36, 83);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 161);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (50, 95);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (27, 207);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (48, 180);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (27, 205);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (46, 68);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (42, 207);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (16, 40);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (11, 46);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (46, 20);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (36, 139);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (5, 118);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (28, 99);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (7, 96);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (36, 22);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (17, 143);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (28, 123);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (11, 61);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (49, 61);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (9, 125);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (15, 9);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (15, 166);
-INSERT INTO favourite_products (user_id, product_id)
-VALUES (7, 158);
+VALUES (39, 70),
+    (39, 191),
+    (3, 179),
+    (12, 40),
+    (25, 20),
+    (42, 112),
+    (46, 184),
+    (18, 1),
+    (29, 22),
+    (17, 183),
+    (38, 164),
+    (12, 67),
+    (4, 195),
+    (35, 69),
+    (48, 206),
+    (26, 86),
+    (2, 44),
+    (19, 188),
+    (3, 72),
+    (34, 12),
+    (3, 25),
+    (23, 178),
+    (26, 89),
+    (1, 50),
+    (3, 103),
+    (16, 126),
+    (35, 209),
+    (45, 187),
+    (41, 94),
+    (2, 118),
+    (34, 190),
+    (28, 198),
+    (31, 29),
+    (9, 137),
+    (14, 192),
+    (45, 13),
+    (8, 19),
+    (12, 11),
+    (40, 37),
+    (2, 133),
+    (45, 74),
+    (5, 45),
+    (14, 136),
+    (34, 71),
+    (39, 48),
+    (39, 28),
+    (36, 92),
+    (38, 43),
+    (22, 37),
+    (5, 50),
+    (33, 172),
+    (16, 59),
+    (33, 39),
+    (25, 107),
+    (20, 33),
+    (38, 2),
+    (44, 189),
+    (15, 2),
+    (3, 129),
+    (12, 79),
+    (14, 143),
+    (23, 205),
+    (29, 107),
+    (38, 96),
+    (18, 30),
+    (24, 94),
+    (50, 60),
+    (42, 200),
+    (47, 63),
+    (6, 145),
+    (47, 19),
+    (21, 208),
+    (48, 78),
+    (18, 126),
+    (50, 32),
+    (35, 48),
+    (11, 94),
+    (12, 92),
+    (28, 97),
+    (28, 99),
+    (12, 153),
+    (28, 97),
+    (41, 55),
+    (39, 34),
+    (29, 39),
+    (1, 63),
+    (40, 151),
+    (49, 106),
+    (10, 159),
+    (12, 48),
+    (33, 97),
+    (21, 136),
+    (23, 119),
+    (49, 156),
+    (27, 150),
+    (22, 84),
+    (19, 107),
+    (13, 151),
+    (4, 60),
+    (49, 121),
+    (28, 172),
+    (15, 185),
+    (12, 172),
+    (3, 151),
+    (45, 120),
+    (13, 94),
+    (46, 173),
+    (42, 156),
+    (3, 39),
+    (26, 191),
+    (19, 41),
+    (50, 164),
+    (37, 53),
+    (36, 185),
+    (2, 154),
+    (16, 185),
+    (22, 208),
+    (14, 10),
+    (9, 67),
+    (18, 21),
+    (1, 198),
+    (16, 184),
+    (42, 90),
+    (16, 34),
+    (42, 88),
+    (3, 199),
+    (44, 204),
+    (50, 162),
+    (27, 58),
+    (30, 72),
+    (1, 59),
+    (2, 86),
+    (9, 150),
+    (17, 142),
+    (14, 162),
+    (4, 5),
+    (24, 126),
+    (47, 198),
+    (8, 144),
+    (39, 18),
+    (23, 89),
+    (21, 22),
+    (11, 6),
+    (29, 118),
+    (27, 135),
+    (42, 129),
+    (3, 188),
+    (40, 11),
+    (19, 111),
+    (41, 73),
+    (1, 64),
+    (42, 178),
+    (35, 60),
+    (2, 152),
+    (49, 138),
+    (1, 208),
+    (6, 138),
+    (25, 26),
+    (9, 191),
+    (9, 59),
+    (29, 89),
+    (31, 30),
+    (2, 93),
+    (20, 200),
+    (34, 35),
+    (29, 208),
+    (6, 62),
+    (4, 73),
+    (17, 136),
+    (33, 154),
+    (16, 119),
+    (32, 88),
+    (10, 74),
+    (26, 121),
+    (45, 184),
+    (16, 199),
+    (47, 173),
+    (45, 17),
+    (11, 188),
+    (11, 112),
+    (24, 24),
+    (40, 78),
+    (35, 68),
+    (13, 163),
+    (20, 126),
+    (44, 186),
+    (34, 136),
+    (20, 153),
+    (35, 182),
+    (7, 60),
+    (3, 144),
+    (15, 205),
+    (40, 101),
+    (50, 6),
+    (50, 125),
+    (24, 53),
+    (45, 71),
+    (10, 7),
+    (39, 171),
+    (20, 122),
+    (19, 117),
+    (42, 167),
+    (21, 58),
+    (47, 161),
+    (18, 200),
+    (19, 36),
+    (29, 38),
+    (14, 203),
+    (41, 42),
+    (23, 101),
+    (33, 21),
+    (26, 129),
+    (6, 192),
+    (27, 92),
+    (17, 195),
+    (47, 185),
+    (34, 139),
+    (38, 101),
+    (35, 47),
+    (23, 113),
+    (3, 84),
+    (1, 101),
+    (18, 199),
+    (10, 71),
+    (15, 179),
+    (3, 5),
+    (12, 153),
+    (22, 53),
+    (46, 128),
+    (29, 205),
+    (39, 188),
+    (32, 124),
+    (11, 162),
+    (25, 176),
+    (3, 35),
+    (46, 53),
+    (34, 108),
+    (45, 62),
+    (42, 80),
+    (38, 28),
+    (50, 80),
+    (19, 122),
+    (29, 207),
+    (44, 91),
+    (7, 104),
+    (9, 120),
+    (44, 166),
+    (2, 63),
+    (2, 58),
+    (13, 101),
+    (28, 79),
+    (4, 152),
+    (35, 113),
+    (6, 169),
+    (47, 167),
+    (16, 59),
+    (45, 38),
+    (28, 98),
+    (34, 27),
+    (31, 36),
+    (29, 146),
+    (27, 134),
+    (27, 203),
+    (33, 94),
+    (35, 58),
+    (43, 76),
+    (40, 90),
+    (13, 33),
+    (42, 208),
+    (45, 10),
+    (22, 3),
+    (14, 116),
+    (36, 109),
+    (1, 100),
+    (16, 6),
+    (44, 138),
+    (36, 83),
+    (16, 161),
+    (50, 95),
+    (27, 207),
+    (48, 180),
+    (27, 205),
+    (46, 68),
+    (42, 207),
+    (16, 40),
+    (11, 46),
+    (46, 20),
+    (36, 139),
+    (5, 118),
+    (28, 99),
+    (7, 96),
+    (36, 22),
+    (17, 143),
+    (28, 123),
+    (11, 61),
+    (49, 61),
+    (9, 125),
+    (15, 9),
+    (15, 166),
+    (7, 158);
