@@ -1,5 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900&display=swap');
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
+body {
+  font-family: 'Cairo', sans-serif !important;
+}
+/* make the customizations */
+$theme-colors: (
+  "primary":    #1a6e9a,
+  "hoverPrimary": #CFCED3,
+  "secondary":  #E96958,
+  "success":    #188754,
+  "info":       #0DCAF0,
+  "warning":    #FFC107,
+  "danger":     #DC3545,
+  "light":      #F8F9FA,
+  "dark":       #212529,
+  "titleColor": #333333,
+  "subtitleColor": #7c8284,
+  "bgColor": #eef4fc
+);
+
+/* import bootstrap to set changes */
+@import "~bootstrap/scss/bootstrap";
