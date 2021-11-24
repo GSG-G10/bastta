@@ -7,6 +7,7 @@ const {
 
 const {
   getOneProduct,
+  getDashboardProducts,
 } = require('./products');
 
 const {
@@ -21,4 +22,5 @@ module.exports = {
   serverError,
   productToFav,
   getOneProduct,
+  getDashboardProducts,
 };
