@@ -2,11 +2,13 @@ const router = require('express').Router();
 
 const {
   userLogout,
+  serverError,
   adminLogout,
   clientError,
-  serverError,
+  getOneProduct,
 } = require('../controllers');
 
+router.get('/products/:productId', getOneProduct);
 router.get('/logout', userLogout);
 router.get('/admin/logout', adminLogout);
 
