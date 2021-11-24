@@ -29,4 +29,25 @@ describe('Server Tests', () => {
     return expect(expected).toEqual(res.body);
   });
   /// //////////////////////////////////////////////////////
+  test('test user logout route /logout', async () => {
+    const res = await request(app)
+      .get('/api/v1/logout')
+      .expect(200)
+      .expect('Content-Type', /json/);
+    const expected = {
+      message: 'Signed out succefully',
+    };
+    return expect(expected).toEqual(res.body);
+  });
+  /// //////////////////////////////////////////////////////
+  test('test admin logout route /admin/logout', async () => {
+    const res = await request(app)
+      .get('/api/v1/admin/logout')
+      .expect(200)
+      .expect('Content-Type', /json/);
+    const expected = {
+      message: 'Signed out succefully',
+    };
+    return expect(expected).toEqual(res.body);
+  });
 });
