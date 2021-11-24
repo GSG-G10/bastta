@@ -1,4 +1,4 @@
-const connection = require('../connection');
+const connection = require('../../connection');
 
 module.exports = async (status) => {
   const visibilty = status === 'public' ? 'true' : 'false';

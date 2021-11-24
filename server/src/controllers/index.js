@@ -11,11 +11,16 @@ const {
 } = require('./products');
 
 const {
+  getUsers,
+} = require('./users');
+
+const {
   clientError,
   serverError,
 } = require('./errors');
 
 module.exports = {
+  getUsers,
   userLogout,
   adminLogout,
   clientError,
