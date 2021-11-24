@@ -1,6 +1,7 @@
 const router = require('express').Router();
 
 const {
+  getUsers,
   userLogout,
   serverError,
   adminLogout,
@@ -17,6 +18,7 @@ const {
 router.get('/products/:productId', getOneProduct);
 
 router.get('/admin/products', checkAdmin, getDashboardProducts);
+router.get('/admin/users', checkAdmin, getUsers);
 
 router.get('/logout', userLogout);
 router.get('/admin/logout', adminLogout);

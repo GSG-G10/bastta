@@ -1,10 +1,16 @@
-const { newFavorites } = require('./products');
+const {
+  newFavorites,
+  findProductById,
+  getDashboardProductsQuery,
+} = require('./products');
 
-const findProductById = require('./find-product-by-id');
-const getDashboardProductsQuery = require('./get-dashboard-products');
+const {
+  getAllUsersQuery,
+} = require('./users');
 
 module.exports = {
-  findProductById,
   newFavorites,
+  findProductById,
+  getAllUsersQuery,
   getDashboardProductsQuery,
 };
