@@ -5,7 +5,7 @@ import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 import BgSlider from '../../assets/bg-slider.png';
 import Code from '../../assets/code.jpg';
-import './style.css';
+import './style.scss';
 
 const SampleNextArrow = (props) => {
   const { className, style, onClick } = props;
