@@ -5,36 +5,35 @@ name: Node.js CI
 
 on:
   pull_request:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     strategy:
       matrix:
         node-version: [12.x, 14.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-      services:
-      - postgresql
+        services:
+          - postgresql
         before_script:
           - psql -c "CREATE DATABASE basttatest;" -U postgres
           - psql -c "CREATE USER organizer2 WITH PASSWORD '123456';" -U postgres
-          
+
         env:
           global:
             - PGPORT=5432
-test:
-  adapter: postgresql
-  database: basttatest
+        test:
+          adapter: postgresql
+          database: basttatest
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v2
-      with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
-    - run: npm ci
-    - run: npm run build --if-present
-    - run: npm test
+      - uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "npm"
+      - run: npm ci
+      - run: npm run build --if-present
+      - run: npm test
