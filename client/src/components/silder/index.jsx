@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
-import BgSlider from '../../assets/bg-slider.png';
+import BgSlider from '../../assets/bg-slider.jpg';
 import Code from '../../assets/code.jpg';
 import './style.scss';
 
