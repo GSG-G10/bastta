@@ -8,14 +8,12 @@ const setFavorite = async (userId, productId) => {
   VALUES ($1, $2)`,
     [userId, productId],
   );
-  const updateLikes = () => connection.query(
+  const { rows } = await connection.query(
     `
-  UPDATE products SET likes = likes +1 WHERE  products.id = $1 RETURNING id,likes
-  `,
+  UPDATE products SET likes = likes +1 WHERE  products.id = $1 RETURNING id,likes`,
     [productId],
   );
-  await inserToFavorite;
-  const { rows } = await updateLikes();
+  inserToFavorite();
   return rows[0];
 };
 
