@@ -5,6 +5,7 @@ const {
 
 const {
   getOneProduct,
+  getDashboardProducts,
 } = require('./products');
 
 const {
@@ -18,4 +19,5 @@ module.exports = {
   clientError,
   serverError,
   getOneProduct,
+  getDashboardProducts,
 };
