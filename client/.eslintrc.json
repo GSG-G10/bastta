@@ -32,6 +32,13 @@
           "namedComponents": "arrow-function",
           "unnamedComponents": "arrow-function"
         }
-    ]
+    ],
+    "react/prefer-stateless-function": [0, { "ignorePureComponents": true }],
+
+    "react/jsx-props-no-spreading": [0
+      , {
+      "html": "ignore" 
+  }]
+
    }
 }

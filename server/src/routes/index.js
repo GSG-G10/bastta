@@ -5,6 +5,7 @@ const {
   serverError,
   adminLogout,
   clientError,
+  productToFav,
   getOneProduct,
   getDashboardProducts,
 } = require('../controllers');
@@ -19,6 +20,8 @@ router.get('/admin/products', checkAdmin, getDashboardProducts);
 
 router.get('/logout', userLogout);
 router.get('/admin/logout', adminLogout);
+
+router.post('/products/favorites', productToFav);
 
 router.use(clientError);
 router.use(serverError);
