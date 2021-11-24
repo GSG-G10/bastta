@@ -6,9 +6,13 @@ module.exports = async (req, res, next) => {
     if (status) {
       if (status.toLowerCase() === 'public' || status.toLowerCase() === 'pending') {
         const products = await getDashboardProductsQuery(status);
-        return products.length > 0 ? res.json(products) : res.json({ message: 'No products' });
+        return products.length > 0
+          ? res.json(products)
+          : res.json({ message: 'No products' });
       }
-      return res.status(400).json({ message: 'Invalid status' });
+      return res
+        .status(400)
+        .json({ message: 'Invalid status' });
     }
     res.status(400).json({ message: 'Bad Request' });
   } catch (error) {
