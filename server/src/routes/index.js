@@ -5,12 +5,15 @@ const {
   serverError,
   adminLogout,
   clientError,
+  productToFav,
   getOneProduct,
 } = require('../controllers');
 
 router.get('/products/:productId', getOneProduct);
 router.get('/logout', userLogout);
 router.get('/admin/logout', adminLogout);
+
+router.post('/products/favorites', productToFav);
 
 router.use(clientError);
 router.use(serverError);

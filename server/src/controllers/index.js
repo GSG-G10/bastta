@@ -1,3 +1,5 @@
+const { productToFav } = require('./products');
+
 const {
   userLogout,
   adminLogout,
@@ -17,5 +19,6 @@ module.exports = {
   adminLogout,
   clientError,
   serverError,
+  productToFav,
   getOneProduct,
 };
