@@ -14,9 +14,20 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [12.x, 14.x, 16.x]
+        node-version: [12.x, 14.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
+      services:
+      - postgresql
+        before_script:
+          - psql -c "CREATE DATABASE basttatest;" -U postgres
+          - psql -c "CREATE USER organizer2 WITH PASSWORD '123456';" -U postgres
+          
+        env:
+          global:
+            - PGPORT=5432
+test:
+  adapter: postgresql
+  database: artistdev
     steps:
     - uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
