@@ -1,3 +1,8 @@
 const { newFavorites } = require('./products');
 
-module.exports = { newFavorites };
+const findProductById = require('./find-product-by-id');
+
+module.exports = {
+  findProductById,
+  newFavorites,
+};

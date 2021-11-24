@@ -6,6 +6,10 @@ const {
 } = require('./auth');
 
 const {
+  getOneProduct,
+} = require('./products');
+
+const {
   clientError,
   serverError,
 } = require('./errors');
@@ -16,4 +20,5 @@ module.exports = {
   clientError,
   serverError,
   productToFav,
+  getOneProduct,
 };

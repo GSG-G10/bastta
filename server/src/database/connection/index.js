@@ -21,7 +21,6 @@ switch (NODE_ENV) {
   default:
     throw new Error('NO DATABASE URL Founded !');
 }
-
 const options = {
   connectionString: dbUrl,
   ssl: {
