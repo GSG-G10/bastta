@@ -10,6 +10,4 @@ const dbBuilder = () => {
   return connection.query(sql);
 };
 
-dbBuilder();
-
 module.exports = dbBuilder;
