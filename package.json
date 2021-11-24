@@ -6,7 +6,7 @@
   "scripts": {
     "start": "NODE_ENV=production node server/src/index.js",
     "dev": "NODE_ENV=development nodemon server/src/index.js",
-    "test": " NODE_ENV=test jest --detectOpenHandles --coverage",
+    "test": " NODE_ENV=test jest --coverage",
     "heroku-postbuild": "cd client && npm install && npm run build"
   },
   "repository": {
@@ -26,6 +26,7 @@
     "eslint-plugin-import": "^2.25.3",
     "jest": "^27.3.1",
     "nodemon": "^2.0.15",
+    "pre-commit": "^1.2.2",
     "supertest": "^6.1.6"
   },
   "dependencies": {
@@ -39,5 +40,8 @@
     "jsonwebtoken": "^8.5.1",
     "pg": "^8.7.1",
     "socket.io": "^4.4.0"
-  }
+  },
+  "pre-commit": [
+    "test"
+  ]
 }
