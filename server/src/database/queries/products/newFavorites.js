@@ -8,35 +8,15 @@ const setFavorite = async (userId, productId) => {
   VALUES ($1, $2)`,
     [userId, productId],
   );
-  const totalLikes = () => connection.query(
+  const updateLikes = () => connection.query(
     `
-  select
-  favourite_products.product_id,
-  count(products.likes) as likes
-  from favourite_products
-  inner join products
-  ON
-  products.id = favourite_products.product_id
-  and
-  favourite_products.product_id = $1
-  group by favourite_products.product_id
-  order by likes desc
+  UPDATE products SET likes = likes +1 WHERE  products.id = $1 RETURNING id,likes
   `,
     [productId],
   );
-  const updateLikes = (id, likes) => connection.query(
-    `
-  update products set likes = $2 where  products.id = $1 returning id,likes
-  `,
-    [id, likes],
-  );
-  const favoritesProccess = await Promise.all([
-    inserToFavorite(),
-    totalLikes(),
-  ]);
-  const insertResult = favoritesProccess[1].rows[0];
-  const updateResult = updateLikes(insertResult.product_id, insertResult.likes);
-  return (await updateResult).rows[0];
+  await inserToFavorite;
+  const { rows } = await updateLikes();
+  return rows[0];
 };
 
 module.exports = setFavorite;
