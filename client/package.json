@@ -11,6 +11,7 @@
     "@mui/material": "^5.0.6",
     "@mui/styles": "^5.0.2",
     "axios": "^0.24.0",
+    "node-sass": "^6.0.1",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",

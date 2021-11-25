@@ -1,26 +1,7 @@
 import { createTheme } from '@mui/material/styles';
 
-/* const theme = createTheme({
-  direction: 'rtl',
-  palette: {
-    primary: {
-      main: '#000',
-    },
-    secondary: {
-      main: '#edf2ff',
-    },
-    // titleColor: {
-    //   main: '#333333',
-    // },
-    // subtitleColor: {
-    //   main: '#7c8284',
-    // },
-    // bgColor: {
-    //   main: '#eef4fc',
-    // },
-  },
-}); */
 const theme = createTheme({
+  direction: 'rtl',
   palette: {
     primary: { main: '#1a6e9a' },
     hoverPrimary: { main: '#CFCED3' },
