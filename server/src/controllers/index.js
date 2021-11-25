@@ -2,11 +2,13 @@ const { productToFav } = require('./products');
 
 const {
   userLogout,
+  adminLogin,
   adminLogout,
 } = require('./auth');
 
 const {
   getOneProduct,
+  getLandingProducts,
   getDashboardProducts,
 } = require('./products');
 
@@ -22,6 +24,7 @@ const {
 
 module.exports = {
   getUsers,
+  adminLogin,
   userLogout,
   deleteUser,
   adminLogout,
@@ -29,5 +32,6 @@ module.exports = {
   serverError,
   productToFav,
   getOneProduct,
+  getLandingProducts,
   getDashboardProducts,
 };
