@@ -19,7 +19,7 @@ const {
 router.get('/products/:productId', getOneProduct);
 
 router.get('/admin/users', checkAdmin, getUsers);
-router.get('/admin/logout', checkAdmin, adminLogout);
+router.get('/admin/logout', adminLogout);
 router.delete('/admin/users/:userId', checkAdmin, deleteUser);
 router.get('/admin/products', checkAdmin, getDashboardProducts);
 
