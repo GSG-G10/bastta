@@ -6,9 +6,14 @@ module.exports = async (req, res, next) => {
 
     if (Number(productId) > 0) {
       const product = await findProductById(productId);
-      if (!product || product.approved === false) {
+      if (!product) {
         return res.status(404).json({
           message: 'Product not found',
+        });
+      }
+      if (product.approved === false) {
+        return res.json({
+          message: 'Product is in the waiting list',
         });
       }
       return res.json({
@@ -16,7 +21,7 @@ module.exports = async (req, res, next) => {
         data: product,
       });
     }
-    return res.status(400).json({ message: 'Bad Request' });
+    return res.status(400).json({ message: 'Invalid product id' });
   } catch (err) {
     return next(err);
   }

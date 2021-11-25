@@ -18,6 +18,7 @@ module.exports = async (req, res, next) => {
       await publishProductQuery(productId);
       return res.status(200).json({ message: 'Product published successfuly' });
     }
+    res.status(400).json({ message: 'Invalid product id' });
   } catch (error) {
     return next(error);
   }

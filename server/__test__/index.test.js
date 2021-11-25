@@ -71,7 +71,7 @@ describe('Server Tests', () => {
       .get('/api/v1/products/notfound')
       .expect(400)
       .expect('Content-Type', /json/);
-    const expected = 'Bad Request';
+    const expected = 'Invalid product id';
     return expect(expected).toEqual(res.body.message);
   });
   /// //////////////////////////////////////////////////////
