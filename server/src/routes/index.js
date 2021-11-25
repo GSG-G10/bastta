@@ -13,10 +13,10 @@ const {
 } = require('../controllers');
 
 const {
-  checkAdmin,
+  checkAdmin, checkSignIn,
 } = require('../middlewares');
 
-router.delete('/products/favorites/:productId', deleteFav);
+router.delete('/products/favorites/:productId', checkSignIn, deleteFav);
 router.get('/products/:productId', getOneProduct);
 
 router.get('/admin/products', checkAdmin, getDashboardProducts);
