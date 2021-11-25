@@ -6,6 +6,7 @@ const {
 } = require('./auth');
 
 const {
+  deleteFav,
   getOneProduct,
   getDashboardProducts,
 } = require('./products');
@@ -21,6 +22,7 @@ const {
 
 module.exports = {
   getUsers,
+  deleteFav,
   userLogout,
   adminLogout,
   clientError,

@@ -2,6 +2,7 @@ const router = require('express').Router();
 
 const {
   getUsers,
+  deleteFav,
   userLogout,
   serverError,
   adminLogout,
@@ -15,6 +16,7 @@ const {
   checkAdmin,
 } = require('../middlewares');
 
+router.delete('/products/favorites/:productId', deleteFav);
 router.get('/products/:productId', getOneProduct);
 
 router.get('/admin/products', checkAdmin, getDashboardProducts);
