@@ -8,11 +8,15 @@ const {
 } = require('./products');
 
 const {
+  findUserById,
+  removeUserQuery,
   getAllUsersQuery,
 } = require('./users');
 
 module.exports = {
   newFavorites,
+  findUserById,
+  removeUserQuery,
   findProductById,
   getLandingProducts,
   getProductsBySection,
