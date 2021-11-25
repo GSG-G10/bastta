@@ -37,7 +37,7 @@ describe('Server Tests', () => {
   /// //////////////////////////////////////////////////////
   test('test user logout route /logout', async () => {
     const res = await request(app)
-      .get('/api/v1/logout')
+      .get('/api/v1/users/logout')
       .expect(200)
       .expect('Content-Type', /json/);
     const expected = {
@@ -59,7 +59,7 @@ describe('Server Tests', () => {
   /// //////////////////////////////////////////////////////
   test('test get one product route /products/:productId', async () => {
     const res = await request(app)
-      .get('/api/v1/products/1')
+      .get('/api/v1/products/2')
       .expect(200)
       .expect('Content-Type', /json/);
     const expected = 'Product found';
@@ -75,6 +75,13 @@ describe('Server Tests', () => {
     return expect(expected).toEqual(res.body.message);
   });
   /// //////////////////////////////////////////////////////
+  test('test 200 status get landing page products filtered by section route', async () => {
+    const res = await request(app)
+      .get('/api/v1/products/public?section=recent&limit=5')
+      .expect(200)
+      .expect('Content-Type', /json/);
+    return expect(res.body.message).toBe('Products Imported Successfuly');
+  });
   test('test get dashboard products route error not auth /admin/products?status=', async () => {
     const res = await request(app)
       .get('/api/v1/admin/products?status=pending')
@@ -125,7 +132,7 @@ describe('Server Tests', () => {
     return expect(res.body.message).toBe('You don\'t have permission to delete this product');
   });
 });
-
+/// //////////////////////////////////////////////////////
 describe('favorites', () => {
   test('post favorites 200', async () => {
     const res = await request(app)
@@ -137,5 +144,35 @@ describe('favorites', () => {
       });
 
     return expect(res.body.message).toEqual('Added to favorites successfully');
+  });
+  /// Test Delete from favorites route
+  test('Delete from Favorites 200', async () => {
+    const res = await request(app)
+      .delete('/api/v1/products/favorites/48')
+      .expect(200)
+      .send({
+        userId: 12,
+      });
+    return expect(res.body.message).toBe('Product Deleted From Favorites Successfuly');
+  });
+  /// /////////////////////////////////////////////////////
+  test('Delete from Favourites 400 product dosn\'t exist', async () => {
+    const res = await request(app)
+      .delete('/api/v1/products/favorites/900')
+      .expect(400)
+      .send({
+        userId: 12,
+      });
+    return expect(res.body.message).toBe('Product Doesn\'t Exist in Favorites');
+  });
+  /// ////////////////////////////////////////////
+  test('Delete from Favourites 400 Bad request', async () => {
+    const res = await request(app)
+      .delete('/api/v1/products/favorites/string')
+      .expect(400)
+      .send({
+        userId: 12,
+      });
+    return expect(res.body.message).toBe('Bad Request');
   });
 });

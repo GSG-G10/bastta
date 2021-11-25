@@ -1,31 +1,14 @@
 const router = require('express').Router();
 
-const {
-  getUsers,
-  userLogout,
-  serverError,
-  adminLogout,
-  clientError,
-  productToFav,
-  deleteProduct,
-  getOneProduct,
-  getDashboardProducts,
-} = require('../controllers');
+const usersRoutes = require('./users');
+const adminRoutes = require('./admin');
+const productsRoutes = require('./products');
 
-const {
-  checkAdmin,
-} = require('../middlewares');
+const { serverError, clientError } = require('../controllers');
 
-router.get('/products/:productId', getOneProduct);
-router.delete('/products/:productId', deleteProduct);
-
-router.get('/admin/products', checkAdmin, getDashboardProducts);
-router.get('/admin/users', checkAdmin, getUsers);
-
-router.get('/logout', userLogout);
-router.get('/admin/logout', adminLogout);
-
-router.post('/products/favorites', productToFav);
+router.use('/users', usersRoutes);
+router.use('/admin', adminRoutes);
+router.use('/products', productsRoutes);
 
 router.use(clientError);
 router.use(serverError);
