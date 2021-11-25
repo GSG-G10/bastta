@@ -15,6 +15,7 @@ const {
 
 const {
   getUsers,
+  deleteUser,
 } = require('./users');
 
 const {
@@ -27,6 +28,7 @@ module.exports = {
   deleteFav,
   adminLogin,
   userLogout,
+  deleteUser,
   adminLogout,
   clientError,
   serverError,
