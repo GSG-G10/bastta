@@ -12,6 +12,7 @@ const {
 
 const {
   getUsers,
+  deleteUser,
 } = require('./users');
 
 const {
@@ -22,6 +23,7 @@ const {
 module.exports = {
   getUsers,
   userLogout,
+  deleteUser,
   adminLogout,
   clientError,
   serverError,

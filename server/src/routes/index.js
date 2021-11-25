@@ -2,6 +2,7 @@ const router = require('express').Router();
 
 const {
   getUsers,
+  deleteUser,
   userLogout,
   serverError,
   adminLogout,
@@ -17,11 +18,12 @@ const {
 
 router.get('/products/:productId', getOneProduct);
 
-router.get('/admin/products', checkAdmin, getDashboardProducts);
 router.get('/admin/users', checkAdmin, getUsers);
+router.get('/admin/logout', checkAdmin, adminLogout);
+router.delete('/admin/users/:userId', checkAdmin, deleteUser);
+router.get('/admin/products', checkAdmin, getDashboardProducts);
 
 router.get('/logout', userLogout);
-router.get('/admin/logout', adminLogout);
 
 router.post('/products/favorites', productToFav);
 
