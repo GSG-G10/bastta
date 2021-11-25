@@ -15,6 +15,6 @@ router.get('/public', getLandingProducts);
 router.get('/:productId', getOneProduct);
 
 router.delete('/favorites/:productId', checkSignIn, deleteFav);
-router.delete('/:productId', deleteProduct);
+router.delete('/:productId', checkSignIn, deleteProduct);
 
 module.exports = router;
