@@ -6,8 +6,10 @@ const {
   adminLogout,
   clientError,
   getOneProduct,
+  getLandingProducts,
 } = require('../controllers');
 
+router.get('/products/public', getLandingProducts);
 router.get('/products/:productId', getOneProduct);
 router.get('/logout', userLogout);
 router.get('/admin/logout', adminLogout);
