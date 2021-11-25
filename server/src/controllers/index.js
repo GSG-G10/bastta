@@ -7,6 +7,7 @@ const {
 
 const {
   getOneProduct,
+  getLandingProducts,
   getDashboardProducts,
 } = require('./products');
 
@@ -27,5 +28,6 @@ module.exports = {
   serverError,
   productToFav,
   getOneProduct,
+  getLandingProducts,
   getDashboardProducts,
 };

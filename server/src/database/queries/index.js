@@ -1,6 +1,9 @@
 const {
   newFavorites,
+  getAllProducts,
   findProductById,
+  getLandingProducts,
+  getProductsBySection,
   getDashboardProductsQuery,
 } = require('./products');
 
@@ -11,6 +14,9 @@ const {
 module.exports = {
   newFavorites,
   findProductById,
+  getLandingProducts,
+  getProductsBySection,
+  getAllProducts,
   getAllUsersQuery,
   getDashboardProductsQuery,
 };

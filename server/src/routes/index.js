@@ -8,6 +8,7 @@ const {
   clientError,
   productToFav,
   getOneProduct,
+  getLandingProducts,
   getDashboardProducts,
 } = require('../controllers');
 
@@ -15,6 +16,7 @@ const {
   checkAdmin,
 } = require('../middlewares');
 
+router.get('/products/public', getLandingProducts);
 router.get('/products/:productId', getOneProduct);
 
 router.get('/admin/products', checkAdmin, getDashboardProducts);
