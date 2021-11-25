@@ -59,7 +59,7 @@ describe('Server Tests', () => {
   /// //////////////////////////////////////////////////////
   test('test get one product route /products/:productId', async () => {
     const res = await request(app)
-      .get('/api/v1/products/1')
+      .get('/api/v1/products/2')
       .expect(200)
       .expect('Content-Type', /json/);
     const expected = 'Product found';
@@ -84,6 +84,8 @@ describe('Server Tests', () => {
     return expect(expected).toEqual(res.body.message);
   });
 });
+/// //////////////////////////////////////////////////////
+
 describe('favorites', () => {
   test('post favorites 200', async () => {
     const res = await request(app)
@@ -97,3 +99,4 @@ describe('favorites', () => {
     return expect(res.body.message).toEqual('Added to favorites successfully');
   });
 });
+/// //////////////////////////////////////////////////////
