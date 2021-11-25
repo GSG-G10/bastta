@@ -8,6 +8,7 @@ const {
 const {
   getOneProduct,
   getDashboardProducts,
+  deleteProduct,
 } = require('./products');
 
 const {
@@ -26,6 +27,7 @@ module.exports = {
   clientError,
   serverError,
   productToFav,
+  deleteProduct,
   getOneProduct,
   getDashboardProducts,
 };

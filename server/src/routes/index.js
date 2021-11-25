@@ -7,6 +7,7 @@ const {
   adminLogout,
   clientError,
   productToFav,
+  deleteProduct,
   getOneProduct,
   getDashboardProducts,
 } = require('../controllers');
@@ -16,6 +17,7 @@ const {
 } = require('../middlewares');
 
 router.get('/products/:productId', getOneProduct);
+router.delete('/products/:productId', deleteProduct);
 
 router.get('/admin/products', checkAdmin, getDashboardProducts);
 router.get('/admin/users', checkAdmin, getUsers);
