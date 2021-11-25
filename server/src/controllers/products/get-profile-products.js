@@ -21,6 +21,7 @@ module.exports = async (req, res, next) => {
           approved,
           pending: pending.length,
         },
+        message: 'Products import successfully',
       });
     }
     return res

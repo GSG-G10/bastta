@@ -90,6 +90,24 @@ describe('Server Tests', () => {
     const expected = 'You are not authorized to perform this action.';
     return expect(expected).toEqual(res.body.message);
   });
+
+  /// // *********** profile products ************************
+  test('get profile products 200', async () => {
+    const res = await request(app)
+      .get('/api/v1/products/profile/2')
+      .expect(200)
+      .expect('Content-Type', /json/);
+    const expected = 'Products import successfully';
+    return expect(expected).toEqual(res.body.message);
+  });
+  test('get profile products 400 bad requuest', async () => {
+    const res = await request(app)
+      .get('/api/v1/products/profile/string')
+      .expect(400)
+      .expect('Content-Type', /json/);
+    const expected = 'Bad Request';
+    return expect(expected).toEqual(res.body.message);
+  });
 });
 /// //////////////////////////////////////////////////////
 describe('favorites', () => {
@@ -105,4 +123,3 @@ describe('favorites', () => {
     return expect(res.body.message).toEqual('Added to favorites successfully');
   });
 });
-/// //////////////////////////////////////////////////////
