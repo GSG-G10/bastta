@@ -7,6 +7,7 @@
     "start": "NODE_ENV=production node server/src/index.js",
     "dev": "NODE_ENV=development nodemon server/src/index.js",
     "test": " NODE_ENV=test jest --coverage",
+    "client": "cd client && npm start",
     "heroku-postbuild": "cd client && npm install && npm run build"
   },
   "repository": {

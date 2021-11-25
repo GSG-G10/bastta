@@ -1,9 +1,10 @@
+import { Container } from '../../mui-modules';
 import SliderHome from '../../components';
 
 const Home = () => (
-  <div className="container">
+  <Container maxWidth="xl">
     <SliderHome />
-  </div>
+  </Container>
 );
 
 export default Home;
