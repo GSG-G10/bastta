@@ -5,6 +5,7 @@ const {
 } = require('./auth');
 
 const {
+  deleteFav,
   productToFav,
   getOneProduct,
   publishProduct,
@@ -24,6 +25,7 @@ const {
 
 module.exports = {
   getUsers,
+  deleteFav,
   adminLogin,
   userLogout,
   deleteUser,

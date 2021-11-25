@@ -91,18 +91,3 @@ describe('Server Tests', () => {
     return expect(expected).toEqual(res.body.message);
   });
 });
-/// //////////////////////////////////////////////////////
-describe('favorites', () => {
-  test('post favorites 200', async () => {
-    const res = await request(app)
-      .post('/api/v1//products/favorites')
-      .expect(200)
-      .send({
-        userId: 1,
-        productId: 1,
-      });
-
-    return expect(res.body.message).toEqual('Added to favorites successfully');
-  });
-});
-/// //////////////////////////////////////////////////////
