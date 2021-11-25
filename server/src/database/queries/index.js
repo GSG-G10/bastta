@@ -3,6 +3,7 @@ const {
   getAllProducts,
   findProductById,
   getLandingProducts,
+  profileProductsQuery,
   getProductsBySection,
   getDashboardProductsQuery,
 } = require('./products');
@@ -16,11 +17,12 @@ const {
 module.exports = {
   newFavorites,
   findUserById,
+  getAllProducts,
   removeUserQuery,
   findProductById,
-  getLandingProducts,
-  getProductsBySection,
-  getAllProducts,
   getAllUsersQuery,
+  getLandingProducts,
+  profileProductsQuery,
+  getProductsBySection,
   getDashboardProductsQuery,
 };
