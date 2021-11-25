@@ -3,6 +3,7 @@ const router = require('express').Router();
 const {
   getUsers,
   deleteFav,
+  adminLogin,
   userLogout,
   serverError,
   adminLogout,
@@ -26,6 +27,7 @@ router.get('/admin/users', checkAdmin, getUsers);
 
 router.get('/logout', userLogout);
 router.get('/admin/logout', adminLogout);
+router.post('/admin/login', adminLogin);
 
 router.post('/products/favorites', productToFav);
 

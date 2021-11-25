@@ -2,6 +2,7 @@ const { productToFav } = require('./products');
 
 const {
   userLogout,
+  adminLogin,
   adminLogout,
 } = require('./auth');
 
@@ -24,6 +25,7 @@ const {
 module.exports = {
   getUsers,
   deleteFav,
+  adminLogin,
   userLogout,
   adminLogout,
   clientError,
