@@ -59,7 +59,7 @@ describe('Server Tests', () => {
   /// //////////////////////////////////////////////////////
   test('test get one product route /products/:productId', async () => {
     const res = await request(app)
-      .get('/api/v1/products/1')
+      .get('/api/v1/products/2')
       .expect(200)
       .expect('Content-Type', /json/);
     const expected = 'Product found';
@@ -75,6 +75,13 @@ describe('Server Tests', () => {
     return expect(expected).toEqual(res.body.message);
   });
   /// //////////////////////////////////////////////////////
+  test('test 200 status get landing page products filtered by section route', async () => {
+    const res = await request(app)
+      .get('/api/v1/products/public?section=recent&limit=5')
+      .expect(200)
+      .expect('Content-Type', /json/);
+    return expect(res.body.message).toBe('Products Imported Successfuly');
+  });
   test('test get dashboard products route error not auth /admin/products?status=', async () => {
     const res = await request(app)
       .get('/api/v1/admin/products?status=pending')
@@ -84,6 +91,8 @@ describe('Server Tests', () => {
     return expect(expected).toEqual(res.body.message);
   });
 });
+/// //////////////////////////////////////////////////////
+
 describe('favorites', () => {
   test('post favorites 200', async () => {
     const res = await request(app)
