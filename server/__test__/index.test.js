@@ -37,7 +37,7 @@ describe('Server Tests', () => {
   /// //////////////////////////////////////////////////////
   test('test user logout route /logout', async () => {
     const res = await request(app)
-      .get('/api/v1/logout')
+      .get('/api/v1/user/logout')
       .expect(200)
       .expect('Content-Type', /json/);
     const expected = {
@@ -92,7 +92,6 @@ describe('Server Tests', () => {
   });
 });
 /// //////////////////////////////////////////////////////
-
 describe('favorites', () => {
   test('post favorites 200', async () => {
     const res = await request(app)
