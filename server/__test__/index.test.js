@@ -82,4 +82,25 @@ describe('Server Tests', () => {
       .expect('Content-Type', /json/);
     return expect(res.body.message).toBe('Products Imported Successfuly');
   });
+  test('test get dashboard products route error not auth /admin/products?status=', async () => {
+    const res = await request(app)
+      .get('/api/v1/admin/products?status=pending')
+      .expect(401)
+      .expect('Content-Type', /json/);
+    const expected = 'You are not authorized to perform this action.';
+    return expect(expected).toEqual(res.body.message);
+  });
+});
+describe('favorites', () => {
+  test('post favorites 200', async () => {
+    const res = await request(app)
+      .post('/api/v1//products/favorites')
+      .expect(200)
+      .send({
+        userId: 1,
+        productId: 1,
+      });
+
+    return expect(res.body.message).toEqual('Added to favorites successfully');
+  });
 });

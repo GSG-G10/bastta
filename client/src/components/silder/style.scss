@@ -1,0 +1,51 @@
+img {
+  padding: 5px;
+  width: 1236px;
+  height: 500px;
+  border-radius: 60px;
+}
+
+.slick-prev,
+.slick-next {
+
+&:before {
+  color: #1a6e9a !important ;
+  opacity: 1;
+}
+}
+.slick-prev {
+&:before {
+  margin-left: 14px !important;
+  font-size: 40px;
+}
+}
+
+.slick-next{
+&:before {
+  margin-left: -30px !important;
+  font-size: 40px;
+}
+}
+
+.slick-arrow {
+  position: absolute;
+  z-index: 1;
+}
+
+.slick-dots li.slick-active button
+
+{
+
+&:before {
+  color: #1a6e9a !important ;
+}
+}
+.slick-dots li button
+{
+
+&:before {
+  color: #a0aab7 !important;
+}
+}
+
+

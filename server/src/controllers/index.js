@@ -1,3 +1,5 @@
+const { productToFav } = require('./products');
+
 const {
   userLogout,
   adminLogout,
@@ -6,7 +8,12 @@ const {
 const {
   getOneProduct,
   getLandingProducts,
+  getDashboardProducts,
 } = require('./products');
+
+const {
+  getUsers,
+} = require('./users');
 
 const {
   clientError,
@@ -14,10 +21,13 @@ const {
 } = require('./errors');
 
 module.exports = {
+  getUsers,
   userLogout,
   adminLogout,
   clientError,
   serverError,
+  productToFav,
   getOneProduct,
   getLandingProducts,
+  getDashboardProducts,
 };
