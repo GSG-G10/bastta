@@ -6,7 +6,7 @@ module.exports = async (req, res, next) => {
 
     if (Number(productId) > 0) {
       const product = await findProductById(productId);
-      if (!product) {
+      if (!product || product.approved === false) {
         return res.status(404).json({
           message: 'Product not found',
         });
