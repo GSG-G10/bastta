@@ -3,7 +3,7 @@ const connection = require('../../connection');
 module.exports = async (email) => {
   const { rows } = await connection
     .query(
-      'SELECT * FROM users WHERE email= $1 ;',
+      'SELECT id FROM users WHERE email= $1 ;',
       [email],
     );
 
