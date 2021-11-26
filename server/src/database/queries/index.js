@@ -15,6 +15,8 @@ const {
 } = require('./favourites');
 
 const {
+  addNewUser,
+  checkAccount,
   findUserById,
   removeUserQuery,
   getAllUsersQuery,
@@ -22,8 +24,10 @@ const {
 
 module.exports = {
   deleteFav,
-  newFavorites,
+  addNewUser,
   findFavById,
+  checkAccount,
+  newFavorites,
   findUserById,
   getAllProducts,
   findProductById,
