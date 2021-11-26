@@ -1,5 +1,6 @@
 const newFavorites = require('./newFavorites');
 const findProductById = require('./find-product-by-id');
+const searchProductsQuery = require('./search-products');
 const publishProductQuery = require('./publish-product');
 const getLandingProducts = require('./get-landing-products');
 const getAllProducts = require('./get-all-approved-products');
@@ -12,6 +13,7 @@ module.exports = {
   findProductById,
   getLandingProducts,
   publishProductQuery,
+  searchProductsQuery,
   getProductsBySection,
   getDashboardProductsQuery,
 };

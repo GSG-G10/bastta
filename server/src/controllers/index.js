@@ -9,6 +9,7 @@ const {
   productToFav,
   getOneProduct,
   publishProduct,
+  searchProducts,
   getLandingProducts,
   getDashboardProducts,
 } = require('./products');
@@ -35,6 +36,7 @@ module.exports = {
   productToFav,
   getOneProduct,
   publishProduct,
+  searchProducts,
   getLandingProducts,
   getDashboardProducts,
 };
