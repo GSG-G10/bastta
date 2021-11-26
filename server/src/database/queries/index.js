@@ -3,6 +3,7 @@ const {
   getAllProducts,
   findProductById,
   getLandingProducts,
+  searchProductsQuery,
   publishProductQuery,
   getProductsBySection,
   getDashboardProductsQuery,
@@ -30,6 +31,7 @@ module.exports = {
   getAllUsersQuery,
   getLandingProducts,
   publishProductQuery,
+  searchProductsQuery,
   getProductsBySection,
   getDashboardProductsQuery,
 };
