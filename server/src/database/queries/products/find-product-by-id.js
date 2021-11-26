@@ -7,7 +7,6 @@ module.exports = async (id) => {
       FROM products INNER JOIN users
       ON products.user_id = users.id 
       WHERE products.id = $1
-      AND products.approved = true
     `,
     [id],
   );
