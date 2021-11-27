@@ -136,4 +136,36 @@ describe('Server Tests', () => {
       return expect(res.body.message).toBe('Bad Request');
     });
   });
+  describe('delete product', () => {
+    /// ******************* Test Delete product routes *********************/
+    test('Delete product 200', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/10')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(200);
+      return expect(res.body.message).toBe('Product Deleted Successfuly');
+    });
+    /// /////////////////////////////////////////////////////
+    test('Delete product 400 product dosn\'t exist', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/900')
+
+        .expect(400);
+      return expect(res.body.message).toBe('Product Not Found');
+    });
+    /// ////////////////////////////////////////////
+    test('Delete Product 400 Bad request', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/string')
+        .expect(400);
+      return expect(res.body.message).toBe('Bad Request');
+    });
+    /// /////////////////////////////
+    test('Delete Product 403 Don\'t have permission', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/48')
+        .expect(403);
+      return expect(res.body.message).toBe('You don\'t have permission to delete this product');
+    });
+  });
 });
