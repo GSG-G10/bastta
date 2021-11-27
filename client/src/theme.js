@@ -33,5 +33,6 @@ const theme = createTheme({
       '"Segoe UI Symbol"',
     ].join(','),
   },
+
 });
 export default theme;
