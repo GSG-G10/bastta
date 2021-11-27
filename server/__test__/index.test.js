@@ -170,4 +170,40 @@ describe('Server Tests', () => {
       return expect(res.body.message).toBe('You don\'t have permission to delete this product');
     });
   });
+  /* *********************** Login Tests ************************** */
+  test('test login route with status 200 Logged in successfuly', async () => {
+    const res = await request(app)
+      .post('/api/v1/users/login')
+      .send({
+        email: 'dlouys0@angelfire.com',
+        password: 'asd123456',
+      })
+      .expect(201);
+    expect(res.body).toEqual({ message: 'Logged In Successfully' });
+  });
+  test('test login route with status 400 Bad Request', async () => {
+    const res = await request(app)
+      .post('/api/v1/users/login')
+      .send({
+        email: 'abaglin3telegraph.co.uk',
+        password: '123456789',
+      })
+      .expect(400);
+    expect(res.body).toEqual({
+      error: {
+        message: '"email" must be a valid email',
+        status: 400,
+      },
+    });
+  });
+  test('test login route with status 401 Not Authorized', async () => {
+    const res = await request(app)
+      .post('/api/v1/users/login')
+      .send({
+        email: 'dlouys0@angelfire.com',
+        password: '123456789',
+      })
+      .expect(401);
+    expect(res.body).toEqual({ error: { message: 'invalid email or password' } });
+  });
 });
