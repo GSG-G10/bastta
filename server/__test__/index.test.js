@@ -71,7 +71,7 @@ describe('Server Tests', () => {
       .get('/api/v1/products/notfound')
       .expect(400)
       .expect('Content-Type', /json/);
-    const expected = 'Bad Request';
+    const expected = 'Invalid product id';
     return expect(expected).toEqual(res.body.message);
   });
   /// //////////////////////////////////////////////////////
@@ -107,19 +107,5 @@ describe('Server Tests', () => {
       .expect('Content-Type', /json/);
     const expected = 'Bad Request';
     return expect(expected).toEqual(res.body.message);
-  });
-});
-/// //////////////////////////////////////////////////////
-describe('favorites', () => {
-  test('post favorites 200', async () => {
-    const res = await request(app)
-      .post('/api/v1//products/favorites')
-      .expect(200)
-      .send({
-        userId: 1,
-        productId: 1,
-      });
-
-    return expect(res.body.message).toEqual('Added to favorites successfully');
   });
 });

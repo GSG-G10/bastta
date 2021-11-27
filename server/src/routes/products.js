@@ -1,15 +1,17 @@
 const router = require('express').Router();
 
 const {
+  deleteFav,
   productToFav,
   getOneProduct,
   profileProducts,
+  searchProducts,
   getLandingProducts,
-  deleteFav,
 } = require('../controllers');
 
 const { checkSignIn } = require('../middlewares');
 
+router.get('/search', searchProducts);
 router.post('/favorites', productToFav);
 router.get('/public', getLandingProducts);
 router.get('/profile/:userId', profileProducts);

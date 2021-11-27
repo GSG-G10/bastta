@@ -4,6 +4,8 @@ const {
   findProductById,
   getLandingProducts,
   profileProductsQuery,
+  searchProductsQuery,
+  publishProductQuery,
   getProductsBySection,
   getDashboardProductsQuery,
 } = require('./products');
@@ -30,6 +32,8 @@ module.exports = {
   getAllUsersQuery,
   getLandingProducts,
   profileProductsQuery,
+  publishProductQuery,
+  searchProductsQuery,
   getProductsBySection,
   getDashboardProductsQuery,
 };
