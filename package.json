@@ -31,6 +31,7 @@
     "supertest": "^6.1.6"
   },
   "dependencies": {
+    "aws-sdk": "^2.1037.0",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^1.27.1",
     "compression": "^1.7.4",
@@ -39,6 +40,7 @@
     "express": "^4.17.1",
     "joi": "^17.4.2",
     "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
     "pg": "^8.7.1",
     "socket.io": "^4.4.0"
   },
