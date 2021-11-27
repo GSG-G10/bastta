@@ -6,12 +6,14 @@ const getLandingProducts = require('./get-landing-products');
 const getAllProducts = require('./get-all-approved-products');
 const getProductsBySection = require('./get-products-by-section');
 const getDashboardProductsQuery = require('./get-dashboard-products');
+const deleteProductQuery = require('./delete-product-query');
 const profileProductsQuery = require('./profile-products-query');
 
 module.exports = {
   newFavorites,
   getAllProducts,
   findProductById,
+  deleteProductQuery,
   getLandingProducts,
   publishProductQuery,
   searchProductsQuery,
