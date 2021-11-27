@@ -149,7 +149,7 @@ describe('Server Tests', () => {
     test('Delete product 400 product dosn\'t exist', async () => {
       const res = await request(app)
         .delete('/api/v1/products/900')
-
+        .set('Cookie', [`token=${process.env.TOKEN}`])
         .expect(400);
       return expect(res.body.message).toBe('Product Not Found');
     });
@@ -157,6 +157,7 @@ describe('Server Tests', () => {
     test('Delete Product 400 Bad request', async () => {
       const res = await request(app)
         .delete('/api/v1/products/string')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
         .expect(400);
       return expect(res.body.message).toBe('Bad Request');
     });
@@ -164,6 +165,7 @@ describe('Server Tests', () => {
     test('Delete Product 403 Don\'t have permission', async () => {
       const res = await request(app)
         .delete('/api/v1/products/48')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
         .expect(403);
       return expect(res.body.message).toBe('You don\'t have permission to delete this product');
     });
