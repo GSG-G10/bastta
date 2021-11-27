@@ -1,4 +1,5 @@
 const {
+  userLogin,
   userSignup,
   userLogout,
   adminLogin,
@@ -29,6 +30,7 @@ const {
 
 module.exports = {
   getUsers,
+  userLogin,
   deleteFav,
   adminLogin,
   userLogout,

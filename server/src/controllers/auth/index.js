@@ -3,11 +3,12 @@ const {
   adminLogout,
 } = require('./logout');
 
-const { adminLogin } = require('./login');
+const { adminLogin, userLogin } = require('./login');
 
 const userSignup = require('./signup');
 
 module.exports = {
+  userLogin,
   adminLogin,
   userSignup,
   userLogout,
