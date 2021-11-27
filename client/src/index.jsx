@@ -2,10 +2,11 @@ import ReactDOM from 'react-dom';
 
 import { Provider } from 'react-redux';
 import { createStore } from 'redux';
+
 import reducer from './store/reducers';
 
 import App from './App';
-import './index.scss';
+import './index.css';
 
 const store = createStore(
   reducer,
@@ -15,7 +16,9 @@ const store = createStore(
 
 ReactDOM.render(
   <Provider store={store}>
+
     <App />
   </Provider>,
+
   document.getElementById('root'),
 );

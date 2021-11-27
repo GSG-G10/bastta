@@ -71,7 +71,7 @@ describe('Server Tests', () => {
       .get('/api/v1/products/notfound')
       .expect(400)
       .expect('Content-Type', /json/);
-    const expected = 'Bad Request';
+    const expected = 'Invalid product id';
     return expect(expected).toEqual(res.body.message);
   });
   /// //////////////////////////////////////////////////////
@@ -130,49 +130,5 @@ describe('Server Tests', () => {
         userId: 12,
       });
     return expect(res.body.message).toBe('You don\'t have permission to delete this product');
-  });
-});
-/// //////////////////////////////////////////////////////
-describe('favorites', () => {
-  test('post favorites 200', async () => {
-    const res = await request(app)
-      .post('/api/v1//products/favorites')
-      .expect(200)
-      .send({
-        userId: 1,
-        productId: 1,
-      });
-
-    return expect(res.body.message).toEqual('Added to favorites successfully');
-  });
-  /// Test Delete from favorites route
-  test('Delete from Favorites 200', async () => {
-    const res = await request(app)
-      .delete('/api/v1/products/favorites/48')
-      .expect(200)
-      .send({
-        userId: 12,
-      });
-    return expect(res.body.message).toBe('Product Deleted From Favorites Successfuly');
-  });
-  /// /////////////////////////////////////////////////////
-  test('Delete from Favourites 400 product dosn\'t exist', async () => {
-    const res = await request(app)
-      .delete('/api/v1/products/favorites/900')
-      .expect(400)
-      .send({
-        userId: 12,
-      });
-    return expect(res.body.message).toBe('Product Doesn\'t Exist in Favorites');
-  });
-  /// ////////////////////////////////////////////
-  test('Delete from Favourites 400 Bad request', async () => {
-    const res = await request(app)
-      .delete('/api/v1/products/favorites/string')
-      .expect(400)
-      .send({
-        userId: 12,
-      });
-    return expect(res.body.message).toBe('Bad Request');
   });
 });

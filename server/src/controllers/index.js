@@ -1,5 +1,3 @@
-const { productToFav } = require('./products');
-
 const {
   userLogout,
   adminLogin,
@@ -8,7 +6,10 @@ const {
 
 const {
   deleteFav,
+  productToFav,
   getOneProduct,
+  publishProduct,
+  searchProducts,
   getLandingProducts,
   getDashboardProducts,
   deleteProduct,
@@ -36,6 +37,8 @@ module.exports = {
   productToFav,
   deleteProduct,
   getOneProduct,
+  publishProduct,
+  searchProducts,
   getLandingProducts,
   getDashboardProducts,
 };
