@@ -1,15 +1,21 @@
-const { productToFav } = require('./products');
-
 const {
+  userLogin,
+  userSignup,
   userLogout,
   adminLogin,
   adminLogout,
 } = require('./auth');
 
 const {
+  deleteFav,
+  productToFav,
   getOneProduct,
+  profileProducts,
+  publishProduct,
+  searchProducts,
   getLandingProducts,
   getDashboardProducts,
+  deleteProduct,
 } = require('./products');
 
 const {
@@ -24,14 +30,21 @@ const {
 
 module.exports = {
   getUsers,
+  userLogin,
+  deleteFav,
   adminLogin,
   userLogout,
+  userSignup,
   deleteUser,
   adminLogout,
   clientError,
   serverError,
   productToFav,
+  deleteProduct,
   getOneProduct,
+  profileProducts,
+  publishProduct,
+  searchProducts,
   getLandingProducts,
   getDashboardProducts,
 };

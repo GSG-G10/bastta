@@ -71,7 +71,7 @@ describe('Server Tests', () => {
       .get('/api/v1/products/notfound')
       .expect(400)
       .expect('Content-Type', /json/);
-    const expected = 'Bad Request';
+    const expected = 'Invalid product id';
     return expect(expected).toEqual(res.body.message);
   });
   /// //////////////////////////////////////////////////////
@@ -90,19 +90,120 @@ describe('Server Tests', () => {
     const expected = 'You are not authorized to perform this action.';
     return expect(expected).toEqual(res.body.message);
   });
-});
-/// //////////////////////////////////////////////////////
-describe('favorites', () => {
-  test('post favorites 200', async () => {
-    const res = await request(app)
-      .post('/api/v1//products/favorites')
-      .expect(200)
-      .send({
-        userId: 1,
-        productId: 1,
-      });
 
-    return expect(res.body.message).toEqual('Added to favorites successfully');
+  /// // *********** profile products ************************
+  test('get profile products 200', async () => {
+    const res = await request(app)
+      .get('/api/v1/products/profile/2')
+      .expect(200)
+      .expect('Content-Type', /json/);
+    const expected = 'Products import successfully';
+    return expect(expected).toEqual(res.body.message);
+  });
+  test('get profile products 400 bad requuest', async () => {
+    const res = await request(app)
+      .get('/api/v1/products/profile/string')
+      .expect(400)
+      .expect('Content-Type', /json/);
+    const expected = 'Bad Request';
+    return expect(expected).toEqual(res.body.message);
+  });
+  /* ******************* Protected Routes **************************** */
+  /// //////////////////////////////////////////////////////
+  describe('favorites', () => {
+    /// Test Delete from favorites route
+    test('Delete from Favorites 200', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/favorites/50')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(200);
+      return expect(res.body.message).toBe('Product Deleted From Favorites Successfuly');
+    });
+    /// /////////////////////////////////////////////////////
+    test('Delete from Favourites 400 product dosn\'t exist', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/favorites/900')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(400);
+      return expect(res.body.message).toBe('Product Doesn\'t Exist in Favorites');
+    });
+    /// ////////////////////////////////////////////
+    test('Delete from Favourites 400 Bad request', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/favorites/string')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(400);
+      return expect(res.body.message).toBe('Bad Request');
+    });
+  });
+  describe('delete product', () => {
+    /// ******************* Test Delete product routes *********************/
+    test('Delete product 200', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/10')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(200);
+      return expect(res.body.message).toBe('Product Deleted Successfuly');
+    });
+    /// /////////////////////////////////////////////////////
+    test('Delete product 400 product dosn\'t exist', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/900')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(400);
+      return expect(res.body.message).toBe('Product Not Found');
+    });
+    /// ////////////////////////////////////////////
+    test('Delete Product 400 Bad request', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/string')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(400);
+      return expect(res.body.message).toBe('Bad Request');
+    });
+    /// /////////////////////////////
+    test('Delete Product 403 Don\'t have permission', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/48')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(403);
+      return expect(res.body.message).toBe('You don\'t have permission to delete this product');
+    });
+  });
+  /* *********************** Login Tests ************************** */
+  test('test login route with status 200 Logged in successfuly', async () => {
+    const res = await request(app)
+      .post('/api/v1/users/login')
+      .send({
+        email: 'dlouys0@angelfire.com',
+        password: 'asd123456',
+      })
+      .expect(201);
+    expect(res.body).toEqual({ message: 'Logged In Successfully' });
+  });
+  test('test login route with status 400 Bad Request', async () => {
+    const res = await request(app)
+      .post('/api/v1/users/login')
+      .send({
+        email: 'abaglin3telegraph.co.uk',
+        password: '123456789',
+      })
+      .expect(400);
+    expect(res.body).toEqual({
+      error: {
+        message: '"email" must be a valid email',
+        status: 400,
+      },
+    });
+  });
+  test('test login route with status 401 Not Authorized', async () => {
+    const res = await request(app)
+      .post('/api/v1/users/login')
+      .send({
+        email: 'dlouys0@angelfire.com',
+        password: '123456789',
+      })
+      .expect(401);
+    expect(res.body).toEqual({ error: { message: 'invalid email or password' } });
   });
 });
-/// //////////////////////////////////////////////////////

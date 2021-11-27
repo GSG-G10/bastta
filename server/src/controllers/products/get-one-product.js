@@ -11,12 +11,17 @@ module.exports = async (req, res, next) => {
           message: 'Product not found',
         });
       }
+      if (product.approved === false) {
+        return res.json({
+          message: 'Product is in the waiting list',
+        });
+      }
       return res.json({
         message: 'Product found',
         data: product,
       });
     }
-    return res.status(400).json({ message: 'Bad Request' });
+    return res.status(400).json({ message: 'Invalid product id' });
   } catch (err) {
     return next(err);
   }

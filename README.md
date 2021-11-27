@@ -84,7 +84,7 @@ Now you can view the app live in the Browser!
 - BackEnd: **Express Node JS**, 
 - FrontEnd: **React JS**
 - Database: **Postgresql**
-- Styling: **React Bootstrap**, **SASS**
+- Styling: **MUI**, **SASS**
 - Libraries: **Styled Component**
 
 ## **Team Members** :-

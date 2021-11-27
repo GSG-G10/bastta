@@ -2,7 +2,7 @@ INSERT INTO users (name, email, password)
 VALUES (
         'احمد',
         'dlouys0@angelfire.com',
-        '$2b$10$D7oI89od5EhIzJnB.cCgmO5pneIeynM27potj535oATgM3W01m4XS'
+        '$2a$08$xBaOLPCG0UfZLO1OeSnST.7im7NYPfcF9SZWkHVsklyonPGJZzUGC'
     ),
     (
         'ايمن',
