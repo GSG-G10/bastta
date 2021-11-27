@@ -108,4 +108,32 @@ describe('Server Tests', () => {
     const expected = 'Bad Request';
     return expect(expected).toEqual(res.body.message);
   });
+  /* ******************* Protected Routes **************************** */
+  /// //////////////////////////////////////////////////////
+  describe('favorites', () => {
+    /// Test Delete from favorites route
+    test('Delete from Favorites 200', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/favorites/50')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(200);
+      return expect(res.body.message).toBe('Product Deleted From Favorites Successfuly');
+    });
+    /// /////////////////////////////////////////////////////
+    test('Delete from Favourites 400 product dosn\'t exist', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/favorites/900')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(400);
+      return expect(res.body.message).toBe('Product Doesn\'t Exist in Favorites');
+    });
+    /// ////////////////////////////////////////////
+    test('Delete from Favourites 400 Bad request', async () => {
+      const res = await request(app)
+        .delete('/api/v1/products/favorites/string')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(400);
+      return expect(res.body.message).toBe('Bad Request');
+    });
+  });
 });
