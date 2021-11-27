@@ -7,6 +7,7 @@ const {
   profileProducts,
   searchProducts,
   getLandingProducts,
+  deleteProduct,
 } = require('../controllers');
 
 const { checkSignIn } = require('../middlewares');
@@ -18,5 +19,6 @@ router.get('/profile/:userId', profileProducts);
 router.get('/:productId', getOneProduct);
 
 router.delete('/favorites/:productId', checkSignIn, deleteFav);
+router.delete('/:productId', checkSignIn, deleteProduct);
 
 module.exports = router;

@@ -14,6 +14,7 @@ const {
   searchProducts,
   getLandingProducts,
   getDashboardProducts,
+  deleteProduct,
 } = require('./products');
 
 const {
@@ -37,6 +38,7 @@ module.exports = {
   clientError,
   serverError,
   productToFav,
+  deleteProduct,
   getOneProduct,
   profileProducts,
   publishProduct,

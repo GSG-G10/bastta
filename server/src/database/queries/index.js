@@ -2,6 +2,7 @@ const {
   newFavorites,
   getAllProducts,
   findProductById,
+  deleteProductQuery,
   getLandingProducts,
   profileProductsQuery,
   searchProductsQuery,
@@ -39,5 +40,6 @@ module.exports = {
   publishProductQuery,
   searchProductsQuery,
   getProductsBySection,
+  deleteProductQuery,
   getDashboardProductsQuery,
 };
