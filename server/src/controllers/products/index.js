@@ -6,12 +6,14 @@ const searchProducts = require('./search-products');
 const getLandingProducts = require('./get-landing-products');
 const getDashboardProducts = require('./get-dashboard-products');
 const deleteProduct = require('./delete-product');
+const profileProducts = require('./get-profile-products');
 
 module.exports = {
   deleteFav,
   productToFav,
   deleteProduct,
   getOneProduct,
+  profileProducts,
   searchProducts,
   publishProduct,
   getLandingProducts,

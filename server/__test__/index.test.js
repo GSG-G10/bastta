@@ -90,45 +90,22 @@ describe('Server Tests', () => {
     const expected = 'You are not authorized to perform this action.';
     return expect(expected).toEqual(res.body.message);
   });
-  /// ///////////////////////////////////////////////////////
-  /// ******************* Test Delete product routes *********************/
-  test('Delete product 200', async () => {
+
+  /// // *********** profile products ************************
+  test('get profile products 200', async () => {
     const res = await request(app)
-      .delete('/api/v1/products/48')
+      .get('/api/v1/products/profile/2')
       .expect(200)
-      .send({
-        userId: 10,
-      });
-    return expect(res.body.message).toBe('Product Deleted Successfuly');
+      .expect('Content-Type', /json/);
+    const expected = 'Products import successfully';
+    return expect(expected).toEqual(res.body.message);
   });
-  /// /////////////////////////////////////////////////////
-  test('Delete product 400 product dosn\'t exist', async () => {
+  test('get profile products 400 bad requuest', async () => {
     const res = await request(app)
-      .delete('/api/v1/products/900')
+      .get('/api/v1/products/profile/string')
       .expect(400)
-      .send({
-        userId: 12,
-      });
-    return expect(res.body.message).toBe('Product Not Found');
-  });
-  /// ////////////////////////////////////////////
-  test('Delete Product 400 Bad request', async () => {
-    const res = await request(app)
-      .delete('/api/v1/products/string')
-      .expect(400)
-      .send({
-        userId: 12,
-      });
-    return expect(res.body.message).toBe('Bad Request');
-  });
-  /// /////////////////////////////
-  test('Delete Product 403 Don\'t have permission', async () => {
-    const res = await request(app)
-      .delete('/api/v1/products/48')
-      .expect(403)
-      .send({
-        userId: 12,
-      });
-    return expect(res.body.message).toBe('You don\'t have permission to delete this product');
+      .expect('Content-Type', /json/);
+    const expected = 'Bad Request';
+    return expect(expected).toEqual(res.body.message);
   });
 });
