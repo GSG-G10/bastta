@@ -7,9 +7,11 @@ const getLandingProducts = require('./get-landing-products');
 const getDashboardProducts = require('./get-dashboard-products');
 const deleteProduct = require('./delete-product');
 const profileProducts = require('./get-profile-products');
+const postProduct = require('./post-product');
 
 module.exports = {
   deleteFav,
+  postProduct,
   productToFav,
   deleteProduct,
   getOneProduct,
