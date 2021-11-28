@@ -13,6 +13,7 @@ const {
 } = require('./products');
 
 const {
+  getUserFavs,
   findFavById,
   deleteFav,
 } = require('./favourites');
@@ -28,6 +29,7 @@ const {
 module.exports = {
   deleteFav,
   addNewUser,
+  getUserFavs,
   findFavById,
   checkAccount,
   newFavorites,

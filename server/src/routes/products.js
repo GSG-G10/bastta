@@ -1,6 +1,7 @@
 const router = require('express').Router();
 
 const {
+  getFavs,
   deleteFav,
   productToFav,
   getOneProduct,
@@ -13,13 +14,18 @@ const {
 
 const { checkSignIn } = require('../middlewares');
 
-router.get('/search', searchProducts);
-router.post('/favorites', productToFav);
-router.get('/public', getLandingProducts);
-router.get('/profile/:userId', profileProducts);
-router.get('/:productId', getOneProduct);
-
-router.delete('/favorites/:productId', checkSignIn, deleteFav);
-router.delete('/:productId', checkSignIn, deleteProduct);
 router.post('/', checkSignIn, postProduct);
+router.get('/public', getLandingProducts);
+router.get('/search', searchProducts);
+router.get('/profile/:userId', profileProducts);
+
+// Favorites
+router.get('/favorites', checkSignIn, getFavs);
+router.post('/favorites', productToFav);
+router.delete('/favorites/:productId', checkSignIn, deleteFav);
+
+//  one product
+router.get('/:productId', getOneProduct);
+router.delete('/:productId', checkSignIn, deleteProduct);
+
 module.exports = router;

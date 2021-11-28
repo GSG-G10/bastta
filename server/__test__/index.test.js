@@ -111,6 +111,16 @@ describe('Server Tests', () => {
   /* ******************* Protected Routes **************************** */
   /// //////////////////////////////////////////////////////
   describe('favorites', () => {
+    // get all favoritesfor user
+    test('test 200 status get /products/favorites', async () => {
+      const res = await request(app)
+        .get('/api/v1/products/favorites')
+        .set('Cookie', [`token=${process.env.TOKEN}`])
+        .expect(200)
+        .expect('Content-Type', /json/);
+      const expected = 'Products Imported Successfuly';
+      return expect(expected).toBe(res.body.message);
+    });
     /// Test Delete from favorites route
     test('Delete from Favorites 200', async () => {
       const res = await request(app)
