@@ -7,9 +7,7 @@ const {
 } = require('./auth');
 
 const {
-  deleteFav,
   postProduct,
-  productToFav,
   getOneProduct,
   profileProducts,
   publishProduct,
@@ -18,6 +16,12 @@ const {
   getDashboardProducts,
   deleteProduct,
 } = require('./products');
+
+const {
+  getFavs,
+  deleteFav,
+  productToFav,
+} = require('./favorites');
 
 const {
   getUsers,
@@ -30,6 +34,7 @@ const {
 } = require('./errors');
 
 module.exports = {
+  getFavs,
   getUsers,
   userLogin,
   deleteFav,
