@@ -1,9 +1,7 @@
 import { Divider, Paper, Stack } from '@mui/material';
 import { styled } from '@mui/material/styles';
 
-import Themeone from './items-component/item-one';
-import Themetwo from './items-component/item-two';
-import Themethree from './items-component/item-three';
+import { ItemOne, ItemTwo, ItemThree } from './items-component';
 
 const Item = styled(Paper)(({ theme }) => ({
   ...theme.typography.body2,
@@ -26,13 +24,13 @@ const Footer = () => (
       divider={<Divider orientation="vertical" color="white" sx={{ height: 200, marginTop: 5 }} flexItem />}
     >
       <Item>
-        <Themeone />
+        <ItemOne />
       </Item>
       <Item>
-        <Themetwo />
+        <ItemTwo />
       </Item>
       <Item>
-        <Themethree />
+        <ItemThree />
       </Item>
     </Stack>
   </div>
