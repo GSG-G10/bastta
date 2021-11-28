@@ -15,6 +15,7 @@ const {
   getLandingProducts,
   getDashboardProducts,
   deleteProduct,
+  getPagination,
 } = require('./products');
 
 const {
@@ -49,6 +50,7 @@ module.exports = {
   productToFav,
   deleteProduct,
   getOneProduct,
+  getPagination,
   profileProducts,
   publishProduct,
   searchProducts,
