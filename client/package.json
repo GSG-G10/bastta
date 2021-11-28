@@ -18,6 +18,7 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-draggable": "^4.4.4",
     "react-icons": "^4.3.1",
     "react-jwt": "^1.1.4",
     "react-redux": "^7.2.6",

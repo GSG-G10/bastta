@@ -23,6 +23,11 @@ import TableHead from '@mui/material/TableHead';
 import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
 import Modal from '@mui/material/Modal';
+import Dialog from '@mui/material/Dialog';
+import DialogActions from '@mui/material/DialogActions';
+import DialogContent from '@mui/material/DialogContent';
+import DialogContentText from '@mui/material/DialogContentText';
+import DialogTitle from '@mui/material/DialogTitle';
 
 /* Material UI Icons */
 import PhoneIcon from '@mui/icons-material/Phone';
@@ -34,6 +39,12 @@ import KeyboardReturnIcon from '@mui/icons-material/KeyboardReturn';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import RemoveCircleOutlineIcon from '@mui/icons-material/RemoveCircleOutline';
+import Draggable from 'react-draggable';
+import PersonRemoveIcon from '@mui/icons-material/PersonRemove';
+import DeleteOutlineIcon from '@mui/icons-material/DeleteOutline';
+import CheckCircleOutlineIcon from '@mui/icons-material/CheckCircleOutline';
+import CheckCircleIcon from '@mui/icons-material/CheckCircle';
+
 /* Material UI Buttons */
 
 export {
@@ -42,13 +53,6 @@ export {
   Container,
   Tabs,
   Tab,
-  PhoneIcon,
-  FavoriteIcon,
-  PersonPinIcon,
-  LogoutIcon,
-  DataThresholdingIcon,
-  KeyboardReturnIcon,
-  RemoveCircleOutlineIcon,
   TabList,
   AppBar,
   Box,
@@ -67,4 +71,22 @@ export {
   TablePagination,
   TableRow,
   Modal,
+  Dialog,
+  DialogActions,
+  DialogContent,
+  DialogContentText,
+  DialogTitle,
+  Draggable,
+  PhoneIcon,
+  FavoriteIcon,
+  PersonPinIcon,
+  LogoutIcon,
+  DataThresholdingIcon,
+  KeyboardReturnIcon,
+  RemoveCircleOutlineIcon,
+  DeleteOutlineIcon,
+  PersonRemoveIcon,
+  CheckCircleOutlineIcon,
+  CheckCircleIcon,
+
 };

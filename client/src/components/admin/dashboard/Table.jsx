@@ -1,9 +1,11 @@
 import { useState, useEffect } from 'react';
 import { useSelector } from 'react-redux';
-import axios from 'axios';
 
 import * as moment from 'moment';
 import 'moment/locale/ar';
+import ConfirmDeleteUser from './ConfirmDeleteUser';
+import ConfirmDeleteProduct from './ConfirmDeleteProduct';
+import ConfirmProduct from './ConfirmProduct';
 
 import * as muiModules from '../../../mui-modules';
 
@@ -46,11 +48,7 @@ const Table = () => {
   const { data } = useSelector((state) => state);
   const [modalSrc, setModalSrc] = useState(null);
   const [open, setOpen] = useState(false);
-  const [notification, setNotification] = useState({
-    status: false,
-    type: null,
-  });
-  const [responseMessage, setResponseMessage] = useState('');
+
   const handleClose = () => setOpen(false);
 
   useEffect(() => {
@@ -72,30 +70,10 @@ const Table = () => {
       objectFit: 'cover',
     },
   };
-  const deleteUser = async (id) => {
-    try {
-      const deleteResponse = await axios.delete(`/api/v1/admin/users/${id}`);
-      setNotification({ status: true, type: 'success' });
-      return setResponseMessage(deleteResponse.data.message);
-    } catch (e) {
-      setNotification({ status: true, type: 'error' });
-      return setResponseMessage(e.response.data.message);
-    }
-  };
-  const responseStatus = (message) => (
-    <muiModules.Snackbar
-      open={notification}
-      autoHideDuration={6000}
-      onClose={handleClose}
-    >
-      <muiModules.Alert onClose={handleClose} severity={notification.type}>
-        {message}
-      </muiModules.Alert>
-    </muiModules.Snackbar>
-  );
+
   return (
     <>
-      {notification.status ? responseStatus(responseMessage) : null}
+
       <muiModules.Modal open={open} onClose={handleClose}>
         <muiModules.Box sx={modalStyle.body}>
           <img src={modalSrc} alt="alt" style={modalStyle.img} />
@@ -190,29 +168,22 @@ const Table = () => {
 
                     {data.data[0] === 'members' ? (
                       <muiModules.TableCell align="center">
-                        <muiModules.RemoveCircleOutlineIcon
-                          sx={{
-                            color: 'gray',
-                            '&:hover': { color: 'red' },
-                            cursor: 'pointer',
-                          }}
-                          onClick={() => deleteUser(e.id)}
-                        />
+                        <ConfirmDeleteUser title="حذف المستخدم" userId={e.id} />
                       </muiModules.TableCell>
                     ) : null}
                     {data.data[0] === 'published' ? (
                       <muiModules.TableCell align="center">
-                        حذف المنتج
+                        <ConfirmDeleteProduct title="حذف المنتج" productId={e.id} type=" حذف " />
                       </muiModules.TableCell>
                     ) : null}
                     {data.data[0] === 'pending' ? (
                       <muiModules.TableCell align="center">
-                        قبول
+                        <ConfirmProduct productId={e.id} />
                       </muiModules.TableCell>
                     ) : null}
                     {data.data[0] === 'pending' ? (
                       <muiModules.TableCell align="center">
-                        رفض
+                        <ConfirmDeleteProduct title="رفض المنتج" productId={e.id} type=" رفض " />
                       </muiModules.TableCell>
                     ) : null}
                   </muiModules.TableRow>
