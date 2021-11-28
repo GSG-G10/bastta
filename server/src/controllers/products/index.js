@@ -6,10 +6,12 @@ const getDashboardProducts = require('./get-dashboard-products');
 const deleteProduct = require('./delete-product');
 const profileProducts = require('./get-profile-products');
 const postProduct = require('./post-product');
+const getPagination = require('./get-pagination');
 const adminDeleteProduct = require('./admin-delete-product');
 
 module.exports = {
   postProduct,
+  getPagination,
   deleteProduct,
   getOneProduct,
   profileProducts,
