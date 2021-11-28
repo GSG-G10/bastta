@@ -1,8 +1,10 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import {
+  BrowserRouter as Router, Routes, Route, Navigate,
+} from 'react-router-dom';
 
 import { CssBaseline, ThemeProvider } from './mui-modules';
-import Home from './pages';
-import { Dashboard, DashboardLogin } from './pages/Dashboard';
+
+import * as Pages from './pages';
 import theme from './theme';
 
 const App = () => (
@@ -10,11 +12,14 @@ const App = () => (
     <CssBaseline />
     <Router>
       <Routes>
-        <Route exact path="/" element={<Home />} />
-        <Route exact path="/dashboard" element={<Dashboard />} />
-        <Route exact path="/admin/*" element={<DashboardLogin />} />
+        <Route exact path="/" element={<Pages.Home />} />
+        <Route exact path="/doc" element={<Pages.Document />} />
+        <Route exact path="/dashboard" element={<Pages.Dashboard />} />
+        <Route exact path="/admin/*" element={<Pages.DashboardLogin />} />
+        <Route path="*" element={<Pages.NotFound />} />
       </Routes>
     </Router>
+
   </ThemeProvider>
 );
 

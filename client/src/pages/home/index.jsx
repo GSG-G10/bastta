@@ -1,9 +1,10 @@
 import { Container } from '../../mui-modules';
-import SliderHome from '../../components';
+import * as Components from '../../components';
 
 const Home = () => (
-  <Container maxWidth="xl">
-    <SliderHome />
+  <Container sx={{ width: '1236px' }} maxWidth="xl">
+    <Components.SliderHome />
+    <Components.Footer />
   </Container>
 );
 

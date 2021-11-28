@@ -1,3 +1,5 @@
 import SliderHome from './silder';
+import CardDoc from './cardDoc';
+import Footer from './footer';
 
-export default SliderHome;
+export { SliderHome, CardDoc, Footer };

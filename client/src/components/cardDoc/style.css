@@ -1,0 +1,63 @@
+.doc-section {
+  background-color: #eef4fc;
+  width: 75%;
+  height: 200px;
+  margin: auto;
+  border-right: 8px solid #1a6e9a;
+  font-family: Cairo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 56px;
+  text-align: right;
+  color: #000000;
+}
+.border{
+    border-right: 8px solid #E96958;
+}
+.title{
+    font-family: Cairo;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+    padding-right: 40px;
+    padding-top: 16px;
+}
+.description {
+  width: 852px;
+  height: 132px;
+  padding-right: 40px;
+
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+}
+ol {
+    margin-top: -10px;
+    margin-right:-21px
+}
+ol  li {
+    height: 25px;
+} 
+
+
+.text{
+display:flex;
+flex-direction: row;
+align-items: center;
+padding: 0;
+margin: 0; 
+line-height: normal;
+height: 40px;
+
+} 
+h6{
+    margin-right: 5px;
+    font-family: Cairo;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}

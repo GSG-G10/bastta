@@ -2,6 +2,7 @@ const {
   newFavorites,
   getAllProducts,
   findProductById,
+  postProductQuery,
   deleteProductQuery,
   getLandingProducts,
   profileProductsQuery,
@@ -12,6 +13,7 @@ const {
 } = require('./products');
 
 const {
+  getUserFavs,
   findFavById,
   deleteFav,
 } = require('./favourites');
@@ -27,6 +29,7 @@ const {
 module.exports = {
   deleteFav,
   addNewUser,
+  getUserFavs,
   findFavById,
   checkAccount,
   newFavorites,
@@ -35,6 +38,7 @@ module.exports = {
   removeUserQuery,
   findProductById,
   getAllUsersQuery,
+  postProductQuery,
   getLandingProducts,
   profileProductsQuery,
   publishProductQuery,
