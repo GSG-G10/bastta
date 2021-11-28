@@ -9,12 +9,13 @@ const {
 const {
   postProduct,
   getOneProduct,
-  profileProducts,
+  deleteProduct,
   publishProduct,
   searchProducts,
+  profileProducts,
+  adminDeleteProduct,
   getLandingProducts,
   getDashboardProducts,
-  deleteProduct,
 } = require('./products');
 
 const {
@@ -49,9 +50,10 @@ module.exports = {
   productToFav,
   deleteProduct,
   getOneProduct,
-  profileProducts,
   publishProduct,
   searchProducts,
+  profileProducts,
+  adminDeleteProduct,
   getLandingProducts,
   getDashboardProducts,
 };
