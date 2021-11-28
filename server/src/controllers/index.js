@@ -8,6 +8,7 @@ const {
 
 const {
   deleteFav,
+  postProduct,
   productToFav,
   getOneProduct,
   profileProducts,
@@ -36,6 +37,7 @@ module.exports = {
   userLogout,
   userSignup,
   deleteUser,
+  postProduct,
   adminLogout,
   clientError,
   serverError,
