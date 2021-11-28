@@ -1,3 +1,4 @@
 import Home from './home';
+import Document from './document';
 
-export default Home;
+export { Home, Document };
