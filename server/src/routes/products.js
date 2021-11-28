@@ -4,6 +4,7 @@ const {
   getFavs,
   deleteFav,
   productToFav,
+  getPagination,
   getOneProduct,
   profileProducts,
   searchProducts,
@@ -16,6 +17,7 @@ const { checkSignIn } = require('../middlewares');
 
 router.post('/', checkSignIn, postProduct);
 router.get('/public', getLandingProducts);
+router.get('/public/:page/:section', getPagination);
 router.get('/search', searchProducts);
 router.get('/profile/:userId', profileProducts);
 

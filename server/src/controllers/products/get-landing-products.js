@@ -19,7 +19,7 @@ module.exports = async (req, res, next) => {
         products = await getAllProducts(Number(limit));
         break;
       default:
-        products = await getProductsBySection(section, Number(limit));
+        products = await getProductsBySection(section, 0, Number(limit));
     }
 
     return res.json({
