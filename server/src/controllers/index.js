@@ -9,12 +9,13 @@ const {
 const {
   postProduct,
   getOneProduct,
-  profileProducts,
+  deleteProduct,
   publishProduct,
   searchProducts,
+  profileProducts,
+  adminDeleteProduct,
   getLandingProducts,
   getDashboardProducts,
-  deleteProduct,
   getPagination,
 } = require('./products');
 
@@ -51,9 +52,10 @@ module.exports = {
   deleteProduct,
   getOneProduct,
   getPagination,
-  profileProducts,
   publishProduct,
   searchProducts,
+  profileProducts,
+  adminDeleteProduct,
   getLandingProducts,
   getDashboardProducts,
 };
