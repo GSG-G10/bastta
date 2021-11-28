@@ -22,6 +22,7 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TablePagination from '@mui/material/TablePagination';
 import TableRow from '@mui/material/TableRow';
+import Modal from '@mui/material/Modal';
 
 /* Material UI Icons */
 import PhoneIcon from '@mui/icons-material/Phone';
@@ -32,6 +33,7 @@ import DataThresholdingIcon from '@mui/icons-material/DataThresholding';
 import KeyboardReturnIcon from '@mui/icons-material/KeyboardReturn';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
+import RemoveCircleOutlineIcon from '@mui/icons-material/RemoveCircleOutline';
 /* Material UI Buttons */
 
 export {
@@ -46,6 +48,7 @@ export {
   LogoutIcon,
   DataThresholdingIcon,
   KeyboardReturnIcon,
+  RemoveCircleOutlineIcon,
   TabList,
   AppBar,
   Box,
@@ -63,4 +66,5 @@ export {
   TableHead,
   TablePagination,
   TableRow,
+  Modal,
 };

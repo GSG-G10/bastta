@@ -1,133 +1,228 @@
-import React, { useState, useEffect } from 'react';
-
+import { useState, useEffect } from 'react';
 import { useSelector } from 'react-redux';
+import axios from 'axios';
+
+import * as moment from 'moment';
+import 'moment/locale/ar';
 
 import * as muiModules from '../../../mui-modules';
 
-const columns = [
-  { id: 'name', label: 'Name', minWidth: 170 },
-  { id: 'code', label: 'ISO\u00a0Code', minWidth: 100 },
-  {
-    id: 'population',
-    label: 'Population',
-    minWidth: 170,
-    align: 'right',
-    format: (value) => value.toLocaleString('en-US'),
-  },
-  {
-    id: 'size',
-    label: 'Size\u00a0(km\u00b2)',
-    minWidth: 170,
-    align: 'right',
-    format: (value) => value.toLocaleString('en-US'),
-  },
-  {
-    id: 'density',
-    label: 'Density',
-    minWidth: 170,
-    align: 'right',
-    format: (value) => value.toFixed(2),
-  },
-];
-
-const createData = (name, code, population, size) => {
-  const density = population / size;
-  return {
-    name,
-    code,
-    population,
-    size,
-    density,
-  };
+const columns = {
+  members: [
+    { id: 'members_name', label: 'الأسم' },
+    { id: 'members_email', label: 'البريد الإلكتروني' },
+    { id: 'members_remove', label: 'حذف المستخدم' },
+  ],
+  published: [
+    { id: 'published_name', label: 'إسم المنتج' },
+    { id: 'published_price', label: 'السعر' },
+    { id: 'published_currancy', label: 'العملة' },
+    { id: 'published_city', label: 'المدينة' },
+    { id: 'published_class', label: 'القسم' },
+    { id: 'published_type', label: 'الفئة' },
+    { id: 'published_image', label: 'صورة المنتج' },
+    { id: 'published_short_description', label: 'وصف مختصر' },
+    { id: 'published_phone', label: 'رقم هاتف المعلن', minWidth: '200' },
+    { id: 'published_post_date', label: 'تاريخ النشر' },
+    { id: 'published_delete_product', label: 'حذف المنتج' },
+  ],
+  pending: [
+    { id: 'pending_name', label: 'إسم المنتج' },
+    { id: 'pending_price', label: 'السعر' },
+    { id: 'pending_currancy', label: 'العملة' },
+    { id: 'pending_city', label: 'المدينة' },
+    { id: 'pending_class', label: 'القسم' },
+    { id: 'pending_type', label: 'الفئة' },
+    { id: 'pending_image', label: 'صورة المنتج' },
+    { id: 'pending_short_description', label: 'وصف مختصر' },
+    { id: 'pending_phone', label: 'رقم هاتف المعلن' },
+    { id: 'pending_post_date', label: 'تاريخ النشر' },
+    { id: 'pending_approve_product', label: 'قبول المنتج' },
+    { id: 'pending_reject_product', label: 'رفض المنتج' },
+  ],
 };
+
 const Table = () => {
-  const [page, setPage] = useState(0);
-  const [rowsPerPage, setRowsPerPage] = useState(10);
+  const { data } = useSelector((state) => state);
+  const [modalSrc, setModalSrc] = useState(null);
+  const [open, setOpen] = useState(false);
+  const [notification, setNotification] = useState({
+    status: false,
+    type: null,
+  });
+  const [responseMessage, setResponseMessage] = useState('');
+  const handleClose = () => setOpen(false);
 
-  const handleChangePage = (event, newPage) => {
-    setPage(newPage);
+  useEffect(() => {
+    if (modalSrc) {
+      return setOpen(true);
+    }
+    return null;
+  }, [modalSrc]);
+
+  const modalStyle = {
+    body: {
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+    },
+    img: {
+      width: '500px',
+      height: '500px',
+      objectFit: 'cover',
+    },
   };
-
-  const handleChangeRowsPerPage = (event) => {
-    setRowsPerPage(+event.target.value);
-    setPage(0);
+  const deleteUser = async (id) => {
+    try {
+      const deleteResponse = await axios.delete(`/api/v1/admin/users/${id}`);
+      setNotification({ status: true, type: 'success' });
+      return setResponseMessage(deleteResponse.data.message);
+    } catch (e) {
+      setNotification({ status: true, type: 'error' });
+      return setResponseMessage(e.response.data.message);
+    }
   };
-
-  // const { data } = useSelector((state) => state);
-
-  const rows = [
-    createData('India', 'IN', 1324171354, 3287263),
-    createData('China', 'CN', 1403500365, 9596961),
-    createData('Italy', 'IT', 60483973, 301340),
-    createData('United States', 'US', 327167434, 9833520),
-    createData('Canada', 'CA', 37602103, 9984670),
-    createData('Australia', 'AU', 25475400, 7692024),
-    createData('Germany', 'DE', 83019200, 357578),
-    createData('Ireland', 'IE', 4857000, 70273),
-    createData('Mexico', 'MX', 126577691, 1972550),
-    createData('Japan', 'JP', 126317000, 377973),
-    createData('France', 'FR', 67022000, 640679),
-    createData('United Kingdom', 'GB', 67545757, 242495),
-    createData('Russia', 'RU', 146793744, 17098246),
-    createData('Nigeria', 'NG', 200962417, 923768),
-    createData('Brazil', 'BR', 210147125, 8515767),
-  ];
-
+  const responseStatus = (message) => (
+    <muiModules.Snackbar
+      open={notification}
+      autoHideDuration={6000}
+      onClose={handleClose}
+    >
+      <muiModules.Alert onClose={handleClose} severity={notification.type}>
+        {message}
+      </muiModules.Alert>
+    </muiModules.Snackbar>
+  );
   return (
-    <muiModules.Paper sx={{ width: '100%', overflow: 'hidden' }}>
-      <muiModules.TableContainer sx={{ height: '100%' }}>
-        <muiModules.Table stickyHeader aria-label="sticky table">
-          <muiModules.TableHead>
-            <muiModules.TableRow>
-              {columns.map((column) => (
-                <muiModules.TableCell
-                  key={column.id}
-                  align={column.align}
-                  style={{ minWidth: column.minWidth }}
-                >
-                  {column.label}
-                </muiModules.TableCell>
-              ))}
-            </muiModules.TableRow>
-          </muiModules.TableHead>
-          <muiModules.TableBody>
-            {rows
-              .slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
-              .map((row) => (
-                <muiModules.TableRow
-                  hover
-                  role="checkbox"
-                  tabIndex={-1}
-                  key={row.code}
-                >
-                  {columns.map((column) => {
-                    const value = row[column.id];
-                    return (
-                      <muiModules.TableCell
-                        key={column.id}
-                        align={column.align}
-                      >
-                        {column.format && typeof value === 'number'
-                          ? column.format(value)
-                          : value}
+    <>
+      {notification.status ? responseStatus(responseMessage) : null}
+      <muiModules.Modal open={open} onClose={handleClose}>
+        <muiModules.Box sx={modalStyle.body}>
+          <img src={modalSrc} alt="alt" style={modalStyle.img} />
+        </muiModules.Box>
+      </muiModules.Modal>
+
+      <muiModules.Paper sx={{ width: '100%', overflow: 'hidden' }}>
+        <muiModules.TableContainer sx={{ maxHeight: 650 }}>
+          <muiModules.Table stickyHeader aria-label="sticky table">
+            <muiModules.TableHead>
+              <muiModules.TableRow>
+                {Array.isArray(data.data) && !!data.data[0]
+                  ? columns[data.data[0]].map((column) => (
+                    <muiModules.TableCell
+                      key={column.id}
+                      align="center"
+                      style={{ minWidth: column.minWidth }}
+                    >
+                      {column.label}
+                    </muiModules.TableCell>
+                  ))
+                  : null}
+              </muiModules.TableRow>
+            </muiModules.TableHead>
+            <muiModules.TableBody>
+              {Array.isArray(data.data) && !!data.data[1][0]
+                ? data.data[1].map((e) => (
+                  <muiModules.TableRow>
+                    {e.name ? (
+                      <muiModules.TableCell align="center">
+                        {e.name}
                       </muiModules.TableCell>
-                    );
-                  })}
-                </muiModules.TableRow>
-              ))}
-          </muiModules.TableBody>
-        </muiModules.Table>
-      </muiModules.TableContainer>
-      <muiModules.TablePagination
-        rowsPerPageOptions={[10, 25, 100]}
-        component="div"
-        count={rows.length}
-        rowsPerPage={rowsPerPage}
-        page={page}
-        onPageChange={handleChangePage}
-        onRowsPerPageChange={handleChangeRowsPerPage}
-      />
-    </muiModules.Paper>
+                    ) : null}
+                    {e.email ? (
+                      <muiModules.TableCell align="center">
+                        {e.email}
+                      </muiModules.TableCell>
+                    ) : null}
+                    {e.price ? (
+                      <muiModules.TableCell align="center">
+                        {e.price}
+                      </muiModules.TableCell>
+                    ) : null}
+                    {e.currency ? (
+                      <muiModules.TableCell align="center">
+                        {e.currency}
+                      </muiModules.TableCell>
+                    ) : null}
+                    {e.city ? (
+                      <muiModules.TableCell align="center">
+                        {e.city}
+                      </muiModules.TableCell>
+                    ) : null}
+                    {e.class ? (
+                      <muiModules.TableCell align="center">
+                        {e.class}
+                      </muiModules.TableCell>
+                    ) : null}
+                    {e.type ? (
+                      <muiModules.TableCell align="center">
+                        {e.type}
+                      </muiModules.TableCell>
+                    ) : null}
+                    {e.images ? (
+                      <muiModules.TableCell align="center">
+                        <muiModules.Button
+                          onClick={() => {
+                            setOpen(false);
+                            setModalSrc(JSON.parse(e.images)[0].image_1);
+                          }}
+                        >
+                          صورة للمنتج
+                        </muiModules.Button>
+                      </muiModules.TableCell>
+                    ) : null}
+                    {e.description ? (
+                      <muiModules.TableCell align="center">
+                        {e.description.substring(0, 40)}
+                        ...
+                      </muiModules.TableCell>
+                    ) : null}
+                    {e.phone ? (
+                      <muiModules.TableCell align="center">
+                        {e.phone}
+                      </muiModules.TableCell>
+                    ) : null}
+                    {e.post_date ? (
+                      <muiModules.TableCell align="center">
+                        {moment(e.post_date).local('ar').fromNow()}
+                      </muiModules.TableCell>
+                    ) : null}
+
+                    {data.data[0] === 'members' ? (
+                      <muiModules.TableCell align="center">
+                        <muiModules.RemoveCircleOutlineIcon
+                          sx={{
+                            color: 'gray',
+                            '&:hover': { color: 'red' },
+                            cursor: 'pointer',
+                          }}
+                          onClick={() => deleteUser(e.id)}
+                        />
+                      </muiModules.TableCell>
+                    ) : null}
+                    {data.data[0] === 'published' ? (
+                      <muiModules.TableCell align="center">
+                        حذف المنتج
+                      </muiModules.TableCell>
+                    ) : null}
+                    {data.data[0] === 'pending' ? (
+                      <muiModules.TableCell align="center">
+                        قبول
+                      </muiModules.TableCell>
+                    ) : null}
+                    {data.data[0] === 'pending' ? (
+                      <muiModules.TableCell align="center">
+                        رفض
+                      </muiModules.TableCell>
+                    ) : null}
+                  </muiModules.TableRow>
+                ))
+                : null}
+            </muiModules.TableBody>
+          </muiModules.Table>
+        </muiModules.TableContainer>
+      </muiModules.Paper>
+    </>
   );
 };
 export default Table;

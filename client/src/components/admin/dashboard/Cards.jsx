@@ -1,16 +1,15 @@
 /* eslint-disable react/prop-types */
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import { useSelector, useDispatch } from 'react-redux';
+import { useDispatch } from 'react-redux';
 import { chaneDate } from '../../../store/actions';
 import * as muiModules from '../../../mui-modules';
 
 const sx = {
-
   card: {
     margin: '2rem',
-    width: '250px',
-    height: '250px',
+    width: '200px',
+    height: '200px',
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'center',
@@ -32,25 +31,25 @@ const Card = () => {
   const [pending, setPending] = useState({});
   // eslint-disable-next-line no-unused-vars
   const [sold, setSold] = useState(148);
-
-  const request = async () => {
-    const testing = await Promise.all([
-      axios.get('/api/v1/admin/users'),
-      axios.get('/api/v1/admin/products?status=public'),
-      axios.get('/api/v1/admin/products?status=pending'),
-    ]);
-    const { data: membersResponse } = testing[0];
-    const { data: publishedResponse } = testing[1];
-    const { data: pendingResponse } = testing[2];
-    setMembers(membersResponse);
-    setPublished(publishedResponse);
-    setPending(pendingResponse);
-  };
-
-  useEffect(() => request(), []);
-
   const dispatch = useDispatch();
   const changeData = (type, state) => dispatch(chaneDate([type, state]));
+
+  useEffect(() => {
+    (async () => {
+      const testing = await Promise.all([
+        axios.get('/api/v1/admin/users'),
+        axios.get('/api/v1/admin/products?status=public'),
+        axios.get('/api/v1/admin/products?status=pending'),
+      ]);
+      const { data: membersResponse } = testing[0];
+      const { data: publishedResponse } = testing[1];
+      const { data: pendingResponse } = testing[2];
+      setMembers(membersResponse);
+      setPublished(publishedResponse);
+      setPending(pendingResponse);
+      changeData('members', membersResponse);
+    })();
+  }, []);
 
   return (
     <>
@@ -78,11 +77,7 @@ const Card = () => {
         <h3>البضائع المعلقة</h3>
         <h1>{pending.length}</h1>
       </muiModules.Box>
-      <muiModules.Box
-        title="البضائع المباعة"
-        value={sold}
-        sx={sx.card}
-      >
+      <muiModules.Box title="البضائع المباعة" value={sold} sx={sx.card}>
         <h3>البضائع المباعة</h3>
         <h1>{sold}</h1>
       </muiModules.Box>
