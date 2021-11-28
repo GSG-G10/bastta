@@ -44,6 +44,8 @@ import PersonRemoveIcon from '@mui/icons-material/PersonRemove';
 import DeleteOutlineIcon from '@mui/icons-material/DeleteOutline';
 import CheckCircleOutlineIcon from '@mui/icons-material/CheckCircleOutline';
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
+import SettingsIcon from '@mui/icons-material/Settings';
+import RemoveRedEyeIcon from '@mui/icons-material/RemoveRedEye';
 
 /* Material UI Buttons */
 
@@ -88,5 +90,7 @@ export {
   PersonRemoveIcon,
   CheckCircleOutlineIcon,
   CheckCircleIcon,
+  SettingsIcon,
+  RemoveRedEyeIcon,
 
 };

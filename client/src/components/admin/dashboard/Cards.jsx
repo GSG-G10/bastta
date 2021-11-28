@@ -1,8 +1,8 @@
 /* eslint-disable react/prop-types */
 import { useState, useEffect } from 'react';
 import axios from 'axios';
-import { useDispatch } from 'react-redux';
-import { chaneDate } from '../../../store/actions';
+import { useSelector, useDispatch } from 'react-redux';
+import * as actions from '../../../store/actions';
 import * as muiModules from '../../../mui-modules';
 
 const sx = {
@@ -26,13 +26,16 @@ const sx = {
 };
 
 const Card = () => {
-  const [members, setMembers] = useState({});
-  const [published, setPublished] = useState({});
-  const [pending, setPending] = useState({});
-  // eslint-disable-next-line no-unused-vars
-  const [sold, setSold] = useState(148);
+  const [test, setTest] = useState(false);
   const dispatch = useDispatch();
-  const changeData = (type, state) => dispatch(chaneDate([type, state]));
+
+  const setMembersData = (data) => dispatch(actions.membersData(data));
+  const setpublishedData = (data) => dispatch(actions.publishedData(data));
+  const setpendingData = (data) => dispatch(actions.pendingData(data));
+  const setTitle = (data) => dispatch(actions.viewTitle(data));
+  const setViewData = (data) => dispatch(actions.viewData(data));
+
+  const { data: stateData } = useSelector((state) => state);
 
   useEffect(() => {
     (async () => {
@@ -44,42 +47,64 @@ const Card = () => {
       const { data: membersResponse } = testing[0];
       const { data: publishedResponse } = testing[1];
       const { data: pendingResponse } = testing[2];
-      setMembers(membersResponse);
-      setPublished(publishedResponse);
-      setPending(pendingResponse);
-      changeData('members', membersResponse);
+      setMembersData(membersResponse);
+      setpublishedData(publishedResponse);
+      setpendingData(pendingResponse);
+      if (stateData.viewData.length === 0) {
+        setViewData(membersResponse);
+      }
     })();
-  }, []);
+  }, [test]);
 
   return (
     <>
       <muiModules.Box
         title="الأعضاء"
         sx={sx.card}
-        onClick={() => changeData('members', members)}
+        onClick={() => {
+          setTitle('members');
+          setViewData(stateData.members);
+          setTest((c) => !c);
+        }}
       >
         <h3>الأعضاء</h3>
-        <h1>{members.length}</h1>
+        <h1>{stateData.members.length}</h1>
       </muiModules.Box>
       <muiModules.Box
         title="البضائع المعلنة"
         sx={sx.card}
-        onClick={() => changeData('published', published)}
+        onClick={() => {
+          setTitle('published');
+          setViewData(stateData.published);
+          setTest((c) => !c);
+        }}
       >
         <h3>البضائع المعلنة</h3>
-        <h1>{published.length}</h1>
+        <h1>{stateData.published.length}</h1>
       </muiModules.Box>
       <muiModules.Box
         title="البضائع المعلقة"
         sx={sx.card}
-        onClick={() => changeData('pending', pending)}
+        onClick={() => {
+          setTitle('pending');
+          setViewData(stateData.pending);
+          setTest((c) => !c);
+        }}
       >
         <h3>البضائع المعلقة</h3>
-        <h1>{pending.length}</h1>
+        <h1>{stateData.pending.length}</h1>
       </muiModules.Box>
-      <muiModules.Box title="البضائع المباعة" value={sold} sx={sx.card}>
+      <muiModules.Box
+        title="البضائع المباعة"
+        sx={sx.card}
+        onClick={() => {
+          setTitle('sold');
+          setViewData(stateData.sold);
+          setTest((c) => !c);
+        }}
+      >
         <h3>البضائع المباعة</h3>
-        <h1>{sold}</h1>
+        <h1>{stateData.sold.length}</h1>
       </muiModules.Box>
     </>
   );

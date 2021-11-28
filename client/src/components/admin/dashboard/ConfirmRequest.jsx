@@ -9,7 +9,9 @@ import DialogTitle from '@mui/material/DialogTitle';
 import Paper from '@mui/material/Paper';
 import Draggable from 'react-draggable';
 import axios from 'axios';
+import { useDispatch } from 'react-redux';
 import * as muiModules from '../../../mui-modules';
+import * as actions from '../../../store/actions';
 
 const PaperComponent = (props) => (
   <Draggable
@@ -21,20 +23,41 @@ const PaperComponent = (props) => (
 );
 const hover = {
   redButtonHover: {
-    color: 'primary.main',
-    '&:hover': { color: 'red', border: '1px solid red' },
+    color: 'white',
+    '&:hover': { backgroundColor: 'red' },
+    cursor: 'pointer',
+  },
+  greenButtonHover: {
+    color: 'white',
+    '&:hover': { backgroundColor: 'green' },
     cursor: 'pointer',
   },
 };
 
-const ConfirmDeleteProduct = ({ title, productId, type }) => {
+const ConfirmRequest = ({
+  title,
+  id,
+  method,
+  type,
+  operation,
+  row,
+  dataType,
+}) => {
+  // States
+
   const [open, setOpen] = useState(false);
   const [responseMessage, setResponseMessage] = useState('');
   const [notification, setNotification] = useState({
     status: false,
     type: null,
   });
+  // Variables
+  const dispatch = useDispatch();
+  const deleteMemberRowTable = (rowId) => dispatch(actions.deleteMemberRow(rowId));
+  const deleteProductRowTable = (rowId) => dispatch(actions.deleteProductRow(rowId));
+  const deletePendingRowTable = (rowId) => dispatch(actions.deletePendingRow(rowId));
 
+  // Handlers
   const handleClickOpen = () => {
     setOpen(true);
   };
@@ -42,11 +65,28 @@ const ConfirmDeleteProduct = ({ title, productId, type }) => {
   const handleClose = () => {
     setOpen(false);
   };
-  const deleteUser = async (id) => {
+  // Request
+  const idAction = async (queryId) => {
     try {
-      const deleteResponse = await axios.delete(`/api/v1/admin/products/${id}`);
+      const idActionResponse = await axios({
+        method,
+        url: `/api/v1/admin/${type}/${queryId}`,
+      });
       setNotification({ status: true, type: 'success' });
-      return setResponseMessage(deleteResponse.data.message);
+      setResponseMessage(idActionResponse.data.message);
+      switch (dataType) {
+        case 'members': {
+          return deleteMemberRowTable(row.id);
+        }
+        case 'published': {
+          return deleteProductRowTable(row.id);
+        }
+        case 'pending': {
+          return deletePendingRowTable(row.id);
+        }
+        default:
+          return null;
+      }
     } catch (e) {
       setNotification({ status: true, type: 'error' });
       return setResponseMessage(e.response.data.message);
@@ -63,16 +103,34 @@ const ConfirmDeleteProduct = ({ title, productId, type }) => {
       </muiModules.Alert>
     </muiModules.Snackbar>
   );
+
+  const buttonIcon = () => {
+    switch (operation) {
+      case 'remove':
+        return <muiModules.DeleteOutlineIcon />;
+      case 'reject':
+        return <muiModules.RemoveCircleOutlineIcon />;
+      case 'accept':
+        return <muiModules.CheckCircleOutlineIcon />;
+      default:
+        return <muiModules.SettingsIcon />;
+    }
+  };
+
   return (
     <>
       {notification.status ? responseStatus(responseMessage) : null}
       <div>
         <Button
-          variant="outlined"
+          variant="contained"
           onClick={handleClickOpen}
-          sx={hover.redButtonHover}
+          sx={
+            operation === 'accept'
+              ? hover.greenButtonHover
+              : hover.redButtonHover
+          }
         >
-          <muiModules.DeleteOutlineIcon />
+          {buttonIcon()}
         </Button>
         <Dialog
           open={open}
@@ -86,8 +144,9 @@ const ConfirmDeleteProduct = ({ title, productId, type }) => {
           <DialogContent>
             <DialogContentText>
               هل أنت متأكد من
-              {type}
-              المنتج التالي
+              {method === 'delete' ? ' حذف ' : ' رفض '}
+              {type === 'products' ? ' المنتج ' : ' المستخدم '}
+              التالي
             </DialogContentText>
           </DialogContent>
           <DialogActions>
@@ -96,7 +155,7 @@ const ConfirmDeleteProduct = ({ title, productId, type }) => {
             </Button>
             <Button
               onClick={() => {
-                deleteUser(productId);
+                idAction(id);
                 handleClose();
               }}
             >
@@ -108,4 +167,4 @@ const ConfirmDeleteProduct = ({ title, productId, type }) => {
     </>
   );
 };
-export default ConfirmDeleteProduct;
+export default ConfirmRequest;

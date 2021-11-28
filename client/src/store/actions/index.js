@@ -1,4 +1,23 @@
-/* eslint-disable import/prefer-default-export */
-import chaneDate from './dashboard-actions';
+import {
+  chaneDate,
+  membersData,
+  publishedData,
+  pendingData,
+  viewTitle,
+  viewData,
+  deleteMemberRow,
+  deleteProductRow,
+  deletePendingRow,
+} from './dashboard-actions';
 
-export { chaneDate };
+export {
+  chaneDate,
+  membersData,
+  publishedData,
+  pendingData,
+  viewTitle,
+  viewData,
+  deleteMemberRow,
+  deleteProductRow,
+  deletePendingRow,
+};
