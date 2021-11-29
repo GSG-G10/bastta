@@ -16,6 +16,7 @@ const columns = {
   ],
   published: [
     { id: 'published_name', label: 'إسم المنتج' },
+    { id: 'published_userId', label: 'صفحة المعلن' },
     { id: 'published_price', label: 'السعر' },
     { id: 'published_currancy', label: 'العملة' },
     { id: 'published_city', label: 'المدينة' },
@@ -29,6 +30,7 @@ const columns = {
   ],
   pending: [
     { id: 'pending_name', label: 'إسم المنتج' },
+    { id: 'pending_userId', label: 'صفحة المعلن' },
     { id: 'pending_price', label: 'السعر' },
     { id: 'pending_currancy', label: 'العملة' },
     { id: 'pending_city', label: 'المدينة' },
@@ -69,7 +71,26 @@ const Table = () => {
                 <muiModules.TableRow key={e.id}>
                   {e.name ? (
                     <muiModules.TableCell align="center">
-                      {e.name}
+                      <muiModules.Link
+                        sx={{ cursor: 'pointer', textDecoration: 'none' }}
+                        target="_blank"
+                        href={
+                          e.user_id ? `/products/${e.id}` : `/users/${e.id}`
+                        }
+                      >
+                        {e.name}
+                      </muiModules.Link>
+                    </muiModules.TableCell>
+                  ) : null}
+                  {e.user_id ? (
+                    <muiModules.TableCell align="center">
+                      <muiModules.Link
+                        sx={{ cursor: 'pointer', textDecoration: 'none' }}
+                        target="_blank"
+                        href={`/users/${e.user_id}`}
+                      >
+                        <muiModules.ContactPageIcon />
+                      </muiModules.Link>
                     </muiModules.TableCell>
                   ) : null}
                   {e.email ? (
