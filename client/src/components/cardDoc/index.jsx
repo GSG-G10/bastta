@@ -5,7 +5,7 @@ import './style.css';
 
 const CardDoc = () => (
   <div className="container">
-    <section>
+    <section className="doc-section">
       <h3 className="title">
         رؤيتنا
       </h3>
