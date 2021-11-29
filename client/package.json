@@ -20,12 +20,10 @@
     "react-dom": "^17.0.2",
     "react-draggable": "^4.4.4",
     "react-icons": "^4.3.1",
-    "react-jwt": "^1.1.4",
     "react-redux": "^7.2.6",
     "react-router-dom": "^6.0.2",
     "react-scripts": "4.0.3",
     "react-slick": "^0.28.1",
-    "react-swipeable-views": "^0.14.0",
     "redux": "^4.1.2",
     "slick-carousel": "^1.8.1"
   },
