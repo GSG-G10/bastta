@@ -1,13 +1,10 @@
 const { verifyToken } = require('../utils/jwt');
 
-module.exports = (req, res, next) => {
+module.exports = async (req, res, next) => {
   try {
-    const {
-      cookies: { admin },
-    } = req;
-
+    const { admin } = req.cookies;
     if (admin) {
-      const decoded = verifyToken(admin, process.env.SECRET_KEY);
+      const decoded = await verifyToken(admin, process.env.SECRET_KEY);
       if (decoded.role === 'admin') {
         return next();
       }

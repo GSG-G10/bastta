@@ -1,21 +1,25 @@
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Footer from './components/footer';
+import {
+  BrowserRouter as Router, Routes, Route,
+} from 'react-router-dom';
 
 import { CssBaseline, ThemeProvider } from './mui-modules';
-import * as P from './pages';
+
+import * as Pages from './pages';
 import theme from './theme';
 
 const App = () => (
-
   <ThemeProvider theme={theme}>
     <CssBaseline />
     <Router>
-      <Switch>
-        <Route exact path="/" component={P.Home} />
-        <Route exact path="/doc" component={P.Document} />
-      </Switch>
+      <Routes>
+        <Route exact path="/" element={<Pages.Home />} />
+        <Route exact path="/doc" element={<Pages.Document />} />
+        <Route exact path="/dashboard" element={<Pages.Dashboard />} />
+        <Route exact path="/admin/*" element={<Pages.DashboardLogin />} />
+        <Route path="*" element={<Pages.NotFound />} />
+      </Routes>
     </Router>
-    <Footer />
+
   </ThemeProvider>
 );
 
