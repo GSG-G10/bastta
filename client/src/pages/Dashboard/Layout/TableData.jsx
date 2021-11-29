@@ -1,19 +1,10 @@
 import { Table } from '../../../components/admin';
+import * as style from './style';
 
-const TableData = () => {
-  const sx = {
-    tableBody: {
-      width: '100%',
-      height: '100%',
-      padding: '0 5rem',
-    },
-  };
-
-  return (
-    <div style={sx.tableBody}>
-      <Table />
-    </div>
-  );
-};
+const TableData = () => (
+  <div style={style.TableData.tableBody}>
+    <Table />
+  </div>
+);
 
 export default TableData;

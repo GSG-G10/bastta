@@ -3,26 +3,8 @@ import axios from 'axios';
 import Cookies from 'js-cookie';
 import { useNavigate } from 'react-router-dom';
 import * as muiModules from '../../../mui-modules';
+import style from './style';
 
-const sx = {
-  Box: {
-    height: '98vh',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  form: {
-    width: '30%',
-    display: 'flex',
-  },
-  passwordInput: {
-    width: '75%',
-    marginLeft: '1rem',
-  },
-  alert: {
-    width: '100%',
-  },
-};
 const DashboardLogin = () => {
   const [pass, setPass] = useState('');
   const [loginMessage, setLoginMessage] = useState('');
@@ -51,7 +33,7 @@ const DashboardLogin = () => {
       <muiModules.Alert
         onClose={handleClose}
         severity={open.type}
-        sx={sx.Alert}
+        style={style.Alert}
       >
         {message}
       </muiModules.Alert>
@@ -77,16 +59,16 @@ const DashboardLogin = () => {
   return (
     <>
       {open.status ? loginStatus(loginMessage) : null}
-      <muiModules.Box sx={sx.Box}>
+      <muiModules.Box style={style.Box}>
         <form
-          style={sx.form}
+          style={style.form}
           onSubmit={(e) => {
             e.preventDefault();
             handleLogin(pass.trim());
           }}
         >
           <muiModules.TextField
-            sx={sx.passwordInput}
+            style={style.passwordInput}
             id="password"
             type="password"
             placeholder="كلمة المرور"
@@ -94,7 +76,7 @@ const DashboardLogin = () => {
             require
           />
           <muiModules.Button
-            sx={sx.loginButton}
+            style={style.loginButton}
             color="primary"
             variant="contained"
             type="submit"

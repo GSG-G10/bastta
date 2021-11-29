@@ -1,38 +1,19 @@
 /* eslint-disable react/prop-types */
 import { useState } from 'react';
-import Button from '@mui/material/Button';
-import Dialog from '@mui/material/Dialog';
-import DialogActions from '@mui/material/DialogActions';
-import DialogContent from '@mui/material/DialogContent';
-import DialogContentText from '@mui/material/DialogContentText';
-import DialogTitle from '@mui/material/DialogTitle';
-import Paper from '@mui/material/Paper';
-import Draggable from 'react-draggable';
 import axios from 'axios';
 import { useDispatch } from 'react-redux';
 import * as muiModules from '../../../mui-modules';
 import * as actions from '../../../store/actions';
+import * as style from './style';
 
 const PaperComponent = (props) => (
-  <Draggable
+  <muiModules.Draggable
     handle="#draggable-dialog-title"
     cancel={'[class*="MuiDialogContent-root"]'}
   >
-    <Paper {...props} />
-  </Draggable>
+    <muiModules.Paper {...props} />
+  </muiModules.Draggable>
 );
-const hover = {
-  redButtonHover: {
-    color: 'white',
-    '&:hover': { backgroundColor: 'red' },
-    cursor: 'pointer',
-  },
-  greenButtonHover: {
-    color: 'white',
-    '&:hover': { backgroundColor: 'green' },
-    cursor: 'pointer',
-  },
-};
 
 const ConfirmRequest = ({
   title,
@@ -42,6 +23,7 @@ const ConfirmRequest = ({
   operation,
   row,
   dataType,
+  name,
 }) => {
   // States
 
@@ -51,6 +33,7 @@ const ConfirmRequest = ({
     status: false,
     type: null,
   });
+
   // Variables
   const dispatch = useDispatch();
   const deleteMemberRowTable = (rowId) => dispatch(actions.deleteMemberRow(rowId));
@@ -108,10 +91,13 @@ const ConfirmRequest = ({
     switch (operation) {
       case 'remove':
         return <muiModules.DeleteOutlineIcon />;
+
       case 'reject':
         return <muiModules.RemoveCircleOutlineIcon />;
+
       case 'accept':
         return <muiModules.CheckCircleOutlineIcon />;
+
       default:
         return <muiModules.SettingsIcon />;
     }
@@ -121,48 +107,51 @@ const ConfirmRequest = ({
     <>
       {notification.status ? responseStatus(responseMessage) : null}
       <div>
-        <Button
+        <muiModules.Button
           variant="contained"
           onClick={handleClickOpen}
           sx={
             operation === 'accept'
-              ? hover.greenButtonHover
-              : hover.redButtonHover
+              ? style.confirmRequest.hover.greenButtonHover
+              : style.confirmRequest.hover.redButtonHover
           }
         >
           {buttonIcon()}
-        </Button>
-        <Dialog
+        </muiModules.Button>
+        <muiModules.Dialog
           open={open}
           onClose={handleClose}
           PaperComponent={PaperComponent}
           aria-labelledby="draggable-dialog-title"
         >
-          <DialogTitle style={{ cursor: 'move' }} id="draggable-dialog-title">
+          <muiModules.DialogTitle
+            style={{ cursor: 'move' }}
+            id="draggable-dialog-title"
+          >
             {title}
-          </DialogTitle>
-          <DialogContent>
-            <DialogContentText>
+          </muiModules.DialogTitle>
+          <muiModules.DialogContent>
+            <muiModules.DialogContentText>
               هل أنت متأكد من
-              {method === 'delete' ? ' حذف ' : ' رفض '}
+              {method === 'delete' || method === 'reject' ? ' حذف ' : ' قبول '}
               {type === 'products' ? ' المنتج ' : ' المستخدم '}
-              التالي
-            </DialogContentText>
-          </DialogContent>
-          <DialogActions>
-            <Button autoFocus onClick={handleClose}>
+              {name}
+            </muiModules.DialogContentText>
+          </muiModules.DialogContent>
+          <muiModules.DialogActions>
+            <muiModules.Button autoFocus onClick={handleClose}>
               إلغاء
-            </Button>
-            <Button
+            </muiModules.Button>
+            <muiModules.Button
               onClick={() => {
                 idAction(id);
                 handleClose();
               }}
             >
               تأكيد
-            </Button>
-          </DialogActions>
-        </Dialog>
+            </muiModules.Button>
+          </muiModules.DialogActions>
+        </muiModules.Dialog>
       </div>
     </>
   );

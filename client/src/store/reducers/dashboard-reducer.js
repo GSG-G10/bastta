@@ -1,6 +1,6 @@
 /* eslint-disable default-param-last */
 const initialState = {
-  members: [], published: [], pending: [], sold: [], viewTitle: 'members', viewData: [],
+  members: [], published: [], pending: [], viewTitle: 'members', viewData: [],
 };
 
 const DashboardReducer = (state = initialState, action) => {
@@ -20,11 +20,6 @@ const DashboardReducer = (state = initialState, action) => {
         published: action.payload,
       };
     case 'PENDING_DATA':
-      return {
-        ...state,
-        pending: action.payload,
-      };
-    case 'SOLD_DATA':
       return {
         ...state,
         pending: action.payload,

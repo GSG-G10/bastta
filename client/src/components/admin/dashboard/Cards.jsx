@@ -4,26 +4,7 @@ import axios from 'axios';
 import { useSelector, useDispatch } from 'react-redux';
 import * as actions from '../../../store/actions';
 import * as muiModules from '../../../mui-modules';
-
-const sx = {
-  card: {
-    margin: '2rem',
-    width: '200px',
-    height: '200px',
-    display: 'flex',
-    flexDirection: 'column',
-    justifyContent: 'center',
-    alignItems: 'center',
-    borderRadius: '4px',
-    cursor: 'pointer',
-    color: 'white',
-    backgroundColor: 'primary.main',
-    '&:hover': {
-      backgroundColor: 'primary.main',
-      opacity: [0.9, 0.8, 0.7],
-    },
-  },
-};
+import * as style from './style';
 
 const Card = () => {
   const [test, setTest] = useState(false);
@@ -60,7 +41,7 @@ const Card = () => {
     <>
       <muiModules.Box
         title="الأعضاء"
-        sx={sx.card}
+        sx={style.card}
         onClick={() => {
           setTitle('members');
           setViewData(stateData.members);
@@ -72,7 +53,7 @@ const Card = () => {
       </muiModules.Box>
       <muiModules.Box
         title="البضائع المعلنة"
-        sx={sx.card}
+        sx={style.card}
         onClick={() => {
           setTitle('published');
           setViewData(stateData.published);
@@ -84,7 +65,7 @@ const Card = () => {
       </muiModules.Box>
       <muiModules.Box
         title="البضائع المعلقة"
-        sx={sx.card}
+        sx={style.card}
         onClick={() => {
           setTitle('pending');
           setViewData(stateData.pending);
@@ -93,18 +74,6 @@ const Card = () => {
       >
         <h3>البضائع المعلقة</h3>
         <h1>{stateData.pending.length}</h1>
-      </muiModules.Box>
-      <muiModules.Box
-        title="البضائع المباعة"
-        sx={sx.card}
-        onClick={() => {
-          setTitle('sold');
-          setViewData(stateData.sold);
-          setTest((c) => !c);
-        }}
-      >
-        <h3>البضائع المباعة</h3>
-        <h1>{stateData.sold.length}</h1>
       </muiModules.Box>
     </>
   );

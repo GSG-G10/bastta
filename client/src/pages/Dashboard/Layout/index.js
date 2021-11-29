@@ -2,20 +2,12 @@ import Sidbar from './Sidbar';
 import PublicView from './PublicView';
 import TableData from './TableData';
 
-const sx = {
-  dashboard: {
-    display: 'flex',
-    justifyContent: 'space-betwwen',
-  },
-  dashboardBody: {
-    width: '85vw',
-  },
-};
+import * as style from './style';
 
 const Dashboard = () => (
-  <section style={sx.dashboard}>
+  <section style={style.LayoutBody.dashboard}>
     <Sidbar />
-    <section style={sx.dashboardBody}>
+    <section style={style.LayoutBody.dashboardBody}>
       <PublicView />
       <TableData />
     </section>

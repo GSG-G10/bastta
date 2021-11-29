@@ -2,21 +2,7 @@
 import { useState } from 'react';
 
 import * as muiModules from '../../../mui-modules';
-
-const style = {
-  position: 'absolute',
-  top: '50%',
-  left: '50%',
-  transform: 'translate(-50%, -50%)',
-  width: 800,
-  height: 800,
-  boxShadow: 24,
-  pt: 2,
-  px: 4,
-  pb: 3,
-  backgroundRepeat: 'no-repeat',
-  backgroundSize: 'cover',
-};
+import * as style from './style';
 
 const ImageModal = ({ imageSrc }) => {
   const [open, setOpen] = useState(false);
@@ -38,7 +24,7 @@ const ImageModal = ({ imageSrc }) => {
         aria-describedby="parent-modal-description"
       >
         <muiModules.Box
-          sx={{ ...style, backgroundImage: `url(${imageSrc})` }}
+          sx={{ ...style.imageModal, backgroundImage: `url(${imageSrc})` }}
         />
       </muiModules.Modal>
     </div>
