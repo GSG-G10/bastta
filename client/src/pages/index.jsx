@@ -1,14 +1,10 @@
 import Home from './home';
 import Document from './document';
-<<<<<<< HEAD
+import { Error404, Error500 } from './errors';
+import { Dashboard, DashboardLogin } from './Dashboard';
 import SingleProductPage from './single';
 
-export { Home, Document, SingleProductPage };
-=======
-import NotFound from './error/NotFound';
-import { Dashboard, DashboardLogin } from './Dashboard';
-
 export {
-  Home, Document, Dashboard, DashboardLogin, NotFound,
+  Home, Document, Dashboard,
+  SingleProductPage, DashboardLogin, Error404, Error500,
 };
->>>>>>> main
