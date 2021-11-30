@@ -21,7 +21,14 @@ const Footer = () => (
     <Stack
       direction="row"
       sx={{ backgroundColor: '#1a6e9a' }}
-      divider={<Divider orientation="vertical" color="white" sx={{ height: 200, marginTop: 5 }} flexItem />}
+      divider={(
+        <Divider
+          orientation="vertical"
+          color="white"
+          sx={{ height: 200, marginTop: 5 }}
+          flexItem
+        />
+    )}
     >
       <Item>
         <ItemOne />
