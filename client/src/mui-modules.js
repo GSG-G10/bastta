@@ -29,6 +29,11 @@ import DialogContent from '@mui/material/DialogContent';
 import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
 import Link from '@mui/material/Link';
+import Card from '@mui/material/Card';
+import CardContent from '@mui/material/CardContent';
+import CardMedia from '@mui/material/CardMedia';
+import CardActionArea from '@mui/material/CardActionArea';
+import CardActions from '@mui/material/CardActions';
 
 /* Material UI Icons */
 import PhoneIcon from '@mui/icons-material/Phone';
@@ -48,6 +53,7 @@ import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import SettingsIcon from '@mui/icons-material/Settings';
 import RemoveRedEyeIcon from '@mui/icons-material/RemoveRedEye';
 import ContactPageIcon from '@mui/icons-material/ContactPage';
+import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
 
 /* Material UI Buttons */
 
@@ -96,4 +102,10 @@ export {
   SettingsIcon,
   RemoveRedEyeIcon,
   ContactPageIcon,
+  LocationOnOutlinedIcon,
+  Card,
+  CardContent,
+  CardMedia,
+  CardActionArea,
+  CardActions,
 };
