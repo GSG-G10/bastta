@@ -17,6 +17,7 @@ const App = () => (
         <Route exact path="/dashboard" element={<Pages.Dashboard />} />
         <Route exact path="/admin/*" element={<Pages.DashboardLogin />} />
         <Route exact path="/product/search/:search" element={<Pages.ClassifiedProduct />} />
+        <Route exact path="/products/:slug" element={<Pages.SingleProductPage />} />
         <Route path="/error" element={<Pages.Error500 />} />
         <Route path="*" element={<Pages.Error404 />} />
       </Routes>

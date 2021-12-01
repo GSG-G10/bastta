@@ -15,7 +15,7 @@ const CalssifiedCard = () => {
     const getData = async () => {
       const resultes = await axios.get(`/api/v1/products/search?q=${search}`);
       const res = resultes.data;
-      if (typeof (res) === 'undefined') {
+      if (!res) {
         setMessage(resultes.data.message);
       } else {
         dataSet(res);
@@ -78,7 +78,7 @@ const CalssifiedCard = () => {
           </section>
 
         </M.Box>
-      )) : <h3>No Data to show!</h3>}
+      )) : <h3>لا يوجد بيانات لعرضها يرجى المحاولة مرة اخرى !</h3>}
     </M.Box>
   );
 };
