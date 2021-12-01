@@ -1,3 +1,4 @@
 import schemaErrors from './constants';
+import checkAuth from './checkAuth';
 
-export default schemaErrors;
+export { schemaErrors, checkAuth };

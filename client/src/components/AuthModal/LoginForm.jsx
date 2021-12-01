@@ -2,11 +2,11 @@
 import { useState } from 'react';
 import axios from 'axios';
 import { useDispatch } from 'react-redux';
-import Cookies from 'js-cookie';
+// import Cookies from 'js-cookie';
 
 import * as muiModules from '../../mui-modules';
 import Sncakbar from './Sncakbar';
-import schemaErrors from '../../utils';
+import * as utils from '../../utils';
 import * as actions from '../../store/actions';
 import style from './style';
 
@@ -19,13 +19,12 @@ const LoginForm = ({ setManageModal }) => {
   const { createAuth } = actions;
   const dispatch = useDispatch();
 
-  const AuthProccess = (message) => {
+  const loaderMessage = (message) => {
     setLoading((c) => !c);
     setTimeout(() => {
       setAlertMessage({ type: true, message });
       setOpenAlert((c) => !c);
       setLoading((c) => !c);
-      console.log(Cookies.get());
       return window.location.reload();
     }, 2000);
   };
@@ -36,9 +35,12 @@ const LoginForm = ({ setManageModal }) => {
         email,
         password,
       });
-      return AuthProccess(loginResponse.message);
+      loaderMessage(loginResponse.message);
+      const test = await axios.get('/api/v1/users/isAuth');
+      dispatch(createAuth(test.data));
+      return dispatch(createAuth(test.data));
     } catch (err) {
-      return AuthProccess(err.response.data.error.message);
+      return loaderMessage(err.response.data.error.message);
     }
   };
   return (
@@ -46,7 +48,7 @@ const LoginForm = ({ setManageModal }) => {
       {openAlert ? (
         <Sncakbar
           type={alertMessage.type}
-          message={schemaErrors[Number(alertMessage.message)]}
+          message={utils.schemaErrors[Number(alertMessage.message)]}
         />
       ) : null}
 

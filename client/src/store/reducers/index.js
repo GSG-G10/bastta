@@ -4,7 +4,7 @@ import authReducer from './user-reducer';
 
 const reducer = combineReducers({
   data: DashboardReducer,
-  auth: authReducer,
+  authId: authReducer,
 });
 
 export default reducer;

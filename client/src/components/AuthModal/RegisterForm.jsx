@@ -4,7 +4,7 @@ import axios from 'axios';
 import Sncakbar from './Sncakbar';
 
 import * as muiModules from '../../mui-modules';
-import schemaErrors from '../../utils';
+import * as utils from '../../utils';
 
 const style = {
   input: {
@@ -56,7 +56,7 @@ const RegisterForm = ({ setManageModal }) => {
       {openAlert ? (
         <Sncakbar
           type={alertMessage.type}
-          message={schemaErrors[Number(alertMessage.message)]}
+          message={utils.schemaErrors[Number(alertMessage.message)]}
         />
       ) : null}
 
