@@ -29,6 +29,7 @@ import DialogContent from '@mui/material/DialogContent';
 import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
 import Link from '@mui/material/Link';
+import CircularProgress from '@mui/material/CircularProgress';
 
 /* Material UI Icons */
 import PhoneIcon from '@mui/icons-material/Phone';
@@ -48,6 +49,7 @@ import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import SettingsIcon from '@mui/icons-material/Settings';
 import RemoveRedEyeIcon from '@mui/icons-material/RemoveRedEye';
 import ContactPageIcon from '@mui/icons-material/ContactPage';
+import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 
 /* Material UI Buttons */
 
@@ -82,6 +84,7 @@ export {
   DialogTitle,
   Draggable,
   Link,
+  CircularProgress,
   PhoneIcon,
   FavoriteIcon,
   PersonPinIcon,
@@ -96,4 +99,5 @@ export {
   SettingsIcon,
   RemoveRedEyeIcon,
   ContactPageIcon,
+  AccountCircleIcon,
 };

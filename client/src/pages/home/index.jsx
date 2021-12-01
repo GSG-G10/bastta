@@ -1,11 +1,13 @@
-import { Container } from '../../mui-modules';
+import * as muiModules from '../../mui-modules';
 import * as Components from '../../components';
 
 const Home = () => (
-  <Container sx={{ width: '1236px' }} maxWidth="xl">
+  <muiModules.Container maxWidth="xl">
+    <Components.Navbar />
+    <Components.AuthModal />
     <Components.SliderHome />
     <Components.Footer />
-  </Container>
+  </muiModules.Container>
 );
 
 export default Home;

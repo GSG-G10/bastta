@@ -10,6 +10,8 @@ import {
   deletePendingRow,
 } from './dashboard-actions';
 
+import createAuth from './user-actions';
+
 export {
   chaneDate,
   membersData,
@@ -20,4 +22,5 @@ export {
   deleteMemberRow,
   deleteProductRow,
   deletePendingRow,
+  createAuth,
 };
