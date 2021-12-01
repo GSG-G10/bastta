@@ -28,10 +28,12 @@ const Home = () => {
         <Components.SliderHome />
         <ProductsContainer sectionClass={recentProducts} sectionName="المضافة حديثاً" />
         <ProductsContainer sectionClass={mostFavourite} sectionName="الأكثر إعجاباً" />
+        <Components.AdsLoginCard />
         <ProductsContainer sectionClass={electronicsProducts} sectionName="الأكثر زيارة في قسم الإلكترونيات" />
         <ProductsContainer sectionClass={athathProducts} sectionName="الأكثر زيارة في قسم الأثاث" />
         <ProductsContainer sectionClass={markabatProducts} sectionName="الأكثر زيارة في قسم المركبات" />
         <ProductsContainer sectionClass={khdmatProducts} sectionName="الأكثر زيارة في قسم الخدمات" />
+        <Components.AdsCard />
       </Container>
       <Components.Footer />
     </>
