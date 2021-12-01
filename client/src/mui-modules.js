@@ -53,6 +53,10 @@ import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import SettingsIcon from '@mui/icons-material/Settings';
 import RemoveRedEyeIcon from '@mui/icons-material/RemoveRedEye';
 import ContactPageIcon from '@mui/icons-material/ContactPage';
+import LocalPhoneIcon from '@mui/icons-material/LocalPhone';
+import ChatIcon from '@mui/icons-material/Chat';
+import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
+import LocationOnIcon from '@mui/icons-material/LocationOn';
 import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
 
 /* Material UI Buttons */
@@ -102,6 +106,10 @@ export {
   SettingsIcon,
   RemoveRedEyeIcon,
   ContactPageIcon,
+  LocalPhoneIcon,
+  ChatIcon,
+  FavoriteBorderIcon,
+  LocationOnIcon,
   LocationOnOutlinedIcon,
   Card,
   CardContent,

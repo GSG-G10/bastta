@@ -4,7 +4,8 @@ import SingleProduct from './singleProduct';
 import Footer from './footer';
 import AdsCard from './ads';
 import AdsLoginCard from './adsLoginCard';
+import CalssifiedCard from './classifiedCard';
 
 export {
-  SliderHome, CardDoc, SingleProduct, Footer, AdsCard, AdsLoginCard,
+  SliderHome, CardDoc, SingleProduct, Footer, AdsCard, AdsLoginCard, CalssifiedCard,
 };
