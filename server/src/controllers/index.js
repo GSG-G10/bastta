@@ -27,6 +27,7 @@ const {
 
 const {
   getUsers,
+  getUserId,
   deleteUser,
 } = require('./users');
 
@@ -39,6 +40,7 @@ module.exports = {
   getFavs,
   getUsers,
   userLogin,
+  getUserId,
   deleteFav,
   adminLogin,
   userLogout,
