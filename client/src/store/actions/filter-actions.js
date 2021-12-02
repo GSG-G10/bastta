@@ -18,11 +18,6 @@ const price = (data) => ({
   payload: data,
 });
 
-const search = (data) => ({
-  type: 'SEARCH',
-  payload: data,
-});
-
 const filteredData = (data) => ({
   type: 'FILTERED_DATA',
   payload: data,
@@ -36,7 +31,6 @@ export {
   section,
   type,
   price,
-  search,
   filteredData,
   clear,
 };

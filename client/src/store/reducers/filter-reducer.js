@@ -1,19 +1,5 @@
-import axios from 'axios';
-
-const fetchAllData = () => {
-  const fetchData = async () => {
-    const response = await axios.get('/api/v1/products/public');
-    if (!response.data) {
-      return [];
-    }
-    return response.data;
-  };
-  return fetchData();
-};
-const data = fetchAllData();
-
 const initialState = {
-  city: '', section: 'الإلكترونيات', type: 'موبايل', price: '0', search: '', filteredData: data,
+  city: '', section: 'الإلكترونيات', type: 'موبايل', price: '0', search: '', filteredData: [],
 };
 
 const FilterReducer = (state, action) => {
@@ -46,11 +32,6 @@ const FilterReducer = (state, action) => {
               ? ele.price >= action.payload[0]
                 && ele.price <= action.payload[1]
               : ele.price >= action.payload[0])),
-      };
-    case 'SEARCH':
-      return {
-        ...state,
-        search: action.payload,
       };
     case 'FILTERED_DATA':
       return {
