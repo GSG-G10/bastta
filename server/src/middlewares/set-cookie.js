@@ -10,7 +10,7 @@ module.exports = async (req, res, next) => {
     return res
       .cookie('token', token, { httpOnly: true, secure: true })
       .status(201)
-      .json({ message: 'Logged In Successfully' });
+      .json({ message: '1010' });
   } catch (err) {
     return next(err);
   }

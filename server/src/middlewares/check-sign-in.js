@@ -15,11 +15,11 @@ module.exports = async (req, res, next) => {
       req.body.userId = value.userId;
       next();
     } else {
-      res.status(401).json({ message: 'You are not registred yet' });
+      res.status(401).json({ message: '1011' });
     }
   } catch (err) {
     if (err.message.includes('invalid')) {
-      res.status(401).json({ message: 'Invalid token' });
+      res.status(401).json({ message: '1012' });
     } else {
       next(err);
     }

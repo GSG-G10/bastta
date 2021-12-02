@@ -25,6 +25,8 @@ const Home = () => {
   return (
     <>
       <Container sx={{ width: '1236px' }} maxWidth="xl">
+        <Components.Navbar />
+        <Components.AuthModal />
         <Components.SliderHome />
         <ProductsContainer sectionClass={recentProducts} sectionName="المضافة حديثاً" />
         <ProductsContainer sectionClass={mostFavourite} sectionName="الأكثر إعجاباً" />
