@@ -19,13 +19,13 @@ const LoginForm = ({ setManageModal }) => {
   const { createAuth } = actions;
   const dispatch = useDispatch();
 
-  const loaderMessage = (message) => {
+  const loaderMessage = (type, message) => {
     setLoading((c) => !c);
     setTimeout(() => {
       setAlertMessage({ type: true, message });
       setOpenAlert((c) => !c);
       setLoading((c) => !c);
-      return window.location.reload();
+      return type ? window.location.reload() : null;
     }, 2000);
   };
 
@@ -35,12 +35,12 @@ const LoginForm = ({ setManageModal }) => {
         email,
         password,
       });
-      loaderMessage(loginResponse.message);
+      loaderMessage(true, loginResponse.message);
       const test = await axios.get('/api/v1/users/isAuth');
       dispatch(createAuth(test.data));
       return dispatch(createAuth(test.data));
     } catch (err) {
-      return loaderMessage(err.response.data.error.message);
+      return loaderMessage(false, err.response.data.error.message);
     }
   };
   return (

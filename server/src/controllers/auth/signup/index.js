@@ -9,7 +9,7 @@ module.exports = async (req, res, next) => {
     if (user) {
       return res
         .status(403)
-        .json({ error: { message: '1010' } });
+        .json({ error: { message: '1007' } });
     }
     const newUser = await addNewUser(req.body);
     req.userId = newUser.id;

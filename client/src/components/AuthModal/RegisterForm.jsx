@@ -25,13 +25,13 @@ const RegisterForm = ({ setManageModal }) => {
   const [openAlert, setOpenAlert] = useState(false);
   const [loading, setLoading] = useState(false);
 
-  const AuthProccess = (message) => {
+  const AuthProccess = (type, message) => {
     setLoading((c) => !c);
     setTimeout(() => {
       setAlertMessage({ type: true, message });
       setOpenAlert((c) => !c);
       setLoading((c) => !c);
-      return window.location.reload();
+      return type ? window.location.reload() : null;
     }, 2000);
   };
   const RegisterRequest = async (name, email, password, confirmPassword) => {
@@ -45,9 +45,9 @@ const RegisterForm = ({ setManageModal }) => {
           confirmPassword,
         },
       );
-      return AuthProccess(signupResponse.message);
+      return AuthProccess(true, signupResponse.message);
     } catch (err) {
-      return AuthProccess(err.response.data.error.message);
+      return AuthProccess(false, err.response.data.error.message);
     }
   };
 
