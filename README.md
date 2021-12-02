@@ -81,11 +81,10 @@ Now you can view the app live in the Browser!
 
 ## **Technologies** :computer: :-
 
-- BackEnd: **Express Node JS**, 
-- FrontEnd: **React JS**
+- BackEnd: **Express-Node JS**, 
+- FrontEnd: **React.js**
 - Database: **Postgresql**
-- Styling: **MUI**, **SASS**
-- Libraries: **Styled Component**
+- Libraries: **MUI**
 
 ## **Team Members** :-
 

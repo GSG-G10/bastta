@@ -8,11 +8,11 @@ module.exports = async (req, res, next) => {
     await loginSchema.validateAsync(req.body);
     const user = await checkAccount(email);
     if (!user) {
-      return res.status(401).json({ error: { message: 'invalid email or password' } });
+      return res.status(401).json({ error: { message: '1008' } });
     }
     const compared = await comparePasswords(password, user.password);
     if (!compared) {
-      return res.status(401).json({ error: { message: 'invalid email or password' } });
+      return res.status(401).json({ error: { message: '1008' } });
     }
     req.userId = user.id;
     return next();

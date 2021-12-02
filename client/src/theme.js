@@ -2,6 +2,12 @@ import { createTheme } from '@mui/material/styles';
 
 const theme = createTheme({
   direction: 'rtl',
+  breakpoints: {
+    values: {
+      lg: 1280,
+      xl: 1440,
+    },
+  },
   palette: {
     primary: { main: '#1a6e9a' },
     hoverPrimary: { main: '#CFCED3' },
@@ -33,6 +39,5 @@ const theme = createTheme({
       '"Segoe UI Symbol"',
     ].join(','),
   },
-
 });
 export default theme;

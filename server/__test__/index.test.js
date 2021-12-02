@@ -181,7 +181,7 @@ describe('Server Tests', () => {
     });
   });
   /* *********************** Login Tests ************************** */
-  test('test login route with status 200 Logged in successfuly', async () => {
+  test('test login route with status 200 Logged in successfuly #1010', async () => {
     const res = await request(app)
       .post('/api/v1/users/login')
       .send({
@@ -189,9 +189,9 @@ describe('Server Tests', () => {
         password: 'asd123456',
       })
       .expect(201);
-    expect(res.body).toEqual({ message: 'Logged In Successfully' });
+    expect(res.body).toEqual({ message: '1010' });
   });
-  test('test login route with status 400 Bad Request', async () => {
+  test('test login route with status 400 Bad Request #1004', async () => {
     const res = await request(app)
       .post('/api/v1/users/login')
       .send({
@@ -201,12 +201,12 @@ describe('Server Tests', () => {
       .expect(400);
     expect(res.body).toEqual({
       error: {
-        message: '"email" must be a valid email',
+        message: '1004',
         status: 400,
       },
     });
   });
-  test('test login route with status 401 Not Authorized', async () => {
+  test('test login route with status 401 Not Authorized #1008', async () => {
     const res = await request(app)
       .post('/api/v1/users/login')
       .send({
@@ -214,6 +214,6 @@ describe('Server Tests', () => {
         password: '123456789',
       })
       .expect(401);
-    expect(res.body).toEqual({ error: { message: 'invalid email or password' } });
+    expect(res.body).toEqual({ error: { message: '1008' } });
   });
 });
