@@ -16,7 +16,7 @@ module.exports = async (req, res, next) => {
         products = await getLandingProducts('likes', Number(limit));
         break;
       case undefined:
-        products = await getAllProducts(Number(limit));
+        products = await getAllProducts();
         break;
       default:
         products = await getProductsBySection(section, 0, Number(limit));
