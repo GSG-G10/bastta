@@ -205,4 +205,3 @@ const RegisterForm = ({ setManageModal }) => {
 };
 export default RegisterForm;
 
-/* RegisterForm */
