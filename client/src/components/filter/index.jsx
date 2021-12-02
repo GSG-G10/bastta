@@ -2,9 +2,12 @@ import { useEffect, useState } from 'react';
 import axios from 'axios';
 
 import {
-  InputLabel, Select, MenuItem, Button,
+  InputLabel, Select, MenuItem, Button, TextField,
 } from '@mui/material';
 import { useSelector, useDispatch } from 'react-redux';
+import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
+import FormatListBulletedTwoToneIcon from '@mui/icons-material/FormatListBulletedTwoTone';
+
 import {
   city, type, section, filteredData, clear,
 } from '../../store/actions/filter-actions';
@@ -12,20 +15,13 @@ import cities from './cities';
 import { types, sections } from '../../assets/sections-types';
 import Price from './Price';
 
+import style from './style';
+
 const Filter = () => {
   const [data, setData] = useState([]);
   const [typesArr, setTypesArr] = useState(types[1].typesArr);
   const { filter } = useSelector((state) => state);
-  const ITEM_HEIGHT = 48;
-  const ITEM_PADDING_TOP = 8;
-  const MenuProps = {
-    PaperProps: {
-      style: {
-        maxHeight: ITEM_HEIGHT * 4.5 + ITEM_PADDING_TOP,
-        width: 250,
-      },
-    },
-  };
+
   const dispatch = useDispatch();
 
   useEffect(() => {
@@ -39,6 +35,7 @@ const Filter = () => {
     };
     fetchData();
   }, []);
+
   const handleInputChange = (e) => {
     switch (e.target.name) {
       case 'city':
@@ -52,61 +49,90 @@ const Filter = () => {
     }
   };
 
+  const searchRequest = async (value) => {
+    const response = await axios.get(`/api/v1/products/search?q=${value}`);
+    if (!response.data) {
+      return [];
+    }
+    dispatch(clear());
+    return dispatch(filteredData(response.data.data));
+  };
+
+  const onSubmit = (e) => {
+    e.preventDefault();
+    const { search: searchInput } = e.target.elements;
+    searchRequest(searchInput.value);
+  };
+
   const clearFilters = () => {
     dispatch(clear());
     dispatch(filteredData(data));
   };
 
+  const ITEM_HEIGHT = 48;
+  const ITEM_PADDING_TOP = 8;
+  const MenuProps = {
+    PaperProps: {
+      style: {
+        maxHeight: ITEM_HEIGHT * 4.5 + ITEM_PADDING_TOP,
+        width: 250,
+      },
+    },
+  };
+
   return (
-    <div className="form-container">
-      <h2>
+    <div className="form-container" style={style.container}>
+      <h2 style={style.containerHeading}>
         فلترة
       </h2>
-      <form className="form">
-        <InputLabel id="city-select">المدينة</InputLabel>
+      <form className="form" onSubmit={onSubmit}>
+        <InputLabel id="city-select" sx={style.formLabel}>
+          <LocationOnOutlinedIcon sx={style.icons} />
+          {' '}
+          المدينة
+        </InputLabel>
         <Select
-          labelId="city-select"
           id="city"
           value={filter.city}
           label="المدينة"
           MenuProps={MenuProps}
           placeholder="اختر المدينة"
-          sx={{
-            width: 300,
-          }}
+          sx={style.select}
           onChange={handleInputChange}
           name="city"
         >
           {cities.map((ele) => <MenuItem key={ele} value={ele}>{ele}</MenuItem>)}
         </Select>
 
-        <InputLabel id="city-select">القسم</InputLabel>
+        <InputLabel id="city-select" sx={style.formLabel}>
+          <FormatListBulletedTwoToneIcon sx={style.icons} />
+          {' '}
+          القسم
+        </InputLabel>
         <Select
-          labelId="section-select"
           id="section"
           value={filter.section}
           label="القسم"
           MenuProps={MenuProps}
           placeholder="اختر القسم"
-          sx={{
-            width: 300,
-          }}
+          sx={style.select}
           onChange={handleInputChange}
           name="section"
         >
           {sections.map((ele) => <MenuItem key={ele} value={ele}>{ele}</MenuItem>)}
         </Select>
-        <InputLabel id="city-select">الصنف</InputLabel>
+        <InputLabel id="city-select" sx={style.formLabel}>
+          <FormatListBulletedTwoToneIcon sx={style.icons} />
+          {' '}
+          الصنف
+        </InputLabel>
         <Select
-          labelId="type-select"
           id="type"
           value={filter.type}
           label="الصنف"
           MenuProps={MenuProps}
           placeholder="اختر الصنف"
-          sx={{
-            width: 300,
-          }}
+          sx={style.select}
           onChange={handleInputChange}
           name="type"
         >
@@ -114,8 +140,27 @@ const Filter = () => {
         </Select>
 
         <Price />
+        <div className="search" style={style.search}>
+          <InputLabel id="search" sx={style.formLabel}>
+            كلمات مفتاحية
+          </InputLabel>
+          <TextField required fullWidth name="search" placeholder="لابتوب، اكسسوارات، موبايل ..." />
+        </div>
+        <div className="btns" style={style.btns}>
+
+          <Button
+            type="submit"
+            variant="contained"
+            sx={style.srchBtn}
+          >
+            {' '}
+            عرض نتائج البحث
+            {' '}
+
+          </Button>
+          <Button variant="text" sx={style.clearBtn} size="small" onClick={clearFilters}>مسح جميع التصنيفات</Button>
+        </div>
       </form>
-      <Button variant="outlined" onClick={clearFilters}>مسح جميع التصنيفات</Button>
     </div>
   );
 };
