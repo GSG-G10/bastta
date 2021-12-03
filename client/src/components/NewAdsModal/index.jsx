@@ -1,21 +1,19 @@
 import { useState } from 'react';
 
 import * as muiModules from '../../mui-modules';
-import LoginForm from './LoginForm';
-import RegisterForm from './RegisterForm';
+// import LoginForm from './LoginForm';
+// import RegisterForm from './RegisterForm';
 import style from './style';
 
-const AuthModal = () => {
-  const [manageModal, setManageModal] = useState(true);
+const NewAdsModal = () => {
   const [open, setOpen] = useState(false);
 
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
   return (
     <div>
-      <muiModules.Button onClick={handleOpen}>
-        <p>تسجيل الدخول</p>
-        <muiModules.AccountCircleIcon fontSize="large" />
+      <muiModules.Button variant="outlined" onClick={handleOpen}>
+        أضف إعلان جديد
       </muiModules.Button>
       <muiModules.Modal
         keepMounted
@@ -25,14 +23,10 @@ const AuthModal = () => {
         aria-describedby="keep-mounted-modal-description"
       >
         <muiModules.Box sx={style.modal}>
-          {manageModal ? (
-            <LoginForm setManageModal={setManageModal} />
-          ) : (
-            <RegisterForm setManageModal={setManageModal} />
-          )}
+          <h3>Form is here</h3>
         </muiModules.Box>
       </muiModules.Modal>
     </div>
   );
 };
-export default AuthModal;
+export default NewAdsModal;

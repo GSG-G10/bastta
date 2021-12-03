@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { useState } from 'react';
 import axios from 'axios';
-import Sncakbar from './Sncakbar';
+import Sncakbar from '../Snackabr';
 
 import * as muiModules from '../../mui-modules';
 import * as utils from '../../utils';
@@ -204,4 +204,3 @@ const RegisterForm = ({ setManageModal }) => {
   );
 };
 export default RegisterForm;
-

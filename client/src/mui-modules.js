@@ -35,6 +35,10 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import CardActionArea from '@mui/material/CardActionArea';
 import CardActions from '@mui/material/CardActions';
+import InputBase from '@mui/material/InputBase';
+import Select from '@mui/material/Select';
+import Menu from '@mui/material/Menu';
+import MenuItem from '@mui/material/MenuItem';
 
 /* Material UI Icons */
 import PhoneIcon from '@mui/icons-material/Phone';
@@ -120,4 +124,8 @@ export {
   CardMedia,
   CardActionArea,
   CardActions,
+  InputBase,
+  Select,
+  Menu,
+  MenuItem,
 };

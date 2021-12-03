@@ -5,53 +5,40 @@ import { useDispatch } from 'react-redux';
 // import Cookies from 'js-cookie';
 
 import * as muiModules from '../../mui-modules';
-import Sncakbar from './Sncakbar';
-import * as utils from '../../utils';
-import * as actions from '../../store/actions';
+import { schemaErrors } from '../../utils';
+import { showMessage, createAuth } from '../../store/actions';
 import style from './style';
 
 const LoginForm = ({ setManageModal }) => {
   const [emailInput, setEmailInput] = useState('');
   const [passwordInput, setPasswordInput] = useState('');
-  const [alertMessage, setAlertMessage] = useState({});
-  const [openAlert, setOpenAlert] = useState(false);
   const [loading, setLoading] = useState(false);
-  const { createAuth } = actions;
-  const dispatch = useDispatch();
 
-  const loaderMessage = (type, message) => {
-    setLoading((c) => !c);
-    setTimeout(() => {
-      setAlertMessage({ type: true, message });
-      setOpenAlert((c) => !c);
-      setLoading((c) => !c);
-      return type ? window.location.reload() : null;
-    }, 2000);
-  };
+  const dispatch = useDispatch();
 
   const LoginRequest = async (email, password) => {
     try {
-      const { data: loginResponse } = await axios.post('/api/v1/users/login', {
+      const {
+        data: { message },
+      } = await axios.post('/api/v1/users/login', {
         email,
         password,
       });
-      loaderMessage(true, loginResponse.message);
+      setLoading((c) => !c);
+      dispatch(showMessage(schemaErrors[Number(message)]), 'success');
       const test = await axios.get('/api/v1/users/isAuth');
-      dispatch(createAuth(test.data));
       return dispatch(createAuth(test.data));
     } catch (err) {
-      return loaderMessage(false, err.response.data.error.message);
+      return dispatch(
+        showMessage(
+          schemaErrors[Number(err.response.data.error.message)],
+          'error',
+        ),
+      );
     }
   };
   return (
     <>
-      {openAlert ? (
-        <Sncakbar
-          type={alertMessage.type}
-          message={utils.schemaErrors[Number(alertMessage.message)]}
-        />
-      ) : null}
-
       <muiModules.Typography
         id="modal-title"
         variant="h6"
