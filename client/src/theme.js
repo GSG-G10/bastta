@@ -6,6 +6,7 @@ const theme = createTheme({
     values: {
       lg: 1280,
       xl: 1440,
+      xxl: 1600,
     },
   },
   palette: {

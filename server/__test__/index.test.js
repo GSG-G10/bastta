@@ -41,7 +41,7 @@ describe('Server Tests', () => {
       .expect(200)
       .expect('Content-Type', /json/);
     const expected = {
-      message: 'Signed out succefully',
+      message: '1013',
     };
     return expect(expected).toEqual(res.body);
   });

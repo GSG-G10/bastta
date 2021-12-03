@@ -8,6 +8,7 @@ import AuthModal from './AuthModal';
 import AdsCard from './ads';
 import AdsLoginCard from './adsLoginCard';
 import CalssifiedCard from './classifiedCard';
+import Snakbar from './Snackabr';
 
 export {
   SliderHome,
@@ -19,5 +20,6 @@ export {
   CalssifiedCard,
   Navbar,
   AuthModal,
+  Snakbar,
   Filter,
 };

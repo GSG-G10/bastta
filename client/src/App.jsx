@@ -1,25 +1,34 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { useEffect } from 'react';
 
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import { CssBaseline, ThemeProvider } from './mui-modules';
 import * as utils from './utils';
 import * as actions from './store/actions';
 
 import * as Pages from './pages';
+import { Snakbar } from './components';
+
 import theme from './theme';
 
 const App = () => {
   const dispatch = useDispatch();
+  const {
+    notification: { message, type },
+  } = useSelector((state) => state);
 
   /* Effect Check Authentication */
   useEffect(async () => {
-    const { data: { userId } } = await utils.checkAuth();
+    const {
+      data: { userId },
+    } = await utils.checkAuth();
     dispatch(actions.createAuth(userId));
   }, []);
+
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
+      {message ? <Snakbar message={message} type={type} /> : null}
       <Router>
         <Routes>
           <Route exact path="/" element={<Pages.Home />} />
