@@ -2,6 +2,7 @@ import SliderHome from './silder';
 import CardDoc from './cardDoc';
 import SingleProduct from './singleProduct';
 import Footer from './footer';
+import Filter from './filter';
 import Navbar from './Navbar';
 import AuthModal from './AuthModal';
 import AdsCard from './ads';
@@ -20,4 +21,5 @@ export {
   Navbar,
   AuthModal,
   Snakbar,
+  Filter,
 };
