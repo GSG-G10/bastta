@@ -2,7 +2,7 @@ const joi = require('joi');
 
 module.exports = joi.object({
   name: joi.string().required().messages({
-    'string.empty': '1001',
+    'string.empty': '1014',
     'any.required': '1009',
   }),
   email: joi.string().email().required().messages({

@@ -5,7 +5,7 @@ import * as muiModules from '../../mui-modules';
 import style from './style';
 
 const SearchBox = () => {
-  const [inputValue, setInputValue] = useState('');
+  const [inputValue, setInputValue] = useState('لابتوب');
   const navigate = useNavigate();
   const searchRequest = (string) => navigate(`/product/search/${string}`);
 
@@ -27,6 +27,7 @@ const SearchBox = () => {
         sx={{ mr: 1, flex: 1 }}
         placeholder="البحث الأن"
         inputProps={{ 'aria-label': 'البحث عن إعلان منتج' }}
+        title="البحث عن المنتج عن طريق الإسم"
         onChange={(e) => setInputValue(e.target.value)}
       />
       <muiModules.Button

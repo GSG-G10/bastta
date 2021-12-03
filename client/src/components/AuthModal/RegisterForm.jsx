@@ -1,42 +1,25 @@
 /* eslint-disable react/prop-types */
 import { useState } from 'react';
 import axios from 'axios';
-import Sncakbar from '../Snackabr';
+import { useDispatch } from 'react-redux';
 
 import * as muiModules from '../../mui-modules';
-import * as utils from '../../utils';
-
-const style = {
-  input: {
-    width: '75%',
-  },
-  activeString: {
-    color: '#1a6e9a',
-    fontWeight: '600',
-  },
-};
+import { schemaErrors } from '../../utils';
+import { showMessage, createAuth } from '../../store/actions';
+import style from './style';
 
 const RegisterForm = ({ setManageModal }) => {
   const [nameInput, setNameInput] = useState('');
   const [emailInput, setEmailInput] = useState('');
   const [passwordInput, setPasswordInput] = useState('');
   const [confirmPasswordInput, setConfirmPasswordInput] = useState('');
-  const [alertMessage, setAlertMessage] = useState({ type: true, message: '' });
-  const [openAlert, setOpenAlert] = useState(false);
   const [loading, setLoading] = useState(false);
+  const dispatch = useDispatch();
 
-  const AuthProccess = (type, message) => {
-    setLoading((c) => !c);
-    setTimeout(() => {
-      setAlertMessage({ type: true, message });
-      setOpenAlert((c) => !c);
-      setLoading((c) => !c);
-      return type ? window.location.reload() : null;
-    }, 2000);
-  };
+  const inputError = () => (passwordInput !== confirmPasswordInput ? 'error' : 'success');
   const RegisterRequest = async (name, email, password, confirmPassword) => {
     try {
-      const { data: signupResponse } = await axios.post(
+      const { data: { message } } = await axios.post(
         '/api/v1/users/signup',
         {
           name,
@@ -45,20 +28,22 @@ const RegisterForm = ({ setManageModal }) => {
           confirmPassword,
         },
       );
-      return AuthProccess(true, signupResponse.message);
+      setLoading((c) => !c);
+      dispatch(showMessage(schemaErrors[Number(message)]), 'success');
+      const response = await axios.get('/api/v1/users/isAuth');
+      return dispatch(createAuth(response.data));
     } catch (err) {
-      return AuthProccess(false, err.response.data.error.message);
+      return dispatch(
+        showMessage(
+          schemaErrors[Number(err.response.data.error.message)],
+          'error',
+        ),
+      );
     }
   };
 
   return (
     <>
-      {openAlert ? (
-        <Sncakbar
-          type={alertMessage.type}
-          message={utils.schemaErrors[Number(alertMessage.message)]}
-        />
-      ) : null}
 
       <muiModules.Typography
         id="modal-title"
@@ -165,7 +150,7 @@ const RegisterForm = ({ setManageModal }) => {
               id="keep-mounted-modal-password"
               variant="subtitle1"
               component="div"
-              sx={{ margin: '0.5rem 0' }}
+              sx={{ margin: '0.5rem 0', border: `1px solid ${inputError()}` }}
             >
               تأكيد كلمة المرور
             </muiModules.Typography>
@@ -175,7 +160,7 @@ const RegisterForm = ({ setManageModal }) => {
               placeholder="تأكيد كلمة المرور"
               onChange={(e) => setConfirmPasswordInput(e.target.value)}
               require
-              sx={{ width: '100%' }}
+              sx={{ width: '100%', border: `1px solid ${inputError()}` }}
             />
           </muiModules.Box>
 
@@ -197,7 +182,8 @@ const RegisterForm = ({ setManageModal }) => {
           color="primary"
           sx={{ width: '100%', padding: '1rem 0' }}
         >
-          تسجيل الدخول
+          تسجيل حساب جديد
+
         </muiModules.Button>
       </form>
     </>
