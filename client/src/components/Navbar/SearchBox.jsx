@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 import * as muiModules from '../../mui-modules';
+import style from './style';
 
 const SearchBox = () => {
   const [inputValue, setInputValue] = useState('');
@@ -33,7 +34,7 @@ const SearchBox = () => {
         aria-label="search"
         title="بحث"
         variant="contained"
-        sx={{ height: '100%', borderRaduis: '0 0 0 0' }}
+        sx={style.searchBar.btn}
       >
         بحث
       </muiModules.Button>

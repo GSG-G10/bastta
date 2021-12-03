@@ -1,8 +1,7 @@
 import { useState } from 'react';
 
 import * as muiModules from '../../mui-modules';
-// import LoginForm from './LoginForm';
-// import RegisterForm from './RegisterForm';
+
 import style from './style';
 
 const NewAdsModal = () => {

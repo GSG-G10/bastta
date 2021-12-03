@@ -24,10 +24,11 @@ const App = () => {
     } = await utils.checkAuth();
     dispatch(actions.createAuth(userId));
   }, []);
+
   return (
     <ThemeProvider theme={theme}>
-      {message ? <Snakbar message={message} type={type} /> : null}
       <CssBaseline />
+      {message ? <Snakbar message={message} type={type} /> : null}
       <Router>
         <Routes>
           <Route exact path="/" element={<Pages.Home />} />

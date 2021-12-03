@@ -36,6 +36,12 @@ const style = {
       color: 'red',
     },
   },
+  searchBar: {
+    btn: {
+      height: '100%',
+      borderRadius: '4px 0px 0px 4px',
+    },
+  },
 };
 
 export default style;
