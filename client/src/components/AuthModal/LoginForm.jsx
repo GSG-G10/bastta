@@ -2,7 +2,6 @@
 import { useState } from 'react';
 import axios from 'axios';
 import { useDispatch } from 'react-redux';
-// import Cookies from 'js-cookie';
 
 import * as muiModules from '../../mui-modules';
 import { schemaErrors } from '../../utils';
@@ -26,8 +25,8 @@ const LoginForm = ({ setManageModal }) => {
       });
       setLoading((c) => !c);
       dispatch(showMessage(schemaErrors[Number(message)]), 'success');
-      const test = await axios.get('/api/v1/users/isAuth');
-      return dispatch(createAuth(test.data));
+      const response = await axios.get('/api/v1/users/isAuth');
+      return dispatch(createAuth(response.data));
     } catch (err) {
       return dispatch(
         showMessage(

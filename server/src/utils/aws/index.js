@@ -5,13 +5,13 @@ const s3 = new AWS.S3({
   secretAccessKey: process.env.SECRET_ACCESS_KEY,
 });
 
-const uploadFile = async (name, image) => {
+const uploadFile = (name, image) => {
   const params = {
     Bucket: process.env.BUCKET_NAME,
     Key: name,
     Body: image,
   };
-  const imageUploaded = await s3.upload(params).promise();
+  const imageUploaded = s3.upload(params).promise();
   return imageUploaded;
 };
 
