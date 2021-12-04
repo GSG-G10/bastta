@@ -23,7 +23,7 @@ router.get('/profile/:userId', profileProducts);
 
 // Favorites
 router.get('/favorites', checkSignIn, getFavs);
-router.post('/favorites', productToFav);
+router.post('/favorites', checkSignIn, productToFav);
 router.delete('/favorites/:productId', checkSignIn, deleteFav);
 
 //  one product
