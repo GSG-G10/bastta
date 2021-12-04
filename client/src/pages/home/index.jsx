@@ -38,6 +38,7 @@ const Home = () => {
     <>
       <Container maxWidth="lg">
         <Components.Navbar />
+        <Components.SectionList />
         <Components.SliderHome />
         <ProductsContainer
           sectionClass={recentProducts}
