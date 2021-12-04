@@ -4,7 +4,6 @@ const style = {
     display: 'flex',
     justifyContent: 'space-between',
     alignItems: 'center',
-    marginBottom: '100px',
     borderBottom: '1px solid #eef4fc',
 
   },
