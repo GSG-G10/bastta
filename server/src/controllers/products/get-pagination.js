@@ -7,6 +7,8 @@ module.exports = async (req, res, next) => {
       const products = await getProductsBySection(section, (page - 1) * 10, 10);
       if (products.length) {
         return res.json({
+          pageNumber: page,
+          count: products[0].count,
           data: products,
           message: 'Products Imported Successfuly',
         });

@@ -14,7 +14,7 @@ const CardDoc = () => (
 
       </p>
     </section>
-    <section className="border">
+    <section className="border doc-section">
       <h3 className="title">
         من نحن ؟
       </h3>
@@ -23,7 +23,7 @@ const CardDoc = () => (
 
       </p>
     </section>
-    <section>
+    <section className="doc-section">
       <h3 className="title">
         لماذا تختار بسطة ؟
 
@@ -34,50 +34,41 @@ const CardDoc = () => (
             الاول في فلسطين
           </li>
           <li>
-            {' '}
             تجميع والاهتمام بكل ما يحتاجه الانسان في مكان واحد
           </li>
           <li>
-            {' '}
             سهولة  الوصول للمنتجات والبحث عنها
           </li>
           <li>سهولة التواصل مع اصحاب الإعلانات المعروضة</li>
         </ol>
       </p>
     </section>
-    <section className="border">
+    <section className="border doc-section ">
       <h3 className="title" aria-hidden>
         تواصل معنا
       </h3>
       <article className="description contact ">
         <p className="text">
-          {' '}
           <LocalPhoneIcon sx={{ color: '#1A6E9A' }} />
           <h6>
             0599-777-777
           </h6>
-          {' '}
-          {' '}
 
         </p>
         <p className="text">
-          {' '}
           <EmailIcon sx={{ color: '#1A6E9A' }} />
           <h6>
             info@basta.com
 
           </h6>
-          {' '}
 
         </p>
         <p className="text">
-          {' '}
           <LocationOnIcon sx={{ color: '#1A6E9A' }} />
           <h6>
             فلسطين
 
           </h6>
-          {' '}
 
         </p>
 

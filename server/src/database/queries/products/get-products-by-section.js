@@ -3,7 +3,7 @@ const connection = require('../../connection');
 module.exports = async (section, offset, limit) => {
   const { rows } = await connection
     .query(`
-    SELECT * 
+     SELECT * ,COUNT(*) OVER()
     FROM products 
     WHERE approved = true AND class = $1
     ORDER BY likes
