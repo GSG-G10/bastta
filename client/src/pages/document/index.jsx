@@ -1,9 +1,12 @@
 import * as C from '../../components';
 
 const Document = () => (
-  <div>
+  <>
+    <C.Navbar />
+    <C.SectionList />
     <C.CardDoc />
-  </div>
+    <C.Footer />
+  </>
 );
 
 export default Document;

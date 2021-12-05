@@ -4,3 +4,7 @@
   flex-direction: column;
   margin: auto;
 }
+
+.containers {
+  display: flex;
+}

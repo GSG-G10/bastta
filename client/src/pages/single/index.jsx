@@ -1,10 +1,12 @@
-import { Container } from '../../mui-modules';
-import { SingleProduct } from '../../components';
+import * as C from '../../components';
 
 const SingleProductPage = () => (
-  <Container sx={{ width: '1236px' }} maxWidth="xl">
-    <SingleProduct />
-  </Container>
+  <>
+    <C.Navbar />
+    <C.SectionList />
+    <C.SingleProduct />
+    <C.Footer />
+  </>
 );
 
 export default SingleProductPage;

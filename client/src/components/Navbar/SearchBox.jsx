@@ -7,7 +7,7 @@ import style from './style';
 const SearchBox = () => {
   const [inputValue, setInputValue] = useState('لابتوب');
   const navigate = useNavigate();
-  const searchRequest = (string) => navigate(`/product/search/${string}`);
+  const searchRequest = (string) => navigate(`/product/${string}`);
 
   return (
     <muiModules.Paper
