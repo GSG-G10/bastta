@@ -1,9 +1,12 @@
 import * as C from '../../components';
 
 const ClassifiedProduct = () => (
-  <div>
+  <>
+    <C.Navbar />
+    <C.SectionList />
     <C.CalssifiedCard />
-  </div>
+    <C.Footer />
+  </>
 );
 
 export default ClassifiedProduct;

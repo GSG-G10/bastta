@@ -1,3 +1,4 @@
+/* eslint-disable consistent-return */
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 
@@ -18,7 +19,6 @@ import Price from './Price';
 import style from './style';
 
 const Filter = () => {
-  const [data, setData] = useState([]);
   const [typesArr, setTypesArr] = useState(types[1].typesArr);
   const { filter } = useSelector((state) => state);
 
@@ -26,12 +26,10 @@ const Filter = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await axios.get('/api/v1/products/public');
+      const response = await axios.get('/api/v1/products/public/');
       if (!response.data) {
         return [];
       }
-      dispatch(filteredData(response.data.data));
-      return setData(response.data.data);
     };
     fetchData();
   }, []);
@@ -66,7 +64,7 @@ const Filter = () => {
 
   const clearFilters = () => {
     dispatch(clear());
-    dispatch(filteredData(data));
+    // dispatch(filteredData(data));
   };
 
   const ITEM_HEIGHT = 48;
