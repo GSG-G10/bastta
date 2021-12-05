@@ -5,9 +5,8 @@ export default {
     padding: '10px 20px 15px 20px',
     border: '1px solid #EFF0F0',
     height: '750px',
-    marginTop: '100px',
     position: 'sticky',
-    top: '10vh',
+    top: '5vh',
   },
   containerHeading: {
     color: '#7C8284',
