@@ -1,6 +1,6 @@
 # README : 
 
-`Bastta.com` is a website that allows users to publish or buy second-hand products from all categories. The website helps products' owners to find their best customers and contact directly with them.
+[Bastta.com](https://bastta.herokuapp.com/) is a website that allows users to publish or buy second-hand products from all categories. The website helps products' owners to find their best customers and contact directly with them.
 
 ## **The Problem** :no_entry_sign: :-
 There is a big amount of products that are offered for sale but it is hard for the owner to find the best buyer for his product and there are a lot of people that find it hard to look for a specific used product to buy and contact with the seller.
