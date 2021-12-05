@@ -14,7 +14,7 @@ const Price = () => {
       <FormControl component="fieldset" sx={{ width: '70%' }}>
         <FormLabel component="legend">السعر</FormLabel>
         <RadioGroup
-          column={true.toString()}
+          column="true"
           aria-label="Price"
           name="price"
           value={filter.price}

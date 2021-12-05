@@ -64,7 +64,6 @@ const Filter = () => {
 
   const clearFilters = () => {
     dispatch(clear());
-    // dispatch(filteredData(data));
   };
 
   const ITEM_HEIGHT = 48;
@@ -86,7 +85,6 @@ const Filter = () => {
       <form className="form" onSubmit={onSubmit}>
         <InputLabel id="city-select" sx={style.formLabel}>
           <LocationOnOutlinedIcon sx={style.icons} />
-          {' '}
           المدينة
         </InputLabel>
         <Select
