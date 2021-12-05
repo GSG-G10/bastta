@@ -25,7 +25,7 @@ const Dropdown = () => {
     try {
       const {
         data: { message },
-      } = await axios.get('api/v1/users/logout');
+      } = await axios.get('/api/v1/users/logout');
       dispatch(showMessage(schemaErrors[Number(message)]), 'success');
       setTimeout(() => window.location.reload(), 0);
     } catch (err) {

@@ -95,7 +95,7 @@ const LoginForm = ({ setManageModal }) => {
               type="text"
               placeholder="البريد الإلكتروني"
               onChange={(e) => setEmailInput(e.target.value.trim())}
-              require
+              require="true"
               sx={{ width: '100%' }}
             />
           </muiModules.Box>
@@ -113,7 +113,7 @@ const LoginForm = ({ setManageModal }) => {
               type="password"
               placeholder="كلمة المرور"
               onChange={(e) => setPasswordInput(e.target.value)}
-              require
+              require="true"
               sx={{ width: '100%' }}
             />
           </muiModules.Box>

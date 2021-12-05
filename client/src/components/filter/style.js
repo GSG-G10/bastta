@@ -6,7 +6,8 @@ export default {
     border: '1px solid #EFF0F0',
     height: '750px',
     marginTop: '100px',
-
+    position: 'sticky',
+    top: '10vh',
   },
   containerHeading: {
     color: '#7C8284',

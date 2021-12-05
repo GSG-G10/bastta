@@ -107,7 +107,7 @@ const RegisterForm = ({ setManageModal }) => {
               type="text"
               placeholder="الإسم"
               onChange={(e) => setNameInput(e.target.value)}
-              require
+              require="true"
               sx={{ width: '100%' }}
             />
             <muiModules.Typography
@@ -124,7 +124,7 @@ const RegisterForm = ({ setManageModal }) => {
               type="text"
               placeholder="البريد الإلكتروني"
               onChange={(e) => setEmailInput(e.target.value.trim())}
-              require
+              require="true"
               sx={{ width: '100%' }}
             />
             <muiModules.Typography
@@ -141,7 +141,7 @@ const RegisterForm = ({ setManageModal }) => {
               type="password"
               placeholder="كلمة المرور"
               onChange={(e) => setPasswordInput(e.target.value)}
-              require
+              require="true"
               sx={{ width: '100%' }}
             />
           </muiModules.Box>
@@ -159,7 +159,7 @@ const RegisterForm = ({ setManageModal }) => {
               type="password"
               placeholder="تأكيد كلمة المرور"
               onChange={(e) => setConfirmPasswordInput(e.target.value)}
-              require
+              require="true"
               sx={{ width: '100%', border: `1px solid ${inputError()}` }}
             />
           </muiModules.Box>
