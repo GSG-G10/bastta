@@ -42,8 +42,7 @@
     "joi": "^17.4.2",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.1",
-    "pg": "^8.7.1",
-    "socket.io": "^4.4.0"
+    "pg": "^8.7.1"
   },
   "pre-commit": [
     "test"
