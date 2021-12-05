@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 const style = {
   modal: {
     position: 'absolute',

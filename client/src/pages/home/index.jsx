@@ -1,37 +1,22 @@
-/* eslint-disable no-useless-escape */
 import { useState, useEffect } from 'react';
-import axios from 'axios';
+
 import { Container } from '../../mui-modules';
+
 import * as Components from '../../components';
 import ProductsContainer from '../../components/ProductsContainer';
 
+import sendRequests from './api';
+
 const Home = () => {
-  const [recentProducts, setResentProducts] = useState([]);
-  const [mostFavourite, setMostFavourite] = useState([]);
-  const [electronicsProducts, setElectronicsProducts] = useState([]);
-  const [athathProducts, setAthathProducts] = useState([]);
-  const [markabatProducts, setMarkabatProducts] = useState([]);
-  const [khdmatProducts, setKhdmatProducts] = useState([]);
+  const [products, setProducts] = useState(null);
+
+  const req = async () => {
+    const responses = await sendRequests();
+    setProducts(responses);
+  };
 
   useEffect(() => {
-    axios
-      .get('/api/v1/products/public?section=recent&limit=4')
-      .then((res) => setResentProducts(res.data.data));
-    axios
-      .get('/api/v1/products/public?section=favourites&limit=4')
-      .then((res) => setMostFavourite(res.data.data));
-    axios
-      .get('/api/v1/products/public?section=الإلكترونيات&limit=4')
-      .then((res) => setElectronicsProducts(res.data.data));
-    axios
-      .get('/api/v1/proucts/public?section=الأثاث&limit=4')
-      .then((res) => setAthathProducts(res.data.data));
-    axios
-      .get('/api/v1/products/public?section=المركبات&limit=4')
-      .then((res) => setMarkabatProducts(res.data.data));
-    axios
-      .get('/api/v1/products/public?section=الخدمات&limit=4')
-      .then((res) => setKhdmatProducts(res.data.data));
+    req();
   }, []);
 
   return (
@@ -40,31 +25,32 @@ const Home = () => {
         <Components.Navbar />
         <Components.SectionList />
         <Components.SliderHome />
-        <ProductsContainer
-          sectionClass={recentProducts}
-          sectionName="المضافة حديثاً"
-        />
-        <ProductsContainer
-          sectionClass={mostFavourite}
-          sectionName="الأكثر إعجاباً"
-        />
-        <Components.AdsLoginCard />
-        <ProductsContainer
-          sectionClass={electronicsProducts}
-          sectionName="الأكثر زيارة في قسم الإلكترونيات"
-        />
-        <ProductsContainer
-          sectionClass={athathProducts}
-          sectionName="الأكثر زيارة في قسم الأثاث"
-        />
-        <ProductsContainer
-          sectionClass={markabatProducts}
-          sectionName="الأكثر زيارة في قسم المركبات"
-        />
-        <ProductsContainer
-          sectionClass={khdmatProducts}
-          sectionName="الأكثر زيارة في قسم الخدمات"
-        />
+        { products ? (
+          <>
+            <ProductsContainer
+              sectionClass={products.recent}
+              sectionName="المضافة حديثاً"
+            />
+            <ProductsContainer
+              sectionClass={products.favourites}
+              sectionName="الأكثر إعجاباً"
+            />
+            <Components.AdsLoginCard />
+            {[products.الإلكترونيات, products.الأثاث, products.المركبات, products.الخدمات]
+              .map((section) => (
+                <ProductsContainer
+                  key={section.id}
+                  sectionClass={section}
+                  sectionName={`الأكثر زيارة في قسم ${section[0].class}`}
+                />
+              ))}
+          </>
+        )
+          : (
+            <h1>
+              جار التحميل يرجى الإنتظار ...
+            </h1>
+          )}
         <Components.AdsCard />
       </Container>
       <Components.Footer />

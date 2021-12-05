@@ -1,4 +1,5 @@
 import propTypes from 'prop-types';
+
 import ProductCard from '../ProductCard';
 import * as muiModules from '../../mui-modules';
 import * as style from './style';

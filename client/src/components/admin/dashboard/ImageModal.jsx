@@ -1,5 +1,6 @@
-/* eslint-disable react/prop-types */
 import { useState } from 'react';
+
+import PropTypes from 'prop-types';
 
 import * as muiModules from '../../../mui-modules';
 import * as style from './style';
@@ -30,4 +31,9 @@ const ImageModal = ({ imageSrc }) => {
     </div>
   );
 };
+
+ImageModal.propTypes = {
+  imageSrc: PropTypes.string.isRequired,
+};
+
 export default ImageModal;

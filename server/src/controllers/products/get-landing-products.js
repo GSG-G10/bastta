@@ -24,6 +24,7 @@ module.exports = async (req, res, next) => {
 
     return res.json({
       message: 'Products Imported Successfuly',
+      title: section,
       data: products,
     });
   } catch (err) {

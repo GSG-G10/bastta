@@ -1,9 +1,11 @@
-/* eslint-disable react/prop-types */
 import { useState, useEffect } from 'react';
-import axios from 'axios';
 import { useSelector, useDispatch } from 'react-redux';
+
+import axios from 'axios';
+
 import * as actions from '../../../store/actions';
-import * as muiModules from '../../../mui-modules';
+
+import * as MuiModules from '../../../mui-modules';
 import * as style from './style';
 
 const Card = () => {
@@ -39,7 +41,7 @@ const Card = () => {
 
   return (
     <>
-      <muiModules.Box
+      <MuiModules.Box
         title="الأعضاء"
         sx={style.card}
         onClick={() => {
@@ -50,8 +52,8 @@ const Card = () => {
       >
         <h3>الأعضاء</h3>
         <h1>{stateData.members.length}</h1>
-      </muiModules.Box>
-      <muiModules.Box
+      </MuiModules.Box>
+      <MuiModules.Box
         title="البضائع المعلنة"
         sx={style.card}
         onClick={() => {
@@ -62,8 +64,8 @@ const Card = () => {
       >
         <h3>البضائع المعلنة</h3>
         <h1>{stateData.published.length}</h1>
-      </muiModules.Box>
-      <muiModules.Box
+      </MuiModules.Box>
+      <MuiModules.Box
         title="البضائع المعلقة"
         sx={style.card}
         onClick={() => {
@@ -74,7 +76,7 @@ const Card = () => {
       >
         <h3>البضائع المعلقة</h3>
         <h1>{stateData.pending.length}</h1>
-      </muiModules.Box>
+      </MuiModules.Box>
     </>
   );
 };
