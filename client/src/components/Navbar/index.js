@@ -16,7 +16,9 @@ const Navbar = () => {
   return (
     <muiModules.Container maxWidth="xl">
       <muiModules.Box sx={style.body}>
-        <img src={assets.logo} alt="logo" />
+        <a href="/">
+          <img src={assets.logo} alt="logo" />
+        </a>
         <SearchBox />
         {id ? (
           <muiModules.Box sx={style.userTools}>

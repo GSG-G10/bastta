@@ -6,7 +6,7 @@ import * as M from '../../../mui-modules';
 import './style.css';
 
 const Detailes = ({ data }) => (
-  <M.Box width={{ width: '54%' }} className="container">
+  <M.Box width={{ width: '50%' }} className="container">
 
     {data.length !== 0 ? data.map((ele) => (
       <React.Fragment key={ele.id}>
