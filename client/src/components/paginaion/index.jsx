@@ -2,9 +2,12 @@
 import { useState, useEffect } from 'react';
 import Pagination from '@mui/material/Pagination';
 import { useNavigate } from 'react-router-dom';
-
+import { useSelector } from 'react-redux';
 import axios from 'axios';
 import propTypes from 'prop-types';
+import LoginForm from '../AuthModal/LoginForm';
+import RegisterForm from '../AuthModal/RegisterForm';
+import style from '../AuthModal/style';
 import * as M from '../../mui-modules';
 
 import './style.css';
@@ -12,9 +15,17 @@ import './style.css';
 const PaginationClassified = ({ search }) => {
   const [data, setCategories] = useState([]);
   const [isLoaded, setIsLoaded] = useState(false);
+  const [auth, setAuth] = useState(true);
+  const [id, setId] = useState(0);
   const [page, setPage] = useState(1);
   const [count, setCount] = useState(1);
+  const [manageModal, setManageModal] = useState(true);
+  const [open, setOpen] = useState(true);
+  const [dataFavs, setDataFavs] = useState([]);
 
+  const handleOpen = () => setOpen(true);
+  const handleClose = () => setOpen(false);
+  const { authId } = useSelector((state) => state);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -22,12 +33,31 @@ const PaginationClassified = ({ search }) => {
       .then((response) => {
         setCount(response.data.count);
         setCategories(response.data.data);
+
         setIsLoaded(true);
       });
   }, [page, search]);
 
   const handlePageChange = (event, value) => {
     setPage(value);
+  };
+  const check = () => {
+    if (authId.id) {
+      setAuth(true);
+    } else {
+      setAuth(false);
+      handleOpen();
+    }
+  };
+
+  const handleFavItem = (e) => {
+    if (authId.id) {
+      axios.post('/api/v1/products/favorites/', { productId: e })
+        .then((res) => {
+          setDataFavs((prev) => [...prev, e]);
+          setId(res.data.id);
+        });
+    }
   };
 
   return (
@@ -42,8 +72,17 @@ const PaginationClassified = ({ search }) => {
               <section className="left">
                 <div className="name-classified">
                   <span className="sub-name-classified">{ele.type}</span>
-                  <button type="submit" className="btn-like-classified">
-                    <M.FavoriteBorderIcon sx={{ color: '#A9AFB0' }} />
+                  <button
+                    type="submit"
+                    className="btn-like-classified"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      check();
+                      handleFavItem(ele.id);
+                    }}
+                  >
+                    { id === ele.id || dataFavs.includes(ele.id) ? <M.FavoriteIcon sx={{ color: 'red' }} />
+                      : <M.FavoriteBorderIcon sx={{ color: '#A9AFB0' }} />}
                   </button>
                 </div>
                 <p className="title-classified">
@@ -89,6 +128,25 @@ const PaginationClassified = ({ search }) => {
         onChange={handlePageChange}
         sx={{ display: 'flex', justifyContent: 'center', py: '3rem' }}
       />
+
+      {auth ? (
+        '') : (
+          <M.Modal
+            keepMounted
+            open={open}
+            onClose={handleClose}
+            aria-labelledby="keep-mounted-modal-title"
+            aria-describedby="keep-mounted-modal-description"
+          >
+            <M.Box sx={style.modal}>
+              {manageModal ? (
+                <LoginForm setManageModal={setManageModal} />
+              ) : (
+                <RegisterForm setManageModal={setManageModal} />
+              )}
+            </M.Box>
+          </M.Modal>
+      )}
     </M.Box>
   );
 };
