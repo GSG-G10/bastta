@@ -46,15 +46,14 @@ const ProfileCard = () => {
       {state === true
         ? (
           <>
-            <h1> الإعلانات الخاصة بك :</h1>
-            <Cards data={data} setData={setData} />
-            <h1> مفضلتك:</h1>
+            <h1 style={{ marginRight: '5rem' }}> الإعلانات الخاصة بك :</h1>
+            <Cards data={data} setData={setData} state={state} />
+            <h1 style={{ marginRight: '5rem' }}> مفضلتك:</h1>
             <Favs data={dataFav} setDataFav={setDataFav} state={state} />
           </>
-
         ) : (
           <>
-            <h1> الإعلانات الخاصة به :</h1>
+            <h1 style={{ marginRight: '5rem' }}> الإعلانات الخاصة به :</h1>
             <Cards data={data} state={state} />
           </>
 

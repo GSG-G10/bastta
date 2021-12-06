@@ -9,6 +9,7 @@ const cardMedia = {
     md: '300px',
     lg: '200px',
   },
+  objectFit: 'fill',
 };
 const categoryLable = {
   position: 'absolute',
