@@ -1,69 +1,78 @@
 /* eslint-disable consistent-return */
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import axios from 'axios';
+import propTypes from 'prop-types';
 
 import {
   InputLabel, Select, MenuItem, Button, TextField,
 } from '@mui/material';
-import { useSelector, useDispatch } from 'react-redux';
 import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
 import FormatListBulletedTwoToneIcon from '@mui/icons-material/FormatListBulletedTwoTone';
 
-import {
-  city, type, section, filteredData, clear,
-} from '../../store/actions/filter-actions';
 import cities from './cities';
 import { types, sections } from '../../assets/sections-types';
 import Price from './Price';
 
 import style from './style';
 
-const Filter = () => {
+const initialState = {
+  city: '',
+  section: '',
+  type: '',
+  min: 0,
+  max: 100000,
+  search: '',
+};
+const Filter = ({
+  setData, setCount, setIsLoaded,
+}) => {
   const [typesArr, setTypesArr] = useState(types[1].typesArr);
-  const { filter } = useSelector((state) => state);
-
-  const dispatch = useDispatch();
-
-  useEffect(() => {
-    const fetchData = async () => {
-      const response = await axios.get('/api/v1/products/public/');
-      if (!response.data) {
-        return [];
-      }
-    };
-    fetchData();
-  }, []);
+  const [params, setParams] = useState(initialState);
 
   const handleInputChange = (e) => {
-    switch (e.target.name) {
-      case 'city':
-        return dispatch(city(e.target.value));
-      case 'section':
-        dispatch(section(e.target.value));
-        return setTypesArr(types.filter((ele) => ele.section === e.target.value)[0].typesArr);
-      case 'type':
-        return dispatch(type(e.target.value));
-      default: return '';
+    if (e.target.name === 'section') {
+      setParams((prev) => ({ ...prev, section: e.target.value }));
+      setTypesArr(types.filter((ele) => ele.section === e.target.value)[0].typesArr);
     }
+    return setParams((prev) => ({ ...prev, [e.target.name]: e.target.value }));
   };
 
-  const searchRequest = async (value) => {
-    const response = await axios.get(`/api/v1/products/search?q=${value}`);
+  const searchRequest = async () => {
+    setIsLoaded(false);
+    const response = await axios.get(`/api/v1/products/search?q=${params.search}`);
     if (!response.data) {
-      return [];
+      setIsLoaded(true);
+      return setData([]);
     }
-    dispatch(clear());
-    return dispatch(filteredData(response.data.data));
+    setData(response.data);
+    setCount(1);
+    setParams(initialState);
+    return setIsLoaded(true);
   };
 
-  const onSubmit = (e) => {
-    e.preventDefault();
-    const { search: searchInput } = e.target.elements;
-    searchRequest(searchInput.value);
+  const filterRequest = async () => {
+    setIsLoaded(false);
+    const response = await axios.get(`
+    /api/v1/products/filter?city=${params.city}&section=${params.section}&type=${params.type}&min=${params.min}&max=${params.max}
+    `);
+    if (!response.data) {
+      setData([]);
+      return setIsLoaded(true);
+    }
+    setIsLoaded(true);
+    setData(response.data.data);
+    setCount(1);
+  };
+
+  const onSubmit = () => {
+    if (params.search) {
+      return searchRequest();
+    }
+    filterRequest();
   };
 
   const clearFilters = () => {
-    dispatch(clear());
+    setParams(initialState);
   };
 
   const ITEM_HEIGHT = 48;
@@ -82,14 +91,14 @@ const Filter = () => {
       <h2 style={style.containerHeading}>
         فلترة
       </h2>
-      <form className="form" onSubmit={onSubmit}>
+      <form className="form" onSubmit={(e) => e.preventDefault()}>
         <InputLabel id="city-select" sx={style.formLabel}>
           <LocationOnOutlinedIcon sx={style.icons} />
           المدينة
         </InputLabel>
         <Select
           id="city"
-          value={filter.city}
+          value={params.city}
           label="المدينة"
           MenuProps={MenuProps}
           placeholder="اختر المدينة"
@@ -107,7 +116,7 @@ const Filter = () => {
         </InputLabel>
         <Select
           id="section"
-          value={filter.section}
+          value={params.section}
           label="القسم"
           MenuProps={MenuProps}
           placeholder="اختر القسم"
@@ -124,7 +133,7 @@ const Filter = () => {
         </InputLabel>
         <Select
           id="type"
-          value={filter.type}
+          value={params.type}
           label="الصنف"
           MenuProps={MenuProps}
           placeholder="اختر الصنف"
@@ -135,12 +144,12 @@ const Filter = () => {
           {typesArr.map((ele) => <MenuItem key={ele} value={ele}>{ele}</MenuItem>)}
         </Select>
 
-        <Price />
+        <Price setParams={setParams} value={[params.min, params.max].join('-')} />
         <div className="search" style={style.search}>
           <InputLabel id="search" sx={style.formLabel}>
             كلمات مفتاحية
           </InputLabel>
-          <TextField required fullWidth name="search" placeholder="لابتوب، اكسسوارات، موبايل ..." />
+          <TextField fullWidth onChange={handleInputChange} name="search" placeholder="لابتوب، اكسسوارات، موبايل ..." />
         </div>
         <div className="btns" style={style.btns}>
 
@@ -148,6 +157,7 @@ const Filter = () => {
             type="submit"
             variant="contained"
             sx={style.srchBtn}
+            onClick={onSubmit}
           >
             {' '}
             عرض نتائج البحث
@@ -159,5 +169,11 @@ const Filter = () => {
       </form>
     </div>
   );
+};
+Filter.propTypes = {
+  setData: propTypes.func.isRequired,
+  setCount: propTypes.func.isRequired,
+  setIsLoaded: propTypes.func.isRequired,
+
 };
 export default Filter;
