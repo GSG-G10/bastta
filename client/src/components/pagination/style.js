@@ -15,7 +15,7 @@ const styles = {
     boxSizing: 'border-box',
     borderRadius: '8px',
     textDecoration: 'none',
-    height: '20vh',
+    height: '25vh',
   },
 
   right: {
@@ -33,7 +33,8 @@ const styles = {
   classImg: {
     width: '100%',
     height: '100%',
-    borderRadius: '.6rem',
+    borderTopRightRadius: '.6rem',
+    borderBottomRightRadius: '.5rem',
     objectFit: 'fill',
   },
 

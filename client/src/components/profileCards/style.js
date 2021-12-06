@@ -1,43 +1,50 @@
 const styles = {
 
   containerClassified: {
+    marginRight: '15px',
     display: 'flex',
     flexDirection: 'column',
-    margin: '1rem auto',
+    margin: '1.5rem auto',
+  },
+
+  containers: {
+    display: 'flex',
   },
 
   subContainer: {
     display: 'flex',
     flexDirection: 'row',
-    margin: '1rem',
+    margin: '15px',
     background: '#ffffff',
-    border: '1px solid rgba(169, 175, 176, 05)',
+    border: '1px solid rgba(169, 175, 176, 0.5)',
     boxSizing: 'border-box',
     borderRadius: '8px',
     textDecoration: 'none',
-    height: '20vh',
   },
 
   right: {
     width: '25%',
-    height: '100%',
+    height: 'auto',
     backgroundPosition: 'center',
     backgroundSize: 'cover',
   },
 
   left: {
     width: '70%',
-    marginRight: '1.3rem',
+    marginRight: '20px',
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'space-evenly',
+    alignItems: 'flex-start',
   },
 
   classImg: {
     width: '100%',
     height: '100%',
-    borderRadius: '.6rem',
-    objectFit: 'fill',
+    borderRadius: '10px',
   },
 
-  favourite: {
+  favarite: {
     display: 'flex',
     flexDirection: 'row',
     justifyContent: 'space-between',
@@ -51,8 +58,8 @@ const styles = {
     width: '100%',
   },
 
-  subnameClassified: {
-    fontWeight: 600,
+  subNameClassified: {
+    fontWeight: '600',
     fontSize: '16px',
     lineHeight: '34px',
     textAlign: 'right',
@@ -80,7 +87,7 @@ const styles = {
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'space-between',
-    marginTop: '.6rem',
+    marginTop: '10px',
   },
 
   iconCity: {
@@ -92,7 +99,6 @@ const styles = {
     color: '#aeb0a9',
     margin: '0',
   },
-
   subCity: {
     color: '#1a6e9a',
     marginRight: '5px',
@@ -101,15 +107,15 @@ const styles = {
   price: {
     display: 'flex',
     flexDirection: 'row',
-    fontSize: '1.2rem',
+    fontSize: '20px',
     textAlign: 'right',
     color: '#a9afb0',
-    margin: '0',
+    margin: 0,
   },
 
   subPrice: {
-    color: ' #1a6e9a',
-    marginRight: '.3rem',
+    color: '#1a6e9a',
+    marginRight: '5px',
   },
 
   titleDecription: {
@@ -119,38 +125,31 @@ const styles = {
     textAlign: 'right',
     color: '#333333',
   },
-
   sectionBtnClassified: {
-    width: '50%',
+    width: '350px',
     display: 'flex',
     flexDirection: 'row',
     justifyContent: 'space-between',
-    marginTop: '1rem',
-    marginBottom: '.6rem',
+    marginTop: '10px',
+    marginBottom: '10px',
   },
 
-  sectionClassifiedButton: {
+  sectionBtnClassifiedButton: {
     display: 'flex',
+    alignItems: 'center',
     width: '160px',
     height: '38px',
     textAlign: 'center',
     borderRadius: '5px',
     fontSize: '18px',
     lineHeight: '150%',
-    alignItems: 'center',
     cursor: 'pointer',
   },
 
-  btnChatClassified: {
-    backgroundColor: '#1a6e9a',
+  btnDeleteProduct: {
+    backgroundColor: '#D93128',
     color: '#ffffff',
     border: '1px solid #ffffff',
-  },
-
-  btnCallClassified: {
-    backgroundColor: '#ffffff',
-    color: '#1a6e9a',
-    border: '1px solid #1a6e9a',
   },
 
   btnLikeClassified: {
@@ -158,6 +157,7 @@ const styles = {
     backgroundColor: '#ffffff',
     cursor: 'pointer',
   },
+
 };
 
 export default styles;

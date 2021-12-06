@@ -9,13 +9,6 @@
   display: flex;
 }
 
-
-.container-classified {
-  margin-right: 15px;
-  display: flex;
-  flex-direction: column;
-  margin: auto;
-}
 .sub-container {
   display: flex;
   flex-direction: row;
@@ -25,6 +18,8 @@
   box-sizing: border-box;
   border-radius: 8px;
   text-decoration: none;
+  height: 20vh;
+  margin-bottom: 2rem;
 }
 .rihgt {
   width: 25%;
