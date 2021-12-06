@@ -1,3 +1,5 @@
+/* eslint-disable no-param-reassign */
+/* eslint-disable no-console */
 /* eslint-disable no-nested-ternary */
 import { useState, useEffect } from 'react';
 import Pagination from '@mui/material/Pagination';
@@ -10,7 +12,7 @@ import RegisterForm from '../AuthModal/RegisterForm';
 import style from '../AuthModal/style';
 import * as M from '../../mui-modules';
 
-import styles from './style';
+// import './style.css';
 
 const PaginationClassified = ({ search }) => {
   const [data, setCategories] = useState([]);
@@ -61,41 +63,20 @@ const PaginationClassified = ({ search }) => {
   };
 
   return (
-    <M.Box
-      sx={{ width: '60%' }}
-      style={styles.containerClassified}
-    >
+    <M.Box sx={{ width: '60%' }} className="container-classified">
       {isLoaded
         ? data?.length > 0
           ? (data.map((ele) => (
-            <M.Box
-              onClick={() => navigate(`/products/${ele.id}`)}
-              style={styles.subContainer}
-              key={ele.id}
-            >
-              <section
-                style={styles.right}
-              >
-                <img
-                  style={styles.classImg}
-                  src={JSON.parse(ele.images)[0].image_1}
-                  alt={ele.type}
-                />
+            <M.Box onClick={() => navigate(`/products/${ele.id}`)} className="sub-container" key={ele.id}>
+              <section className="rihgt">
+                <img className="class-img" src={JSON.parse(ele.images)[0].image_1} alt={ele.type} />
               </section>
-              <section
-                style={styles.left}
-              >
-                <div
-                  style={styles.nameClassified}
-                >
-                  <span
-                    style={styles.subnameClassified}
-                  >
-                    {ele.type}
-                  </span>
+              <section className="left">
+                <div className="name-classified">
+                  <span className="sub-name-classified">{ele.type}</span>
                   <button
                     type="submit"
-                    style={styles.btnLikeClassified}
+                    className="btn-like-classified"
                     onClick={(e) => {
                       e.stopPropagation();
                       check();
@@ -106,63 +87,31 @@ const PaginationClassified = ({ search }) => {
                       : <M.FavoriteBorderIcon sx={{ color: '#A9AFB0' }} />}
                   </button>
                 </div>
-                <p
-                  style={styles.titleClassified}
-                >
+                <p className="title-classified">
                   {ele.name}
                 </p>
-                <article
-                  style={styles.moreDetails}
-                >
-                  <article
-                    style={styles.info}
-                  >
-                    <p
-                      style={styles.price}
-                    >
-                      <span
-                        style={styles.subPrice}
-                      >
+                <article className="more-detalies">
+                  <article className="info">
+                    <p className="price">
+                      <span className="sub-price">
                         {ele.price}
-                        {' '}
                         {ele.currency}
                       </span>
                     </p>
-                    <p
-                      style={styles.iconCity}
-                    >
+                    <p className="icon-city">
                       <M.LocationOnIcon />
-                      <span
-                        style={styles.subCity}
-                      >
-                        {ele.city}
-                      </span>
+                      <span className="sub-city">{ele.city}</span>
                     </p>
                   </article>
                 </article>
-                <article
-                  style={styles.sectionBtnClassified}
-                >
-                  <button
-                    type="button"
-                    style={{ ...styles.sectionClassifiedButton, ...styles.btnChatClassified }}
-                  >
-                    <M.ChatIcon
-                      sx={{ backgroundColor: '#1a6e9a', marginLeft: '12px' }}
-                    />
+                <article className="section-btn-classified">
+                  <button type="button" className="btn-chat-classified">
+                    <M.ChatIcon sx={{ backgroundColor: '#1a6e9a', marginLeft: '12px' }} />
                     ارسل رسالة
                   </button>
-                  <button
-                    type="button"
-                    style={{ ...styles.sectionClassifiedButton, ...styles.btnCallClassified }}
-                  >
-                    <M.LocalPhoneIcon
-                      sx={{ marginLeft: '12px' }}
-                    />
-                    <M.Link
-                      href={`tel:${ele.phone}`}
-                      onClick={(e) => e.stopPropagation()}
-                    >
+                  <button type="button" className="btn-call-classified">
+                    <M.LocalPhoneIcon sx={{ marginLeft: '12px' }} />
+                    <M.Link href={`tel:${ele.phone}`} onClick={(e) => e.stopPropagation()}>
                       إتصل بالمعلن
                     </M.Link>
                   </button>
@@ -179,14 +128,9 @@ const PaginationClassified = ({ search }) => {
         color="primary"
         page={page}
         onChange={handlePageChange}
-        sx={
-          {
-            display: 'flex',
-            justifyContent: 'center',
-            py: '3rem',
-          }
-        }
+        sx={{ display: 'flex', justifyContent: 'center', py: '3rem' }}
       />
+
       {auth ? (
         ''
       ) : (
@@ -210,8 +154,8 @@ const PaginationClassified = ({ search }) => {
   );
 };
 
+export default PaginationClassified;
+
 PaginationClassified.propTypes = {
   search: propTypes.string.isRequired,
 };
-
-export default PaginationClassified;

@@ -4,6 +4,7 @@ import { Error404, Error500 } from './errors';
 import { Dashboard, DashboardLogin } from './Dashboard';
 import SingleProductPage from './single';
 import ClassifiedProduct from './classifiedProduct';
+import ProfileUser from './profile';
 
 export {
   Home,
@@ -14,4 +15,5 @@ export {
   Error404,
   Error500,
   ClassifiedProduct,
+  ProfileUser,
 };
