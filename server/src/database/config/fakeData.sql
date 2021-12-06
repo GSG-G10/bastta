@@ -3400,6 +3400,21 @@ VALUES (
         '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
     ),
     (
+        49,
+        'فيلا أبو صلاح ',
+        'العقارات',
+        'فيلا',
+        '2021-01-21',
+        'غزة',
+        '629-854-2653',
+        'فيلا طابقين عشارعين',
+        500000,
+        'دوﻻر',
+        true,
+        31,
+        '[{"image_1":"https://e8rbh6por3n.exactdn.com/sites/uploads/2020/05/villa-la-gi-thumbnail.jpg?strip=all&lossy=1&resize=770%2C515&ssl=1","image_2":"https://e8rbh6por3n.exactdn.com/sites/uploads/2020/05/villa-la-gi-thumbnail.jpg?strip=all&lossy=1&resize=770%2C515&ssl=1","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+    ),
+    (
         5,
         'شاحن بطارية 20 امبير',
         'الأجهزة',

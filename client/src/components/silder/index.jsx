@@ -3,8 +3,9 @@ import PropTypes from 'prop-types';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
+
 import BgSlider from '../../assets/bg-slider.jpg';
-import Code from '../../assets/code.jpg';
+
 import './style.css';
 
 const SampleNextArrow = (props) => {
@@ -56,16 +57,11 @@ export default class SliderHome extends React.Component {
       <div className="conatiner-slider">
         <Slider {...settings}>
           <img src={BgSlider} alt="alt" />
-
-          <img src={Code} alt="alt" />
-
+          <img src="https://assets.femi9.com/media/catalog/category/inner-SP-A.jpg" alt="alt" />
+          <img src="https://busta.ps/wp-content/uploads/2021/06/logo-busta.png" alt="alt" />
           <img src={BgSlider} alt="alt" />
-
-          <img src={Code} alt="alt" />
-
-          <img src={BgSlider} alt="alt" />
-
-          <img src={Code} alt="alt" />
+          <img src="https://besthqwallpapers.com/Uploads/21-2-2020/122727/thumb2-online-shopping-monochrome-online-business-concepts-online-store-concepts-laptop.jpg" alt="alt" />
+          <img src="https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074075.jpg?size=626&ext=jpg" alt="alt" />
 
         </Slider>
       </div>
@@ -77,11 +73,9 @@ SampleNextArrow.propTypes = {
   className: PropTypes.string.isRequired,
   onClick: PropTypes.func.isRequired,
   style: PropTypes.objectOf.isRequired,
-
 };
 SamplePrevArrow.propTypes = {
   className: PropTypes.string.isRequired,
   onClick: PropTypes.func.isRequired,
   style: PropTypes.objectOf.isRequired,
-
 };
