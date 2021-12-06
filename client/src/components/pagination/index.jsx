@@ -10,6 +10,8 @@ import RegisterForm from '../AuthModal/RegisterForm';
 import style from '../AuthModal/style';
 import * as M from '../../mui-modules';
 
+import Filter from '../filter';
+
 import styles from './style';
 
 const PaginationClassified = ({ search }) => {
@@ -61,151 +63,154 @@ const PaginationClassified = ({ search }) => {
   };
 
   return (
-    <M.Box
-      sx={{ width: '60%' }}
-      style={styles.containerClassified}
-    >
-      {isLoaded
-        ? data?.length > 0
-          ? (data.map((ele) => (
-            <M.Box
-              onClick={() => navigate(`/products/${ele.id}`)}
-              style={styles.subContainer}
-              key={ele.id}
-            >
-              <section
-                style={styles.right}
+    <M.Box style={{ display: 'flex' }}>
+      <Filter setData={setCategories} setIsLoaded={setIsLoaded} setCount={setCount} />
+      <M.Box
+        sx={{ width: '60%' }}
+        style={styles.containerClassified}
+      >
+        {isLoaded
+          ? data?.length > 0
+            ? (data.map((ele) => (
+              <M.Box
+                onClick={() => navigate(`/products/${ele.id}`)}
+                style={styles.subContainer}
+                key={ele.id}
               >
-                <img
-                  style={styles.classImg}
-                  src={JSON.parse(ele.images)[0].image_1}
-                  alt={ele.type}
-                />
-              </section>
-              <section
-                style={styles.left}
-              >
-                <div
-                  style={styles.nameClassified}
+                <section
+                  style={styles.right}
                 >
-                  <span
-                    style={styles.subnameClassified}
+                  <img
+                    style={styles.classImg}
+                    src={JSON.parse(ele.images)[0].image_1}
+                    alt={ele.type}
+                  />
+                </section>
+                <section
+                  style={styles.left}
+                >
+                  <div
+                    style={styles.nameClassified}
                   >
-                    {ele.type}
-                  </span>
-                  <button
-                    type="submit"
-                    style={styles.btnLikeClassified}
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      check();
-                      handleFavItem(ele.id);
-                    }}
+                    <span
+                      style={styles.subnameClassified}
+                    >
+                      {ele.type}
+                    </span>
+                    <button
+                      type="submit"
+                      style={styles.btnLikeClassified}
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        check();
+                        handleFavItem(ele.id);
+                      }}
+                    >
+                      { id === ele.id || dataFavs.includes(ele.id) ? <M.FavoriteIcon sx={{ color: 'red' }} />
+                        : <M.FavoriteBorderIcon sx={{ color: '#A9AFB0' }} />}
+                    </button>
+                  </div>
+                  <p
+                    style={styles.titleClassified}
                   >
-                    { id === ele.id || dataFavs.includes(ele.id) ? <M.FavoriteIcon sx={{ color: 'red' }} />
-                      : <M.FavoriteBorderIcon sx={{ color: '#A9AFB0' }} />}
-                  </button>
-                </div>
-                <p
-                  style={styles.titleClassified}
-                >
-                  {ele.name}
-                </p>
-                <article
-                  style={styles.moreDetails}
-                >
+                    {ele.name}
+                  </p>
                   <article
-                    style={styles.info}
+                    style={styles.moreDetails}
                   >
-                    <p
-                      style={styles.price}
+                    <article
+                      style={styles.info}
                     >
-                      <span
-                        style={styles.subPrice}
+                      <p
+                        style={styles.price}
                       >
-                        {ele.price}
-                        {' '}
-                        {ele.currency}
-                      </span>
-                    </p>
-                    <p
-                      style={styles.iconCity}
-                    >
-                      <M.LocationOnIcon />
-                      <span
-                        style={styles.subCity}
+                        <span
+                          style={styles.subPrice}
+                        >
+                          {ele.price}
+                          {' '}
+                          {ele.currency}
+                        </span>
+                      </p>
+                      <p
+                        style={styles.iconCity}
                       >
-                        {ele.city}
-                      </span>
-                    </p>
+                        <M.LocationOnIcon />
+                        <span
+                          style={styles.subCity}
+                        >
+                          {ele.city}
+                        </span>
+                      </p>
+                    </article>
                   </article>
-                </article>
-                <article
-                  style={styles.sectionBtnClassified}
-                >
-                  <button
-                    type="button"
-                    style={{ ...styles.sectionClassifiedButton, ...styles.btnChatClassified }}
+                  <article
+                    style={styles.sectionBtnClassified}
                   >
-                    <M.ChatIcon
-                      sx={{ backgroundColor: '#1a6e9a', marginLeft: '12px' }}
-                    />
-                    ارسل رسالة
-                  </button>
-                  <button
-                    type="button"
-                    style={{ ...styles.sectionClassifiedButton, ...styles.btnCallClassified }}
-                  >
-                    <M.LocalPhoneIcon
-                      sx={{ marginLeft: '12px' }}
-                    />
-                    <M.Link
-                      href={`tel:${ele.phone}`}
-                      onClick={(e) => e.stopPropagation()}
+                    <button
+                      type="button"
+                      style={{ ...styles.sectionClassifiedButton, ...styles.btnChatClassified }}
                     >
-                      إتصل بالمعلن
-                    </M.Link>
-                  </button>
-                </article>
-              </section>
-            </M.Box>
-          )))
-          : <h2> لا يوجد بيانات لعرضها يرجى المحاولة مرة اخرى </h2>
-        : <h1>يرجى الانتظار ....</h1>}
-      <Pagination
-        count={Math.ceil(count / 10)}
-        variant="outlined"
-        shape="rounded"
-        color="primary"
-        page={page}
-        onChange={handlePageChange}
-        sx={
+                      <M.ChatIcon
+                        sx={{ backgroundColor: '#1a6e9a', marginLeft: '12px' }}
+                      />
+                      ارسل رسالة
+                    </button>
+                    <button
+                      type="button"
+                      style={{ ...styles.sectionClassifiedButton, ...styles.btnCallClassified }}
+                    >
+                      <M.LocalPhoneIcon
+                        sx={{ marginLeft: '12px' }}
+                      />
+                      <M.Link
+                        href={`tel:${ele.phone}`}
+                        onClick={(e) => e.stopPropagation()}
+                      >
+                        إتصل بالمعلن
+                      </M.Link>
+                    </button>
+                  </article>
+                </section>
+              </M.Box>
+            )))
+            : <h2> لا يوجد بيانات لعرضها يرجى المحاولة مرة اخرى </h2>
+          : <h1>يرجى الانتظار ....</h1>}
+        <Pagination
+          count={Math.ceil(count / 10)}
+          variant="outlined"
+          shape="rounded"
+          color="primary"
+          page={page}
+          onChange={handlePageChange}
+          sx={
           {
             display: 'flex',
             justifyContent: 'center',
             py: '3rem',
           }
         }
-      />
-      {auth ? (
-        ''
-      ) : (
-        <M.Modal
-          keepMounted
-          open={open}
-          onClose={handleClose}
-          aria-labelledby="keep-mounted-modal-title"
-          aria-describedby="keep-mounted-modal-description"
-        >
-          <M.Box sx={style.modal}>
-            {manageModal ? (
-              <LoginForm setManageModal={setManageModal} />
-            ) : (
-              <RegisterForm setManageModal={setManageModal} />
-            )}
-          </M.Box>
-        </M.Modal>
-      )}
+        />
+        {auth ? (
+          ''
+        ) : (
+          <M.Modal
+            keepMounted
+            open={open}
+            onClose={handleClose}
+            aria-labelledby="keep-mounted-modal-title"
+            aria-describedby="keep-mounted-modal-description"
+          >
+            <M.Box sx={style.modal}>
+              {manageModal ? (
+                <LoginForm setManageModal={setManageModal} />
+              ) : (
+                <RegisterForm setManageModal={setManageModal} />
+              )}
+            </M.Box>
+          </M.Modal>
+        )}
+      </M.Box>
     </M.Box>
   );
 };
