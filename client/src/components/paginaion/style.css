@@ -4,6 +4,10 @@
   flex-direction: column;
   margin: auto;
 }
+.containers {
+  display: flex;
+}
+
 .sub-container {
   display: flex;
   flex-direction: row;
