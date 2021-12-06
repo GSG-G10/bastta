@@ -1,5 +1,5 @@
 const initialState = {
-  city: '', section: 'الإلكترونيات', type: 'موبايل', price: '0', search: '', filteredData: [],
+  city: '', section: '', type: '', price: '0', search: '', filteredData: [],
 };
 
 const FilterReducer = (state, action) => {

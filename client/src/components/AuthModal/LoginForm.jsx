@@ -26,6 +26,7 @@ const LoginForm = ({ setManageModal }) => {
       setLoading((c) => !c);
       dispatch(showMessage(schemaErrors[Number(message)]), 'success');
       const response = await axios.get('/api/v1/users/isAuth');
+      setTimeout(() => window.location.reload(), 0);
       return dispatch(createAuth(response.data));
     } catch (err) {
       return dispatch(

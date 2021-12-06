@@ -8,6 +8,13 @@
   display: flex;
 }
 
+
+.container-classified {
+  margin-right: 15px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
 .sub-container {
   display: flex;
   flex-direction: row;
@@ -133,19 +140,15 @@
   cursor: pointer;
 }
 
-.btn-chat-classified {
+.btn-append-product {
   background-color: #1a6e9a;
   color: #ffffff;
   border: 1px solid #ffffff;
 }
 
-.btn-call-classified {
-  background-color: #ffffff;
-  color: #1a6e9a;
-  border: 1px solid #1a6e9a;
-}
 .btn-like-classified {
   border: none;
   background-color: #ffffff;
   cursor: pointer;
 }
+
