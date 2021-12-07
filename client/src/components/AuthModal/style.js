@@ -5,12 +5,11 @@ const style = {
     top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
-    width: '35rem',
-    height: '50rem',
+    width: '25rem',
     bgcolor: 'background.paper',
     borderٌRadius: '16px',
     boxShadow: 24,
-    p: 0,
+    p: 2,
   },
 
   activeString: {

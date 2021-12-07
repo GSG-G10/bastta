@@ -49,24 +49,25 @@ const RegisterForm = ({ setManageModal }) => {
         id="modal-title"
         variant="h6"
         component="h1"
-        sx={{ textAlign: 'center', height: '10%', padding: '0.5rem 0' }}
+        sx={{ textAlign: 'center', padding: '0.5rem 0' }}
       >
         <span style={style.activeString}>إنشاء حساب </span>
         | إتسجيل الدخول
       </muiModules.Typography>
       <muiModules.Box
-        sx={{ display: 'flex', justifyContent: 'center', height: '2.5rem' }}
+        sx={{ display: 'flex', justifyContent: 'center' }}
       >
         {loading ? <muiModules.CircularProgress /> : null}
       </muiModules.Box>
       <form
         style={{
-          height: '80%',
+          // height: '80%',
           width: '80%',
           margin: 'auto',
           display: 'flex',
           flexDirection: 'column',
           justifyContent: 'space-between',
+          // border: '1px solid red',
         }}
         onSubmit={(e) => {
           e.preventDefault();
@@ -80,11 +81,11 @@ const RegisterForm = ({ setManageModal }) => {
       >
         <muiModules.Box
           sx={{
-            height: '70%',
+            // height: '70%',
             display: 'flex',
             flexDirection: 'column',
             justifyContent: 'space-between',
-            padding: '2rem 0',
+            // padding: '2rem 0',
             alignItems: 'flex-start',
           }}
         >
@@ -108,6 +109,7 @@ const RegisterForm = ({ setManageModal }) => {
               placeholder="الإسم"
               onChange={(e) => setNameInput(e.target.value)}
               require="true"
+              width="lg"
               sx={{ width: '100%' }}
             />
             <muiModules.Typography
@@ -168,8 +170,8 @@ const RegisterForm = ({ setManageModal }) => {
             onClick={() => setManageModal((c) => !c)}
             sx={{
               border: 'none',
-              '&:hover': { border: '1px solid #1a6e9a' },
-              margin: '2rem 0 0 0',
+              // '&:hover': { border: '1px solid #1a6e9a' },
+              margin: '0.5rem 0',
             }}
           >
             هل لديك حساب ؟
@@ -180,7 +182,7 @@ const RegisterForm = ({ setManageModal }) => {
           variant="contained"
           type="submit"
           color="primary"
-          sx={{ width: '100%', padding: '1rem 0' }}
+          sx={{ width: '100%', padding: '0.5rem 0' }}
         >
           تسجيل حساب جديد
 
