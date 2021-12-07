@@ -147,8 +147,6 @@ const styles = {
     backgroundColor: '#1a6e9a',
     color: '#ffffff',
     border: '1px solid #ffffff',
-    // border: '10px solid red',
-
   },
 
   btnCallClassified: {
