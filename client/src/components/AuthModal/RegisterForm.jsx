@@ -61,13 +61,11 @@ const RegisterForm = ({ setManageModal }) => {
       </muiModules.Box>
       <form
         style={{
-          // height: '80%',
           width: '80%',
           margin: 'auto',
           display: 'flex',
           flexDirection: 'column',
           justifyContent: 'space-between',
-          // border: '1px solid red',
         }}
         onSubmit={(e) => {
           e.preventDefault();
@@ -81,11 +79,9 @@ const RegisterForm = ({ setManageModal }) => {
       >
         <muiModules.Box
           sx={{
-            // height: '70%',
             display: 'flex',
             flexDirection: 'column',
             justifyContent: 'space-between',
-            // padding: '2rem 0',
             alignItems: 'flex-start',
           }}
         >
@@ -170,7 +166,6 @@ const RegisterForm = ({ setManageModal }) => {
             onClick={() => setManageModal((c) => !c)}
             sx={{
               border: 'none',
-              // '&:hover': { border: '1px solid #1a6e9a' },
               margin: '0.5rem 0',
             }}
           >
