@@ -15,7 +15,7 @@ const styles = {
     boxSizing: 'border-box',
     borderRadius: '8px',
     textDecoration: 'none',
-    height: '25vh',
+    height: '200px',
   },
 
   right: {
@@ -122,7 +122,7 @@ const styles = {
   },
 
   sectionBtnClassified: {
-    width: '50%',
+    width: '350px',
     display: 'flex',
     flexDirection: 'row',
     justifyContent: 'space-between',
@@ -140,6 +140,7 @@ const styles = {
     lineHeight: '150%',
     alignItems: 'center',
     cursor: 'pointer',
+    border: '10px solid red',
   },
 
   btnChatClassified: {
