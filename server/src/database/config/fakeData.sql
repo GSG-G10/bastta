@@ -277,7 +277,7 @@ VALUES (
         'شيكل',
         false,
         50,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://mega.ps/wp-content/uploads/2020/09/CZ60A-RML.jpg","image_4":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg"}]'
     ),
     (
         31,
@@ -292,7 +292,7 @@ VALUES (
         'شيكل',
         true,
         23,
-        '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://moshtrawat.com/wp-content/uploads/2021/09/kitchen-hood-filter.jpg","image_3":"https://moshtrawat.com/wp-content/uploads/2021/09/kitchen-hood-filter.jpg","image_4":"https://moshtrawat.com/wp-content/uploads/2021/09/kitchen-hood-filter.jpg"}]'
     ),
     (
         16,
@@ -307,7 +307,7 @@ VALUES (
         'شيكل',
         false,
         33,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         45,
@@ -322,7 +322,7 @@ VALUES (
         'شيكل',
         true,
         37,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         34,
@@ -337,7 +337,7 @@ VALUES (
         'شيكل',
         false,
         40,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.lg.com/eg_ar/images/washing-machines/md05981336/gallery/dm-01.jpg","image_2":"https://www.lg.com/eg_ar/images/washing-machines/md05981336/gallery/dm-01.jpg","image_3":"https://www.lg.com/eg_ar/images/washing-machines/md05981336/gallery/dm-01.jpg","image_4":"https://www.lg.com/eg_ar/images/washing-machines/md05981336/gallery/dm-01.jpg"}]'
     ),
     (
         28,
@@ -352,7 +352,7 @@ VALUES (
         'شيكل',
         true,
         16,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         44,
@@ -367,7 +367,7 @@ VALUES (
         'شيكل',
         false,
         15,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         21,
@@ -382,7 +382,7 @@ VALUES (
         'شيكل',
         false,
         13,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         9,
@@ -397,7 +397,7 @@ VALUES (
         'شيكل',
         false,
         13,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         1,
@@ -412,7 +412,7 @@ VALUES (
         'شيكل',
         false,
         41,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_2":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_3":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_4":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$"}]'
     ),
     (
         21,
@@ -427,7 +427,7 @@ VALUES (
         'شيكل',
         false,
         2,
-        '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_2":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_3":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_4":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$"}]'
     ),
     (
         21,
@@ -442,7 +442,7 @@ VALUES (
         'شيكل',
         false,
         16,
-        '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         29,
@@ -457,7 +457,7 @@ VALUES (
         'شيكل',
         true,
         27,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_2":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_3":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_4":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg"}]'
     ),
     (
         32,
@@ -472,7 +472,7 @@ VALUES (
         'شيكل',
         false,
         22,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         28,
@@ -487,7 +487,7 @@ VALUES (
         'شيكل',
         false,
         14,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         21,
@@ -502,7 +502,7 @@ VALUES (
         'شيكل',
         false,
         23,
-        '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         17,
@@ -517,7 +517,7 @@ VALUES (
         'شيكل',
         false,
         35,
-        '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         2,
@@ -532,7 +532,7 @@ VALUES (
         'شيكل',
         false,
         45,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_2":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_3":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_4":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg"}]'
     ),
     (
         36,
@@ -547,7 +547,7 @@ VALUES (
         'شيكل',
         true,
         20,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_2":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_3":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_4":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg"}]'
     ),
     (
         47,
@@ -562,7 +562,7 @@ VALUES (
         'شيكل',
         false,
         23,
-        '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         25,
@@ -577,7 +577,7 @@ VALUES (
         'شيكل',
         false,
         9,
-        '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         39,
@@ -592,7 +592,7 @@ VALUES (
         'شيكل',
         false,
         31,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         38,
@@ -607,7 +607,7 @@ VALUES (
         'شيكل',
         false,
         37,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         20,
@@ -622,7 +622,7 @@ VALUES (
         'شيكل',
         false,
         18,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_2":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_3":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_4":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$"}]'
     ),
     (
         15,
@@ -637,7 +637,7 @@ VALUES (
         'شيكل',
         true,
         46,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         14,
@@ -652,7 +652,7 @@ VALUES (
         'شيكل',
         true,
         47,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         21,
@@ -667,7 +667,7 @@ VALUES (
         'شيكل',
         true,
         5,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         48,
@@ -682,7 +682,7 @@ VALUES (
         'شيكل',
         true,
         36,
-        '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_2":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_3":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_4":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg"}]'
     ),
     (
         34,
@@ -697,7 +697,7 @@ VALUES (
         'شيكل',
         true,
         16,
-        '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%Dhttps://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_3":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_4":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg"}]'
     ),
     (
         12,
@@ -712,7 +712,7 @@ VALUES (
         'شيكل',
         true,
         24,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_2":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_3":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_4":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg"}]'
     ),
     (
         14,
@@ -727,7 +727,7 @@ VALUES (
         'شيكل',
         true,
         42,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg"}]'
     ),
     (
         6,
@@ -742,7 +742,7 @@ VALUES (
         'شيكل',
         false,
         21,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg"}]'
     ),
     (
         17,
@@ -757,7 +757,7 @@ VALUES (
         'شيكل',
         true,
         49,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_2":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_3":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_4":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg"}]'
     ),
     (
         13,
@@ -772,7 +772,7 @@ VALUES (
         'شيكل',
         true,
         25,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_2":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.pngg","image_3":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_4":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png"}]'
     ),
     (
         4,
@@ -787,7 +787,7 @@ VALUES (
         'شيكل',
         true,
         23,
-        '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         29,
@@ -802,7 +802,7 @@ VALUES (
         'شيكل',
         true,
         25,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg"}]'
     ),
     (
         41,
@@ -817,7 +817,7 @@ VALUES (
         'شيكل',
         false,
         29,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         14,
@@ -832,7 +832,7 @@ VALUES (
         'شيكل',
         false,
         1,
-        '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_2":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_3":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_4":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg"}]'
     ),
     (
         21,
@@ -847,7 +847,7 @@ VALUES (
         'شيكل',
         true,
         46,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_2":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_3":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_4":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg"}]'
     ),
     (
         13,
@@ -862,7 +862,7 @@ VALUES (
         'شيكل',
         false,
         36,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_2":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_3":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_4":"https://images.alwatanvoice.com/news/large/9998643938.jpg"}]'
     ),
     (
         42,
@@ -877,13 +877,13 @@ VALUES (
         'شيكل',
         true,
         9,
-        '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_2":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_3":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_4":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg"}]'
     ),
     (
         21,
         'برواز علم فلسطين',
         'الأثاث',
-        'خزانات',
+        'زينة',
         '2021-06-03',
         'غزة',
         '274-995-5058',
@@ -892,7 +892,7 @@ VALUES (
         'شيكل',
         false,
         45,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         39,
@@ -907,7 +907,7 @@ VALUES (
         'شيكل',
         false,
         21,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_2":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_3":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_4":"https://images.alwatanvoice.com/news/large/9998643938.jpg"}]'
     ),
     (
         3,
@@ -922,7 +922,7 @@ VALUES (
         'شيكل',
         false,
         11,
-        '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_2":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_3":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_4":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg"}]'
     ),
     (
         40,
@@ -937,7 +937,7 @@ VALUES (
         'شيكل',
         false,
         24,
-        '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_2":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_3":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_4":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png"}]'
     ),
     (
         30,
@@ -952,7 +952,7 @@ VALUES (
         'شيكل',
         true,
         6,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_2":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_3":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_4":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg"}]'
     ),
     (
         24,
@@ -967,7 +967,7 @@ VALUES (
         'شيكل',
         true,
         49,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_2":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_3":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_4":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png"}]'
     ),
     (
         10,
@@ -982,7 +982,7 @@ VALUES (
         'شيكل',
         false,
         27,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         44,
@@ -997,7 +997,7 @@ VALUES (
         'شيكل',
         true,
         24,
-        '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_2":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_3":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_4":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png"}]'
     ),
     (
         42,
@@ -1012,7 +1012,7 @@ VALUES (
         'شيكل',
         true,
         3,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_2":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_3":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_4":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg"}]'
     ),
     (
         28,
@@ -1027,7 +1027,7 @@ VALUES (
         'شيكل',
         true,
         31,
-        '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_2":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_3":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_4":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg"}]'
     ),
     (
         35,
@@ -1042,7 +1042,7 @@ VALUES (
         'شيكل',
         true,
         14,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_2":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_3":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_4":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg"}]'
     ),
     (
         11,
@@ -1057,7 +1057,7 @@ VALUES (
         'شيكل',
         false,
         14,
-        '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_2":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_3":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_4":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg"}]'
     ),
     (
         30,
@@ -1072,7 +1072,7 @@ VALUES (
         'شيكل',
         false,
         4,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         32,
@@ -1087,7 +1087,7 @@ VALUES (
         'شيكل',
         true,
         18,
-        '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_2":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_3":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_4":"https://images.alwatanvoice.com/news/large/9998643938.jpg"}]'
     ),
     (
         8,
@@ -1102,7 +1102,7 @@ VALUES (
         'شيكل',
         true,
         19,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_2":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_3":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_4":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG"}]'
     ),
     (
         34,
@@ -1117,7 +1117,7 @@ VALUES (
         'شيكل',
         true,
         3,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         29,
@@ -1132,7 +1132,7 @@ VALUES (
         'شيكل',
         true,
         30,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         38,
@@ -1147,7 +1147,7 @@ VALUES (
         'شيكل',
         false,
         23,
-        '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_2":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_3":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_4":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG"}]'
     ),
     (
         40,
@@ -1162,7 +1162,7 @@ VALUES (
         'شيكل',
         true,
         14,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_2":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_3":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_4":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png"}]'
     ),
     (
         19,
@@ -1177,7 +1177,7 @@ VALUES (
         'شيكل',
         true,
         21,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         26,
@@ -1192,7 +1192,7 @@ VALUES (
         'شيكل',
         true,
         27,
-        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         26,
@@ -1207,7 +1207,7 @@ VALUES (
         'شيكل',
         true,
         4,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         18,
@@ -1222,7 +1222,7 @@ VALUES (
         'شيكل',
         false,
         2,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU"}]'
     ),
     (
         39,
@@ -1237,7 +1237,7 @@ VALUES (
         'شيكل',
         true,
         30,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         24,
@@ -1252,7 +1252,7 @@ VALUES (
         'شيكل',
         false,
         17,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         22,
@@ -1267,7 +1267,7 @@ VALUES (
         'شيكل',
         false,
         25,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_2":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_3":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_4":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg"}]'
     ),
     (
         33,
@@ -1282,7 +1282,7 @@ VALUES (
         'شيكل',
         true,
         21,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_2":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_3":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_4":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg"}]'
     ),
     (
         5,
@@ -1297,7 +1297,7 @@ VALUES (
         'شيكل',
         true,
         44,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         13,
@@ -1312,7 +1312,7 @@ VALUES (
         'شيكل',
         true,
         50,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         44,
@@ -1327,7 +1327,7 @@ VALUES (
         'شيكل',
         true,
         19,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         43,
@@ -1342,7 +1342,7 @@ VALUES (
         'شيكل',
         true,
         2,
-        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         25,
@@ -1357,7 +1357,7 @@ VALUES (
         'شيكل',
         true,
         32,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         10,
@@ -1372,7 +1372,7 @@ VALUES (
         'شيكل',
         false,
         8,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         26,
@@ -1387,7 +1387,7 @@ VALUES (
         'شيكل',
         false,
         16,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg"}]'
     ),
     (
         1,
@@ -1402,7 +1402,7 @@ VALUES (
         'شيكل',
         true,
         22,
-        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         22,
@@ -1417,7 +1417,7 @@ VALUES (
         'شيكل',
         true,
         50,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         49,
@@ -1432,7 +1432,7 @@ VALUES (
         'شيكل',
         true,
         15,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         21,
@@ -1447,7 +1447,7 @@ VALUES (
         'شيكل',
         true,
         19,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU"}]'
     ),
     (
         24,
@@ -1462,7 +1462,7 @@ VALUES (
         'شيكل',
         false,
         40,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         14,
@@ -1477,7 +1477,7 @@ VALUES (
         'شيكل',
         true,
         28,
-        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         3,
@@ -1492,7 +1492,7 @@ VALUES (
         'شيكل',
         false,
         21,
-        '[{"image_1":"https://i.servimg.com/u/f52/17/02/63/65/tm/15603110.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         45,
@@ -1507,7 +1507,7 @@ VALUES (
         'شيكل',
         false,
         37,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg"}]'
     ),
     (
         24,
@@ -1522,7 +1522,7 @@ VALUES (
         'شيكل',
         true,
         38,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU"}]'
     ),
     (
         22,
@@ -1537,7 +1537,7 @@ VALUES (
         'شيكل',
         false,
         26,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         4,
@@ -1552,7 +1552,7 @@ VALUES (
         'شيكل',
         false,
         45,
-        '[{"image_1":"https://i.servimg.com/u/f52/17/02/63/65/tm/15603110.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_2":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_3":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_4":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg"}]'
     ),
     (
         13,
@@ -1567,7 +1567,7 @@ VALUES (
         'شيكل',
         false,
         39,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         47,
@@ -1582,7 +1582,7 @@ VALUES (
         'شيكل',
         true,
         35,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         20,
@@ -1597,7 +1597,7 @@ VALUES (
         'شيكل',
         false,
         31,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg"}]'
     ),
     (
         27,
@@ -1612,7 +1612,7 @@ VALUES (
         'شيكل',
         false,
         33,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg"}]'
     ),
     (
         26,
@@ -1627,7 +1627,7 @@ VALUES (
         'شيكل',
         true,
         40,
-        '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_3":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_4":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg"}]'
     ),
     (
         38,
@@ -1642,7 +1642,7 @@ VALUES (
         'شيكل',
         true,
         34,
-        '[{"image_1":"https://www.noonpost.com/sites/default/files/styles/article_image_1226_x_840/public/2020-03/istock-1033164998.jpg?itok=AdPwX11M","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_2":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_3":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_4":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg"}]'
     ),
     (
         49,
@@ -1657,7 +1657,7 @@ VALUES (
         'شيكل',
         true,
         19,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg"}]'
     ),
     (
         19,
@@ -1672,7 +1672,7 @@ VALUES (
         'شيكل',
         true,
         30,
-        '[{"image_1":"https://www.noonpost.com/sites/default/files/styles/article_image_1226_x_840/public/2020-03/istock-1033164998.jpg?itok=AdPwX11M","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_2":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_3":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_4":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand"}]'
     ),
     (
         20,
@@ -1687,7 +1687,7 @@ VALUES (
         'شيكل',
         true,
         48,
-        '[{"image_1":"https://www.alaraby.co.uk/sites/default/files/2020-09/one_6.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg"}]'
     ),
     (
         25,
@@ -1702,7 +1702,7 @@ VALUES (
         'شيكل',
         true,
         31,
-        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_2":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_3":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_4":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg"}]'
     ),
     (
         12,
@@ -1717,7 +1717,7 @@ VALUES (
         'شيكل',
         true,
         12,
-        '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_2":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_3":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_4":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg"}]'
     ),
     (
         6,
@@ -1732,7 +1732,7 @@ VALUES (
         'شيكل',
         false,
         45,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_2":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_3":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_4":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png"}]'
     ),
     (
         7,
@@ -1747,7 +1747,7 @@ VALUES (
         'شيكل',
         true,
         39,
-        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg"}]'
     ),
     (
         33,
@@ -1762,7 +1762,7 @@ VALUES (
         'شيكل',
         false,
         4,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_2":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_3":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_4":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png"}]'
     ),
     (
         41,
@@ -1777,7 +1777,7 @@ VALUES (
         'شيكل',
         true,
         47,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_2":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_3":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_4":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg"}]'
     ),
     (
         6,
@@ -1792,7 +1792,7 @@ VALUES (
         'شيكل',
         true,
         38,
-        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg"}]'
     ),
     (
         2,
@@ -1807,7 +1807,7 @@ VALUES (
         'شيكل',
         false,
         46,
-        '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_3":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_4":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg"}]'
     ),
     (
         14,
@@ -1822,7 +1822,7 @@ VALUES (
         'شيكل',
         false,
         49,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_2":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_3":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_4":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg"}]'
     ),
     (
         10,
@@ -1837,7 +1837,7 @@ VALUES (
         'شيكل',
         false,
         20,
-        '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_2":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_3":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_4":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg"}]'
     ),
     (
         17,
@@ -1852,7 +1852,7 @@ VALUES (
         'شيكل',
         false,
         32,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_2":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_3":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_4":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg"}]'
     ),
     (
         46,
@@ -1867,7 +1867,7 @@ VALUES (
         'شيكل',
         true,
         41,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_2":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_3":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_4":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg"}]'
     ),
     (
         50,
@@ -1882,7 +1882,7 @@ VALUES (
         'شيكل',
         true,
         11,
-        '[{"image_1":"https://www.alaraby.co.uk/sites/default/files/2020-09/one_6.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_2":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_3":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_4":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg"}]'
     ),
     (
         27,
@@ -1897,7 +1897,7 @@ VALUES (
         'شيكل',
         false,
         7,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_2":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_3":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_4":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg"}]'
     ),
     (
         10,
@@ -1912,7 +1912,7 @@ VALUES (
         'شيكل',
         true,
         37,
-        '[{"image_1":"https://www.alaraby.co.uk/sites/default/files/2020-09/one_6.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_3":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_4":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg"}]'
     ),
     (
         3,
@@ -1927,7 +1927,7 @@ VALUES (
         'شيكل',
         true,
         21,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_2":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_3":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_4":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg"}]'
     ),
     (
         45,
@@ -1942,7 +1942,7 @@ VALUES (
         'شيكل',
         true,
         12,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_2":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_3":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_4":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg"}]'
     ),
     (
         33,
@@ -1957,7 +1957,7 @@ VALUES (
         'شيكل',
         true,
         36,
-        '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_2":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_3":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_4":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg"}]'
     ),
     (
         43,
@@ -1972,7 +1972,7 @@ VALUES (
         'شيكل',
         false,
         12,
-        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_2":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_3":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_4":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand"}]'
     ),
     (
         24,
@@ -1987,7 +1987,7 @@ VALUES (
         'شيكل',
         true,
         6,
-        '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://modo3.com/thumbs/fit630x300/74639/1449744800/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%B7%D9%81%D9%84_%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A9.jpg","image_2":"https://modo3.com/thumbs/fit630x300/74639/1449744800/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%B7%D9%81%D9%84_%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A9.jpg","image_3":"https://modo3.com/thumbs/fit630x300/74639/1449744800/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%B7%D9%81%D9%84_%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A9.jpg","image_4":"https://modo3.com/thumbs/fit630x300/74639/1449744800/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%B7%D9%81%D9%84_%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A9.jpg"}]'
     ),
     (
         9,
@@ -2002,7 +2002,7 @@ VALUES (
         'شيكل',
         true,
         5,
-        '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_2":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_3":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_4":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png"}]'
     ),
     (
         16,
@@ -2017,7 +2017,7 @@ VALUES (
         'شيكل',
         false,
         23,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_2":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_3":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_4":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg"}]'
     ),
     (
         24,
@@ -2032,7 +2032,7 @@ VALUES (
         'شيكل',
         true,
         5,
-        '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_2":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_3":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_4":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg"}]'
     ),
     (
         46,
@@ -2047,7 +2047,7 @@ VALUES (
         'شيكل',
         false,
         39,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_2":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_3":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_4":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg"}]'
     ),
     (
         24,
@@ -2062,7 +2062,7 @@ VALUES (
         'شيكل',
         false,
         34,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_2":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_3":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_4":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg"}]'
     ),
     (
         47,
@@ -2077,7 +2077,7 @@ VALUES (
         'شيكل',
         false,
         44,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg"}]'
     ),
     (
         3,
@@ -2092,7 +2092,7 @@ VALUES (
         'شيكل',
         false,
         17,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_2":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_3":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_4":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg"}]'
     ),
     (
         13,
@@ -2107,7 +2107,7 @@ VALUES (
         'شيكل',
         false,
         28,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg"}]'
     ),
     (
         6,
@@ -2122,7 +2122,7 @@ VALUES (
         'شيكل',
         false,
         6,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_2":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_3":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_4":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg"}]'
     ),
     (
         34,
@@ -2137,7 +2137,7 @@ VALUES (
         'شيكل',
         true,
         48,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         4,
@@ -2152,7 +2152,7 @@ VALUES (
         'شيكل',
         true,
         47,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_2":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_3":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_4":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513"}]'
     ),
     (
         27,
@@ -2167,7 +2167,7 @@ VALUES (
         'شيكل',
         true,
         35,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_2":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_3":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_4":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513"}]'
     ),
     (
         45,
@@ -2182,7 +2182,7 @@ VALUES (
         'شيكل',
         false,
         43,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg"}]'
     ),
     (
         22,
@@ -2197,7 +2197,7 @@ VALUES (
         'شيكل',
         true,
         29,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg"}]'
     ),
     (
         7,
@@ -2212,7 +2212,7 @@ VALUES (
         'شيكل',
         false,
         19,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_2":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_3":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_4":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg"}]'
     ),
     (
         46,
@@ -2227,7 +2227,7 @@ VALUES (
         'شيكل',
         true,
         24,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         27,
@@ -2242,7 +2242,7 @@ VALUES (
         'شيكل',
         true,
         11,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_2":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_3":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_4":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513"}]'
     ),
     (
         39,
@@ -2257,7 +2257,7 @@ VALUES (
         'شيكل',
         true,
         17,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         4,
@@ -2272,7 +2272,7 @@ VALUES (
         'شيكل',
         true,
         38,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg"}]'
     ),
     (
         45,
@@ -2287,7 +2287,7 @@ VALUES (
         'شيكل',
         false,
         3,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_2":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_3":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_4":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg"}]'
     ),
     (
         48,
@@ -2302,7 +2302,7 @@ VALUES (
         'شيكل',
         true,
         27,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_2":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_3":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_4":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg"}]'
     ),
     (
         7,
@@ -2317,7 +2317,7 @@ VALUES (
         'شيكل',
         true,
         17,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_2":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_3":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_4":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg"}]'
     ),
     (
         6,
@@ -2347,7 +2347,7 @@ VALUES (
         'شيكل',
         false,
         20,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         22,
@@ -2362,7 +2362,7 @@ VALUES (
         'شيكل',
         true,
         35,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_2":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_3":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_4":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg"}]'
     ),
     (
         14,
@@ -2407,7 +2407,7 @@ VALUES (
         'شيكل',
         true,
         29,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         2,
@@ -2422,7 +2422,7 @@ VALUES (
         'شيكل',
         false,
         21,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg"}]'
     ),
     (
         30,
@@ -2437,7 +2437,7 @@ VALUES (
         'شيكل',
         true,
         14,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_2":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_3":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_4":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg"}]'
     ),
     (
         17,
@@ -2452,7 +2452,7 @@ VALUES (
         'شيكل',
         false,
         24,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         37,
@@ -2467,7 +2467,7 @@ VALUES (
         'شيكل',
         false,
         26,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_2":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_3":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_4":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513"}]'
     ),
     (
         43,
@@ -2482,7 +2482,7 @@ VALUES (
         'شيكل',
         true,
         39,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_2":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_3":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_4":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg"}]'
     ),
     (
         48,
@@ -2512,7 +2512,7 @@ VALUES (
         'شيكل',
         true,
         47,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg"}]'
     ),
     (
         25,
@@ -2527,7 +2527,7 @@ VALUES (
         'دولار',
         true,
         29,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_2":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_3":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_4":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG"}]'
     ),
     (
         39,
@@ -2542,7 +2542,7 @@ VALUES (
         'دولار',
         false,
         27,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_2":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_3":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_4":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG"}]'
     ),
     (
         47,
@@ -2557,7 +2557,7 @@ VALUES (
         'دولار',
         false,
         24,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_2":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_3":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_4":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg"}]'
     ),
     (
         21,
@@ -2572,7 +2572,7 @@ VALUES (
         'دولار',
         false,
         3,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_2":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_3":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_4":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg"}]'
     ),
     (
         31,
@@ -2587,7 +2587,7 @@ VALUES (
         'دولار',
         true,
         12,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_2":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_3":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_4":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg"}]'
     ),
     (
         45,
@@ -2602,7 +2602,7 @@ VALUES (
         'دولار',
         true,
         13,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_2":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_3":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_4":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg"}]'
     ),
     (
         1,
@@ -2617,7 +2617,7 @@ VALUES (
         'دولار',
         false,
         49,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_2":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_3":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_4":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg"}]'
     ),
     (
         14,
@@ -2632,7 +2632,7 @@ VALUES (
         'دولار',
         false,
         38,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_2":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_3":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_4":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg"}]'
     ),
     (
         4,
@@ -2647,7 +2647,7 @@ VALUES (
         'دولار',
         true,
         4,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg"}]'
     ),
     (
         23,
@@ -2662,7 +2662,7 @@ VALUES (
         'دولار',
         true,
         1,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_2":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_3":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_4":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg"}]'
     ),
     (
         26,
@@ -2677,7 +2677,7 @@ VALUES (
         'دولار',
         true,
         47,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg"}]'
     ),
     (
         16,
@@ -2692,7 +2692,7 @@ VALUES (
         'دولار',
         false,
         2,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/258863002_438310314323671_5489259470837966375_n.jpg?_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jdEsFTq_pUYAX8UBuGN\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=fce66173a4dd21cfac0f4a01f7a1a63b\u0026oe=61A2A3BF","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_2":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_3":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_4":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg"}]'
     ),
     (
         50,
@@ -2707,7 +2707,7 @@ VALUES (
         'دولار',
         false,
         31,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_2":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_3":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_4":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg"}]'
     ),
     (
         28,
@@ -2722,7 +2722,7 @@ VALUES (
         'دولار',
         false,
         50,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_2":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_3":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_4":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg"}]'
     ),
     (
         26,
@@ -2737,7 +2737,7 @@ VALUES (
         'دولار',
         false,
         46,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_2":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_3":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_4":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg"}]'
     ),
     (
         19,
@@ -2752,7 +2752,7 @@ VALUES (
         'دولار',
         false,
         18,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_2":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_3":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_4":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg"}]'
     ),
     (
         13,
@@ -2767,7 +2767,7 @@ VALUES (
         'دولار',
         true,
         17,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/258863002_438310314323671_5489259470837966375_n.jpg?_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jdEsFTq_pUYAX8UBuGN\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=fce66173a4dd21cfac0f4a01f7a1a63b\u0026oe=61A2A3BF","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_2":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_3":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_4":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg"}]'
     ),
     (
         18,
@@ -2782,7 +2782,7 @@ VALUES (
         'دولار',
         true,
         24,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_2":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_3":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_4":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg"}]'
     ),
     (
         47,
@@ -2797,7 +2797,7 @@ VALUES (
         'دولار',
         false,
         29,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_2":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_3":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_4":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg"}]'
     ),
     (
         8,
@@ -2812,7 +2812,7 @@ VALUES (
         'دولار',
         false,
         30,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_2":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_3":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_4":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg"}]'
     ),
     (
         12,
@@ -2827,7 +2827,7 @@ VALUES (
         'دولار',
         false,
         49,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_2":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_3":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_4":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg"}]'
     ),
     (
         39,
@@ -2842,7 +2842,7 @@ VALUES (
         'دولار',
         false,
         35,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_2":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_3":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_4":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg"}]'
     ),
     (
         5,
@@ -2857,7 +2857,7 @@ VALUES (
         'دولار',
         false,
         32,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_2":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_3":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_4":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg"}]'
     ),
     (
         7,
@@ -2872,7 +2872,7 @@ VALUES (
         'دولار',
         true,
         18,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_2":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_3":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_4":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg"}]'
     ),
     (
         47,
@@ -2887,7 +2887,7 @@ VALUES (
         'دولار',
         false,
         32,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_2":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_3":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_4":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg"}]'
     ),
     (
         43,
@@ -2902,7 +2902,7 @@ VALUES (
         'دولار',
         false,
         24,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_2":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_3":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_4":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg"}]'
     ),
     (
         21,
@@ -2917,7 +2917,7 @@ VALUES (
         'دولار',
         false,
         39,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_2":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_3":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_4":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg"}]'
     ),
     (
         12,
@@ -2932,7 +2932,7 @@ VALUES (
         'دولار',
         true,
         29,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_2":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_3":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_4":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg"}]'
     ),
     (
         25,
@@ -2947,7 +2947,7 @@ VALUES (
         'دولار',
         true,
         1,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/258863002_438310314323671_5489259470837966375_n.jpg?_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jdEsFTq_pUYAX8UBuGN\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=fce66173a4dd21cfac0f4a01f7a1a63b\u0026oe=61A2A3BF","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_2":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_3":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_4":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG"}]'
     ),
     (
         48,
@@ -2962,7 +2962,7 @@ VALUES (
         'دولار',
         false,
         25,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_2":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_3":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_4":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg"}]'
     ),
     (
         24,
@@ -2977,7 +2977,7 @@ VALUES (
         'شيكل',
         true,
         41,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         20,
@@ -2992,7 +2992,7 @@ VALUES (
         'شيكل',
         false,
         47,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         44,
@@ -3007,7 +3007,7 @@ VALUES (
         'شيكل',
         false,
         41,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         25,
@@ -3022,7 +3022,7 @@ VALUES (
         'شيكل',
         true,
         11,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_2":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_3":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_4":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$"}]'
     ),
     (
         49,
@@ -3037,7 +3037,7 @@ VALUES (
         'شيكل',
         false,
         29,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_2":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_3":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_4":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg"}]'
     ),
     (
         4,
@@ -3052,7 +3052,7 @@ VALUES (
         'شيكل',
         true,
         42,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         13,
@@ -3067,7 +3067,7 @@ VALUES (
         'شيكل',
         false,
         28,
-        '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_2":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_3":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_4":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg"}]'
     ),
     (
         48,
@@ -3082,7 +3082,7 @@ VALUES (
         'شيكل',
         true,
         44,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         19,
@@ -3097,7 +3097,7 @@ VALUES (
         'شيكل',
         false,
         34,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         45,
@@ -3112,7 +3112,7 @@ VALUES (
         'شيكل',
         false,
         49,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         49,
@@ -3127,7 +3127,7 @@ VALUES (
         'شيكل',
         true,
         32,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         17,
@@ -3142,7 +3142,7 @@ VALUES (
         'شيكل',
         false,
         15,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_2":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_3":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_4":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg"}]'
     ),
     (
         21,
@@ -3157,7 +3157,7 @@ VALUES (
         'شيكل',
         true,
         43,
-        '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         46,
@@ -3172,7 +3172,7 @@ VALUES (
         'شيكل',
         true,
         27,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         2,
@@ -3187,7 +3187,7 @@ VALUES (
         'شيكل',
         false,
         20,
-        '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         32,
@@ -3202,7 +3202,7 @@ VALUES (
         'شيكل',
         false,
         41,
-        '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         2,
@@ -3217,7 +3217,7 @@ VALUES (
         'شيكل',
         true,
         18,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         33,
@@ -3232,7 +3232,7 @@ VALUES (
         'شيكل',
         true,
         16,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_2":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_3":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_4":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg"}]'
     ),
     (
         6,
@@ -3247,7 +3247,7 @@ VALUES (
         'شيكل',
         false,
         1,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         18,
@@ -3262,7 +3262,7 @@ VALUES (
         'شيكل',
         false,
         20,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         24,
@@ -3277,7 +3277,7 @@ VALUES (
         'شيكل',
         false,
         49,
-        '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         34,
@@ -3292,7 +3292,7 @@ VALUES (
         'شيكل',
         false,
         42,
-        '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_2":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_3":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_4":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$"}]'
     ),
     (
         8,
@@ -3307,7 +3307,7 @@ VALUES (
         'شيكل',
         true,
         48,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         3,
@@ -3322,7 +3322,7 @@ VALUES (
         'شيكل',
         false,
         21,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         14,
@@ -3337,7 +3337,7 @@ VALUES (
         'شيكل',
         false,
         39,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_2":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_3":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_4":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg"}]'
     ),
     (
         9,
@@ -3352,7 +3352,7 @@ VALUES (
         'شيكل',
         true,
         6,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         15,
@@ -3367,7 +3367,7 @@ VALUES (
         'شيكل',
         true,
         34,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         8,
@@ -3382,7 +3382,7 @@ VALUES (
         'شيكل',
         true,
         22,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_2":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_3":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_4":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg"}]'
     ),
     (
         49,
@@ -3397,7 +3397,7 @@ VALUES (
         'شيكل',
         false,
         31,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         49,
@@ -3427,7 +3427,7 @@ VALUES (
         'شيكل',
         true,
         34,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     );
 INSERT INTO favourite_products (user_id, product_id)
 VALUES (39, 70),
