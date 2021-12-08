@@ -4,11 +4,13 @@ import LOGO from '../../assets/LOGO.png';
 
 const AdsLoginCard = () => (
   <M.Box sx={S.cardsContainer}>
-    <img src={LOGO} alt="logo" />
-    <div>
-      <p style={S.adsInfo}>قم بنشر إعلانك الأن</p>
-      <button style={S.adsBtn} type="button">أعلن الأن</button>
-    </div>
+    <M.Box sx={S.adsImg}>
+      <img src={LOGO} alt="logo" style={{ width: '100%' }} />
+    </M.Box>
+    <M.Box sx={S.leftBox}>
+      <M.Typography variant="h6" sx={S.adsInfo}>قم بنشر إعلانك الأن</M.Typography>
+      <M.Button sx={S.adsBtn}>أعلن الأن</M.Button>
+    </M.Box>
   </M.Box>
 );
 

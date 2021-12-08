@@ -3,27 +3,26 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import TelegramIcon from '@mui/icons-material/Telegram';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import CopyrightIcon from '@mui/icons-material/Copyright';
-
+import LOGO from '../../../assets/LOGO.png';
+import * as M from '../../../mui-modules';
 import styles from '../style';
 
 const ItemOne = () => (
-  <div style={styles.container}>
-    <div style={styles.logo}>
-      <h1> بسطة</h1>
-      <hr />
-      <h1>Bastta</h1>
-    </div>
-    <div style={styles.social}>
+  <>
+    <M.Box sx={styles.logo}>
+      <img src={LOGO} alt="logo" style={styles.logoImg} />
+    </M.Box>
+    <M.Box sx={styles.social}>
       <FacebookIcon fontSize="large" />
       <TwitterIcon fontSize="large" />
       <InstagramIcon fontSize="large" />
       <TelegramIcon fontSize="large" />
-    </div>
-    <div style={styles.social}>
-      <p> كل الحقوق محفوظة لدى بسطة </p>
+    </M.Box>
+    <M.Box sx={styles.social}>
+      <M.Typography variant="body"> كل الحقوق محفوظة لدى بسطة </M.Typography>
       <CopyrightIcon fontSize="small" />
-    </div>
-  </div>
+    </M.Box>
+  </>
 );
 
 export default ItemOne;

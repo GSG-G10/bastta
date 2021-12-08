@@ -2,13 +2,17 @@ const style = {
   body: {
     paddingTop: '0.5rem',
     display: 'flex',
-    justifyContent: 'space-between',
+    justifyContent: {
+      xs: 'center',
+      md: 'space-between',
+    },
     alignItems: 'center',
     borderBottom: '1px solid #eef4fc',
+    flexWrap: 'wrap',
 
   },
   userTools: {
-    width: '22%',
+    width: { xs: '75%', md: '22%' },
     display: 'flex',
     justifyContent: 'space-between',
     alignItems: 'center',

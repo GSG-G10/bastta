@@ -79,6 +79,7 @@ const styles = {
     textAlign: 'right',
     color: '#a9afb0',
     margin: '0',
+    alignItems: 'baseline',
   },
 
   subStatus: {

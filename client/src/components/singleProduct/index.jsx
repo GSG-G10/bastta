@@ -27,7 +27,7 @@ const SingleProduct = () => {
       width: '100%',
       height: 'auto',
       display: 'flex',
-      flexDirection: 'row-reverse',
+      flexDirection: { xs: 'column-reverse', md: 'row-reverse' },
       justifyContent: 'space-between',
       border: '1px solid rgba(169, 175, 176, 0.5)',
       borderRadius: '4px',

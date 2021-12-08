@@ -3,23 +3,23 @@ const cardsContainer = {
   borderRadius: '20px',
   margin: '60px 0',
   display: 'flex',
-  flexDirection: 'row',
-  justifyContent: 'space-between',
+  flexDirection: {
+    xs: 'column',
+    sm: 'row',
+  },
+  justifyContent: 'center',
   alignItems: 'center',
 };
 const Title = {
-  marginRight: '10px',
-  width: '65%',
+  width: '100%',
   fontFamily: 'Cairo',
   fontStyle: 'normal',
   fontWeight: 'normal',
   fontSize: '30px',
-  textAlign: 'right',
-
+  textAlign: 'center',
   color: '#1A6E9A',
 };
 const img = {
-  borderRight: '2px solid #A9AFB0',
   padding: '0',
 };
 export { cardsContainer, Title, img };

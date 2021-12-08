@@ -4,38 +4,38 @@ const styles = {
     display: 'flex',
     flexDirection: 'column',
     margin: '1rem auto',
+    width: { xs: '100%', md: '75%' },
   },
 
   subContainer: {
     display: 'flex',
-    flexDirection: 'row',
+    flexDirection: { xs: 'column', md: 'row' },
     margin: '1rem',
     background: '#ffffff',
     border: '1px solid rgba(169, 175, 176, 05)',
     boxSizing: 'border-box',
     borderRadius: '8px',
     textDecoration: 'none',
-    height: '200px',
   },
 
   right: {
-    width: '25%',
+    width: { xs: '100%', md: '25%' },
     height: '100%',
     backgroundPosition: 'center',
     backgroundSize: 'cover',
+    borderRadius: { xs: '0.6rem 0.6rem 0 0', md: '0 0.6rem 0.6rem 0' },
+    overflow: 'hidden',
   },
 
   left: {
-    width: '70%',
+    width: { xs: 'auto', md: '70%' },
     marginRight: '1.3rem',
   },
 
   classImg: {
     width: '100%',
     height: '100%',
-    borderTopRightRadius: '.6rem',
-    borderBottomRightRadius: '.5rem',
-    objectFit: 'fill',
+    objectFit: 'cover',
   },
 
   favourite: {
@@ -124,10 +124,11 @@ const styles = {
   sectionBtnClassified: {
     width: '350px',
     display: 'flex',
-    flexDirection: 'row',
+    flexDirection: { xs: 'column', md: 'row' },
     justifyContent: 'space-between',
     marginTop: '1rem',
     marginBottom: '.6rem',
+    gap: '15px',
   },
 
   sectionClassifiedButton: {

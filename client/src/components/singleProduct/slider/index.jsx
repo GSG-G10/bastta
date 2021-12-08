@@ -26,7 +26,7 @@ const SliderOneProduct = ({ data }) => {
   ];
 
   return (
-    <Box sx={{ width: '45%' }}>
+    <Box sx={{ width: { xs: '100%', md: '45%' } }}>
       <Swiper
         style={{
           '--swiper-navigation-color': '#fff',
@@ -47,7 +47,7 @@ const SliderOneProduct = ({ data }) => {
                 style={{
                   height: '100%',
                   width: '100%',
-                  objectFit: 'fill',
+                  objectFit: 'cover',
                 }}
                 src={ele}
                 alt="img"
