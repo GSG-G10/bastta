@@ -277,7 +277,7 @@ VALUES (
         'شيكل',
         false,
         50,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://mega.ps/wp-content/uploads/2020/09/CZ60A-RML.jpg","image_4":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg"}]'
     ),
     (
         31,
@@ -292,7 +292,7 @@ VALUES (
         'شيكل',
         true,
         23,
-        '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://moshtrawat.com/wp-content/uploads/2021/09/kitchen-hood-filter.jpg","image_3":"https://moshtrawat.com/wp-content/uploads/2021/09/kitchen-hood-filter.jpg","image_4":"https://moshtrawat.com/wp-content/uploads/2021/09/kitchen-hood-filter.jpg"}]'
     ),
     (
         16,
@@ -307,7 +307,7 @@ VALUES (
         'شيكل',
         false,
         33,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         45,
@@ -322,7 +322,7 @@ VALUES (
         'شيكل',
         true,
         37,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         34,
@@ -337,7 +337,7 @@ VALUES (
         'شيكل',
         false,
         40,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.lg.com/eg_ar/images/washing-machines/md05981336/gallery/dm-01.jpg","image_2":"https://www.lg.com/eg_ar/images/washing-machines/md05981336/gallery/dm-01.jpg","image_3":"https://www.lg.com/eg_ar/images/washing-machines/md05981336/gallery/dm-01.jpg","image_4":"https://www.lg.com/eg_ar/images/washing-machines/md05981336/gallery/dm-01.jpg"}]'
     ),
     (
         28,
@@ -352,7 +352,7 @@ VALUES (
         'شيكل',
         true,
         16,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         44,
@@ -367,7 +367,7 @@ VALUES (
         'شيكل',
         false,
         15,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         21,
@@ -382,7 +382,7 @@ VALUES (
         'شيكل',
         false,
         13,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         9,
@@ -397,7 +397,7 @@ VALUES (
         'شيكل',
         false,
         13,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         1,
@@ -412,7 +412,7 @@ VALUES (
         'شيكل',
         false,
         41,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_2":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_3":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_4":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$"}]'
     ),
     (
         21,
@@ -427,7 +427,7 @@ VALUES (
         'شيكل',
         false,
         2,
-        '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_2":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_3":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_4":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$"}]'
     ),
     (
         21,
@@ -442,7 +442,7 @@ VALUES (
         'شيكل',
         false,
         16,
-        '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         29,
@@ -457,7 +457,7 @@ VALUES (
         'شيكل',
         true,
         27,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_2":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_3":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_4":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg"}]'
     ),
     (
         32,
@@ -472,7 +472,7 @@ VALUES (
         'شيكل',
         false,
         22,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         28,
@@ -487,7 +487,7 @@ VALUES (
         'شيكل',
         false,
         14,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         21,
@@ -502,7 +502,7 @@ VALUES (
         'شيكل',
         false,
         23,
-        '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         17,
@@ -517,7 +517,7 @@ VALUES (
         'شيكل',
         false,
         35,
-        '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         2,
@@ -532,7 +532,7 @@ VALUES (
         'شيكل',
         false,
         45,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_2":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_3":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_4":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg"}]'
     ),
     (
         36,
@@ -547,7 +547,7 @@ VALUES (
         'شيكل',
         true,
         20,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_2":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_3":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_4":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg"}]'
     ),
     (
         47,
@@ -562,7 +562,7 @@ VALUES (
         'شيكل',
         false,
         23,
-        '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         25,
@@ -577,7 +577,7 @@ VALUES (
         'شيكل',
         false,
         9,
-        '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         39,
@@ -592,7 +592,7 @@ VALUES (
         'شيكل',
         false,
         31,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         38,
@@ -607,7 +607,7 @@ VALUES (
         'شيكل',
         false,
         37,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         20,
@@ -622,7 +622,7 @@ VALUES (
         'شيكل',
         false,
         18,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_2":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_3":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_4":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$"}]'
     ),
     (
         15,
@@ -637,7 +637,7 @@ VALUES (
         'شيكل',
         true,
         46,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         14,
@@ -652,7 +652,7 @@ VALUES (
         'شيكل',
         true,
         47,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         21,
@@ -667,7 +667,7 @@ VALUES (
         'شيكل',
         true,
         5,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         48,
@@ -682,7 +682,7 @@ VALUES (
         'شيكل',
         true,
         36,
-        '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_2":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_3":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_4":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg"}]'
     ),
     (
         34,
@@ -697,7 +697,7 @@ VALUES (
         'شيكل',
         true,
         16,
-        '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%Dhttps://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_3":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_4":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg"}]'
     ),
     (
         12,
@@ -712,13 +712,13 @@ VALUES (
         'شيكل',
         true,
         24,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_2":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_3":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_4":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg"}]'
     ),
     (
         14,
         'خزانة أحذية 4 طوابق',
         'الأثاث',
-        'أطقم كنب',
+        'خزانات',
         '2021-04-05',
         'رأس الناقورة',
         '465-792-3934',
@@ -727,13 +727,13 @@ VALUES (
         'شيكل',
         true,
         42,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg"}]'
     ),
     (
         6,
         'خزانة أحذية 4 طوابق',
         'الأثاث',
-        'أطقم نوم',
+        'خزانات',
         '2021-05-27',
         'رفح',
         '589-205-6798',
@@ -742,13 +742,13 @@ VALUES (
         'شيكل',
         false,
         21,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg"}]'
     ),
     (
         17,
         'طقم نوم كامل',
         'الأثاث',
-        'خزانات',
+        'أطقم نوم',
         '2020-12-27',
         'القدس',
         '553-729-0191',
@@ -757,7 +757,7 @@ VALUES (
         'شيكل',
         true,
         49,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_2":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_3":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_4":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg"}]'
     ),
     (
         13,
@@ -772,13 +772,13 @@ VALUES (
         'شيكل',
         true,
         25,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_2":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.pngg","image_3":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_4":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png"}]'
     ),
     (
         4,
         'برواز علم فلسطين',
         'الأثاث',
-        'أطقم نوم',
+        'زينة',
         '2021-10-15',
         'الرملة',
         '943-233-3433',
@@ -787,13 +787,13 @@ VALUES (
         'شيكل',
         true,
         23,
-        '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         29,
         'خزانة أحذية 4 طوابق',
         'الأثاث',
-        'زينة',
+        'خزانات',
         '2021-06-11',
         'رأس الناقورة',
         '911-682-9182',
@@ -802,13 +802,13 @@ VALUES (
         'شيكل',
         true,
         25,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/51xyJUFiMsL._AC_SY780_.jpg"}]'
     ),
     (
         41,
         'برواز علم فلسطين',
         'الأثاث',
-        'خزانات',
+        'زينة',
         '2020-10-22',
         'نابلس',
         '332-942-1438',
@@ -817,13 +817,13 @@ VALUES (
         'شيكل',
         false,
         29,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         14,
         'طقم نوم كامل',
         'الأثاث',
-        'زينة',
+        'أطقم نوم',
         '2021-09-18',
         'غزة',
         '447-823-7094',
@@ -832,13 +832,13 @@ VALUES (
         'شيكل',
         false,
         1,
-        '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_2":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_3":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_4":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg"}]'
     ),
     (
         21,
         'سرير اطفال مفرد',
         'الأثاث',
-        'مكاتب',
+        'أطقم نوم',
         '2021-06-13',
         'جباليا',
         '304-476-1183',
@@ -847,7 +847,7 @@ VALUES (
         'شيكل',
         true,
         46,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_2":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_3":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_4":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg"}]'
     ),
     (
         13,
@@ -862,13 +862,13 @@ VALUES (
         'شيكل',
         false,
         36,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_2":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_3":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_4":"https://images.alwatanvoice.com/news/large/9998643938.jpg"}]'
     ),
     (
         42,
         'سرير اطفال مفرد',
         'الأثاث',
-        'مكاتب',
+        'أطقم نوم',
         '2021-07-17',
         'اللد',
         '758-626-7894',
@@ -877,13 +877,13 @@ VALUES (
         'شيكل',
         true,
         9,
-        '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_2":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_3":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_4":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg"}]'
     ),
     (
         21,
         'برواز علم فلسطين',
         'الأثاث',
-        'خزانات',
+        'زينة',
         '2021-06-03',
         'غزة',
         '274-995-5058',
@@ -892,13 +892,13 @@ VALUES (
         'شيكل',
         false,
         45,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         39,
         'طاولة سفرة – الدكان',
         'الأثاث',
-        'أطقم نوم',
+        'أطقم كنب',
         '2021-10-24',
         'رأس الناقورة',
         '459-283-6498',
@@ -907,13 +907,13 @@ VALUES (
         'شيكل',
         false,
         21,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_2":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_3":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_4":"https://images.alwatanvoice.com/news/large/9998643938.jpg"}]'
     ),
     (
         3,
         'طقم كنب',
         'الأثاث',
-        'مكاتب',
+        'أطقم كنب',
         '2020-10-23',
         'رأس الناقورة',
         '531-281-7193',
@@ -922,13 +922,13 @@ VALUES (
         'شيكل',
         false,
         11,
-        '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_2":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_3":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_4":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg"}]'
     ),
     (
         40,
         'مكتب كمبيوتر',
         'الأثاث',
-        'زينة',
+        'مكاتب',
         '2021-02-20',
         'اللد',
         '559-908-5904',
@@ -937,13 +937,13 @@ VALUES (
         'شيكل',
         false,
         24,
-        '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_2":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_3":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_4":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png"}]'
     ),
     (
         30,
         'طقم كنب',
         'الأثاث',
-        'مكاتب',
+        'أطقم كنب',
         '2021-03-24',
         'يافا',
         '470-330-0974',
@@ -952,7 +952,7 @@ VALUES (
         'شيكل',
         true,
         6,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_2":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_3":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_4":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg"}]'
     ),
     (
         24,
@@ -967,13 +967,13 @@ VALUES (
         'شيكل',
         true,
         49,
-        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/3899946616/previews/preview_0.JPG","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_2":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_3":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_4":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png"}]'
     ),
     (
         10,
         'برواز علم فلسطين',
         'الأثاث',
-        'أطقم نوم',
+        'زينة',
         '2021-10-21',
         'بيت حانون',
         '697-985-1866',
@@ -982,7 +982,7 @@ VALUES (
         'شيكل',
         false,
         27,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         44,
@@ -997,13 +997,13 @@ VALUES (
         'شيكل',
         true,
         24,
-        '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_2":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_3":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_4":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png"}]'
     ),
     (
         42,
         'طقم كنب',
         'الأثاث',
-        'أطقم نوم',
+        'أطقم كنب',
         '2021-08-11',
         'رام الله',
         '289-493-3856',
@@ -1012,7 +1012,7 @@ VALUES (
         'شيكل',
         true,
         3,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_2":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_3":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg","image_4":"https://cdn.midasfurniture.com/media/catalog/product/cache/2/image/0dc2d03fe217f8c83829496872af24a0/1/1/11-phf-1920_a.jpg"}]'
     ),
     (
         28,
@@ -1027,13 +1027,13 @@ VALUES (
         'شيكل',
         true,
         31,
-        '[{"image_1":"http://www.nashtri.com/wp-content/uploads/2020/01/CzsyfSRWEAABDaK-e1534959954420-1.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_2":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_3":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_4":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg"}]'
     ),
     (
         35,
         'طقم نوم كامل',
         'الأثاث',
-        'زينة',
+        'أطقم نوم',
         '2021-11-15',
         'رفح',
         '934-534-7652',
@@ -1042,13 +1042,13 @@ VALUES (
         'شيكل',
         true,
         14,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_2":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_3":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg","image_4":"https://www.awqatk.com/wp-content/uploads/2017/10/%D8%BA%D8%B1%D9%81-%D9%86%D9%88%D9%85-%D8%AA%D8%B1%D9%83%D9%8A-%D9%83%D8%A7%D9%85%D9%84%D8%A9-1-700x350.jpg"}]'
     ),
     (
         11,
         'سرير اطفال مفرد',
         'الأثاث',
-        'أطقم كنب',
+        'أطقم نوم',
         '2021-09-18',
         'جنين',
         '311-571-0319',
@@ -1057,13 +1057,13 @@ VALUES (
         'شيكل',
         false,
         14,
-        '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_2":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_3":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg","image_4":"https://sc02.alicdn.com/kf/HTB1eXftXBCw3KVjSZR0q6zcUpXat/2461598/HTB1eXftXBCw3KVjSZR0q6zcUpXat.jpg"}]'
     ),
     (
         30,
         'برواز علم فلسطين',
         'الأثاث',
-        'أطقم نوم',
+        'زينة',
         '2020-12-13',
         'نابلس',
         '601-850-7722',
@@ -1072,13 +1072,13 @@ VALUES (
         'شيكل',
         false,
         4,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         32,
         'طاولة سفرة – الدكان',
         'الأثاث',
-        'أطقم نوم',
+        'أطقم كنب',
         '2020-11-05',
         'الرملة',
         '569-435-5151',
@@ -1087,13 +1087,13 @@ VALUES (
         'شيكل',
         true,
         18,
-        '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_2":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_3":"https://images.alwatanvoice.com/news/large/9998643938.jpg","image_4":"https://images.alwatanvoice.com/news/large/9998643938.jpg"}]'
     ),
     (
         8,
         'خزانة سحب',
         'الأثاث',
-        'مكاتب',
+        'خزانات',
         '2021-04-12',
         'رأس الناقورة',
         '462-442-5911',
@@ -1102,13 +1102,13 @@ VALUES (
         'شيكل',
         true,
         19,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_2":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_3":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_4":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG"}]'
     ),
     (
         34,
         'برواز علم فلسطين',
         'الأثاث',
-        'أطقم كنب',
+        'زينة',
         '2021-03-05',
         'الخليل',
         '440-736-7409',
@@ -1117,7 +1117,7 @@ VALUES (
         'شيكل',
         true,
         3,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxvKXQIzm44gkZVBLGOfVGB4a-OjcwHapDg\u0026usqp=CAU","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         29,
@@ -1132,13 +1132,13 @@ VALUES (
         'شيكل',
         true,
         30,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_2":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_3":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176","image_4":"https://cdn.shopify.com/s/files/1/0383/2122/5863/products/21b6f115-6b30-4ba2-b735-8400f00f4245.jpg?v=1626466176"}]'
     ),
     (
         38,
         'خزانة سحب',
         'الأثاث',
-        'زينة',
+        'خزانات',
         '2020-12-02',
         'جباليا',
         '103-384-0671',
@@ -1147,13 +1147,13 @@ VALUES (
         'شيكل',
         false,
         23,
-        '[{"image_1":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_2":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_3":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG","image_4":"https://tajircom.fra1.digitaloceanspaces.com/photos/1983822092/previews/preview_0.JPG"}]'
     ),
     (
         40,
         'مكتب كمبيوتر',
         'الأثاث',
-        'خزانات',
+        'مكاتب',
         '2020-11-26',
         'رفح',
         '876-149-2717',
@@ -1162,13 +1162,13 @@ VALUES (
         'شيكل',
         true,
         14,
-        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/43262/image.jpeg","image_2":"https://www.3indubai.com/wp-content/uploads/2017/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D8%AB%D8%A7%D8%AB-%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D9%84-%D8%A8%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6.jpg","image_3":"https://sc04.alicdn.com/kf/H4ce32bd7f0444c2ba576d53cc4648fa7P.jpeg","image_4":"https://www.almrsal.com/wp-content/uploads/2016/07/Brown-Bedroom.jpg"}]'
+        '[{"image_1":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_2":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_3":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png","image_4":"https://ae04.alicdn.com/kf/H754fad90daee4e858e589026937dae4el.png"}]'
     ),
     (
         19,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
-        'قطع صيانة',
+        'اكسسوارات',
         '2020-10-12',
         'يافا',
         '822-128-5643',
@@ -1177,13 +1177,13 @@ VALUES (
         'شيكل',
         true,
         21,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         26,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
-        'قطع صيانة',
+        'ألعاب',
         '2021-11-16',
         'رأس الناقورة',
         '598-342-8961',
@@ -1192,7 +1192,7 @@ VALUES (
         'شيكل',
         true,
         27,
-        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         26,
@@ -1207,7 +1207,7 @@ VALUES (
         'شيكل',
         true,
         4,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         18,
@@ -1222,13 +1222,13 @@ VALUES (
         'شيكل',
         false,
         2,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU"}]'
     ),
     (
         39,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
-        'طابعات',
+        'ألعاب',
         '2021-06-06',
         'غزة',
         '764-230-7591',
@@ -1237,13 +1237,13 @@ VALUES (
         'شيكل',
         true,
         30,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         24,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
-        'قطع صيانة',
+        'ألعاب',
         '2021-10-26',
         'يافا',
         '746-154-3931',
@@ -1252,13 +1252,13 @@ VALUES (
         'شيكل',
         false,
         17,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         22,
         'لابتوب اتش بي core i3 10th gen للبيع',
         'الإلكترونيات',
-        'ألعاب',
+        'لابتوبات',
         '2020-10-24',
         'يافا',
         '466-154-2870',
@@ -1267,13 +1267,13 @@ VALUES (
         'شيكل',
         false,
         25,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_2":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_3":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_4":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg"}]'
     ),
     (
         33,
         'لابتوب اتش بي core i3 10th gen للبيع',
         'الإلكترونيات',
-        'ألعاب',
+        'لابتوبات',
         '2021-06-30',
         'عكا',
         '539-775-5024',
@@ -1282,13 +1282,13 @@ VALUES (
         'شيكل',
         true,
         21,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_2":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_3":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_4":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg"}]'
     ),
     (
         5,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
-        'ساعات رقمية',
+        'لابتوبات',
         '2021-10-12',
         'خانيونس',
         '950-396-2119',
@@ -1297,13 +1297,13 @@ VALUES (
         'شيكل',
         true,
         44,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         13,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
-        'لابتوبات',
+        'اكسسوارات',
         '2021-09-22',
         'جنين',
         '994-717-0000',
@@ -1312,7 +1312,7 @@ VALUES (
         'شيكل',
         true,
         50,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         44,
@@ -1327,13 +1327,13 @@ VALUES (
         'شيكل',
         true,
         19,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         43,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
-        'ألعاب',
+        'اكسسوارات',
         '2021-06-26',
         'الرملة',
         '795-519-9225',
@@ -1342,13 +1342,13 @@ VALUES (
         'شيكل',
         true,
         2,
-        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         25,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
-        'لابتوبات',
+        'اكسسوارات',
         '2021-10-17',
         'رفح',
         '452-815-4613',
@@ -1357,13 +1357,13 @@ VALUES (
         'شيكل',
         true,
         32,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         10,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
-        'شاشات',
+        'لابتوبات',
         '2021-02-24',
         'القدس',
         '503-686-6398',
@@ -1372,13 +1372,13 @@ VALUES (
         'شيكل',
         false,
         8,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         26,
         'جهاز انفيرتر 2000 وات للتحويل من بطاريه السياره 12 فولت',
         'الإلكترونيات',
-        'ساعات رقمية',
+        'قطع صيانة',
         '2021-10-05',
         'يافا',
         '133-171-6699',
@@ -1387,13 +1387,13 @@ VALUES (
         'شيكل',
         false,
         16,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg"}]'
     ),
     (
         1,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
-        'شاشات',
+        'لابتوبات',
         '2021-01-04',
         'غزة',
         '842-639-6722',
@@ -1402,13 +1402,13 @@ VALUES (
         'شيكل',
         true,
         22,
-        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         22,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
-        'موبايل',
+        'لابتوبات',
         '2020-11-01',
         'غزة',
         '843-793-3136',
@@ -1417,13 +1417,13 @@ VALUES (
         'شيكل',
         true,
         50,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         49,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
-        'قطع صيانة',
+        'ألعاب',
         '2020-10-26',
         'رأس الناقورة',
         '995-890-2780',
@@ -1432,7 +1432,7 @@ VALUES (
         'شيكل',
         true,
         15,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         21,
@@ -1447,13 +1447,13 @@ VALUES (
         'شيكل',
         true,
         19,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU"}]'
     ),
     (
         24,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
-        'اكسسوارات',
+        'ألعاب',
         '2021-08-19',
         'جنين',
         '385-157-1752',
@@ -1462,13 +1462,13 @@ VALUES (
         'شيكل',
         false,
         40,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         14,
         'أجهزة Xbox 360 مهكرة مجددة مكفولة',
         'الإلكترونيات',
-        'اكسسوارات',
+        'ألعاب',
         '2021-03-05',
         'جباليا',
         '281-577-8385',
@@ -1477,7 +1477,7 @@ VALUES (
         'شيكل',
         true,
         28,
-        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2012/07/f1eb99ab-6cb8-4455-a7e1-f04c8724150e.jpeg?resize=686%2C513","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         3,
@@ -1492,13 +1492,13 @@ VALUES (
         'شيكل',
         false,
         21,
-        '[{"image_1":"https://i.servimg.com/u/f52/17/02/63/65/tm/15603110.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         45,
         'جهاز انفيرتر 2000 وات للتحويل من بطاريه السياره 12 فولت',
         'الإلكترونيات',
-        'شاشات',
+        'قطع صيانة',
         '2020-12-09',
         'نابلس',
         '796-742-2384',
@@ -1507,13 +1507,13 @@ VALUES (
         'شيكل',
         false,
         37,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg"}]'
     ),
     (
         24,
         'ساعة لمس جديدة بالكارتون',
         'الإلكترونيات',
-        'شاشات',
+        'اكسسوارات',
         '2021-03-03',
         'يافا',
         '763-261-5129',
@@ -1522,13 +1522,13 @@ VALUES (
         'شيكل',
         true,
         38,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_2":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_3":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLflKOtYO3PoDYtocNfqgJo-ETeFVVnjAwpA&usqp=CAU"}]'
     ),
     (
         22,
         'لابتوب Lenovo G570 Core i5 مستعمل فقط 800 شيكل',
         'الإلكترونيات',
-        'موبايل',
+        'لابتوبات',
         '2021-04-11',
         'اللد',
         '628-573-0363',
@@ -1537,13 +1537,13 @@ VALUES (
         'شيكل',
         false,
         26,
-        '[{"image_1":"https://streamgames.com/wp-content/uploads/2021/01/Vibox-Gaming-Desktop-1-8-PC-Game.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg"}]'
     ),
     (
         4,
         'لابتوب اتش بي core i3 10th gen للبيع',
         'الإلكترونيات',
-        'ساعات رقمية',
+        'لابتوبات',
         '2020-12-26',
         'بيت حانون',
         '530-652-0685',
@@ -1552,7 +1552,7 @@ VALUES (
         'شيكل',
         false,
         45,
-        '[{"image_1":"https://i.servimg.com/u/f52/17/02/63/65/tm/15603110.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_2":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_3":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg","image_4":"https://m.media-amazon.com/images/I/71vUHBCAUHL.jpg"}]'
     ),
     (
         13,
@@ -1567,13 +1567,13 @@ VALUES (
         'شيكل',
         false,
         39,
-        '[{"image_1":"https://i.ytimg.com/vi/lsfWuKFaAXs/maxresdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_2":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_3":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg","image_4":"https://shobiddak.com/uploads/picture/stuff/name/1213482/Xbox_360_250GB_E.jpg"}]'
     ),
     (
         47,
         'ساعة ذكية سمارت متوفرة باللون الابيض والازرق فقط',
         'الإلكترونيات',
-        'شاشات',
+        'اكسسوارات',
         '2021-03-10',
         'رأس الناقورة',
         '335-212-3318',
@@ -1582,13 +1582,13 @@ VALUES (
         'شيكل',
         true,
         35,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_2":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_3":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp","image_4":"https://1.bp.blogspot.com/-63j5uujljiU/YVI5j7UYM9I/AAAAAAAABIU/K5u8iIsVQbQFr1ltcyc_xcitNIGrEPRDwCLcBGAsYHQ/s640/W37-Pro-Smartwatch-Features.webp"}]'
     ),
     (
         20,
         'جهاز انفيرتر 2000 وات للتحويل من بطاريه السياره 12 فولت',
         'الإلكترونيات',
-        'طابعات',
+        'قطع صيانة',
         '2020-11-06',
         'بيت حانون',
         '372-267-1643',
@@ -1597,13 +1597,13 @@ VALUES (
         'شيكل',
         false,
         31,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgv_qr8O8FBNkKPYfXx0ppo8Ax1ZJPwvHnSg\u0026usqp=CAU","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg"}]'
     ),
     (
         27,
         'جهاز انفيرتر 2000 وات للتحويل من بطاريه السياره 12 فولت',
         'الإلكترونيات',
-        'اكسسوارات',
+        'قطع صيانة',
         '2021-07-15',
         'رأس الناقورة',
         '871-663-4717',
@@ -1612,13 +1612,13 @@ VALUES (
         'شيكل',
         false,
         33,
-        '[{"image_1":"https://i.ytimg.com/vi/cHDcKnnrdNw/hqdefault.jpg","image_2":"https://pictures-nigeria.jijistatic.com/69258584_MTYwMC0xMjAwLTYwMjllYjMwNzk.jpg","image_3":"https://24.ae/images/imgtemplates/YOUSEF2/%D8%B2%D9%8A/NewFolder/NewFolder/NewFolder/NewFolder/NewFolder/%D8%A8%D9%84%D8%A7%D9%8A%20%D9%A2.jpeg","image_4":"https://1.bp.blogspot.com/-kgdulov0sIc/Vn0gINBdd5I/AAAAAAAAAEU/eae24rUV1VY/s1600/12348001_1636089126655382_8340754416664124770_n.jpg"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/515UpIacP3L._AC_SY400_.jpg"}]'
     ),
     (
         26,
         'فني كهرباء',
         'الخدمات',
-        'خدمات طبية',
+        'خدمات فنية',
         '2020-10-14',
         'الخليل',
         '458-225-4933',
@@ -1627,13 +1627,13 @@ VALUES (
         'شيكل',
         true,
         40,
-        '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_3":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_4":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg"}]'
     ),
     (
         38,
         'توصيل ديلفري',
         'الخدمات',
-        'خدمات تعليمية',
+        'خدمات عامة',
         '2021-02-13',
         'يافا',
         '737-654-7114',
@@ -1642,13 +1642,13 @@ VALUES (
         'شيكل',
         true,
         34,
-        '[{"image_1":"https://www.noonpost.com/sites/default/files/styles/article_image_1226_x_840/public/2020-03/istock-1033164998.jpg?itok=AdPwX11M","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_2":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_3":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_4":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg"}]'
     ),
     (
         49,
         'بناء مجسمات هندسية',
         'الخدمات',
-        'خدمات طبية',
+        'خدمات فنية',
         '2020-10-02',
         'اللد',
         '404-472-4364',
@@ -1657,7 +1657,7 @@ VALUES (
         'شيكل',
         true,
         19,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg"}]'
     ),
     (
         19,
@@ -1672,13 +1672,13 @@ VALUES (
         'شيكل',
         true,
         30,
-        '[{"image_1":"https://www.noonpost.com/sites/default/files/styles/article_image_1226_x_840/public/2020-03/istock-1033164998.jpg?itok=AdPwX11M","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_2":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_3":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_4":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand"}]'
     ),
     (
         20,
         'بناء مجسمات هندسية',
         'الخدمات',
-        'خدمات تعليمية',
+        'خدمات فنية',
         '2021-09-18',
         'النصيرات',
         '704-569-2199',
@@ -1687,13 +1687,13 @@ VALUES (
         'شيكل',
         true,
         48,
-        '[{"image_1":"https://www.alaraby.co.uk/sites/default/files/2020-09/one_6.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg"}]'
     ),
     (
         25,
         'توصيل ديلفري',
         'الخدمات',
-        'خدمات طبية',
+        'خدمات عامة',
         '2020-12-19',
         'غزة',
         '387-296-0955',
@@ -1702,7 +1702,7 @@ VALUES (
         'شيكل',
         true,
         31,
-        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_2":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_3":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_4":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg"}]'
     ),
     (
         12,
@@ -1717,7 +1717,7 @@ VALUES (
         'شيكل',
         true,
         12,
-        '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_2":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_3":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_4":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg"}]'
     ),
     (
         6,
@@ -1732,7 +1732,7 @@ VALUES (
         'شيكل',
         false,
         45,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_2":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_3":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_4":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png"}]'
     ),
     (
         7,
@@ -1747,13 +1747,13 @@ VALUES (
         'شيكل',
         true,
         39,
-        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg"}]'
     ),
     (
         33,
         'جلسات علاج طبيعي في المنزل',
         'الخدمات',
-        'خدمات فنية',
+        'خدمات طبية',
         '2021-02-13',
         'عكا',
         '879-202-3801',
@@ -1762,7 +1762,7 @@ VALUES (
         'شيكل',
         false,
         4,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_2":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_3":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_4":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png"}]'
     ),
     (
         41,
@@ -1777,7 +1777,7 @@ VALUES (
         'شيكل',
         true,
         47,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_2":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_3":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_4":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg"}]'
     ),
     (
         6,
@@ -1792,13 +1792,13 @@ VALUES (
         'شيكل',
         true,
         38,
-        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/w_5Esj_-Lto/maxresdefault.jpg"}]'
     ),
     (
         2,
         'فني كهرباء',
         'الخدمات',
-        'خدمات طبية',
+        'خدمات فنية',
         '2021-02-25',
         'الخليل',
         '596-840-7244',
@@ -1807,7 +1807,7 @@ VALUES (
         'شيكل',
         false,
         46,
-        '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_3":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_4":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg"}]'
     ),
     (
         14,
@@ -1822,13 +1822,13 @@ VALUES (
         'شيكل',
         false,
         49,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_2":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_3":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_4":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg"}]'
     ),
     (
         10,
         'تركيب دش تلفزيون',
         'الخدمات',
-        'خدمات طبية',
+        'خدمات فنية',
         '2020-11-01',
         'رفح',
         '831-534-6875',
@@ -1837,13 +1837,13 @@ VALUES (
         'شيكل',
         false,
         20,
-        '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_2":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_3":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_4":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg"}]'
     ),
     (
         17,
         'توصيل ديلفري',
         'الخدمات',
-        'خدمات فنية',
+        'خدمات عامة',
         '2021-04-10',
         'غزة',
         '116-449-1927',
@@ -1852,13 +1852,13 @@ VALUES (
         'شيكل',
         false,
         32,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_2":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_3":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_4":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg"}]'
     ),
     (
         46,
         'تعليم البرمجة للأطفال من',
         'الخدمات',
-        'خدمات عامة',
+        'خدمات تعليمية',
         '2021-09-11',
         'جنين',
         '671-515-2535',
@@ -1867,7 +1867,7 @@ VALUES (
         'شيكل',
         true,
         41,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_2":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_3":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_4":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg"}]'
     ),
     (
         50,
@@ -1882,13 +1882,13 @@ VALUES (
         'شيكل',
         true,
         11,
-        '[{"image_1":"https://www.alaraby.co.uk/sites/default/files/2020-09/one_6.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_2":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_3":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_4":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg"}]'
     ),
     (
         27,
         'توصيل ديلفري',
         'الخدمات',
-        'خدمات فنية',
+        'خدمات عامة',
         '2021-04-06',
         'غزة',
         '927-712-5680',
@@ -1897,13 +1897,13 @@ VALUES (
         'شيكل',
         false,
         7,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_2":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_3":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg","image_4":"https://i.pinimg.com/originals/e0/0c/ab/e00cab78fa3ead1f240b045eb913f15b.jpg"}]'
     ),
     (
         10,
         'فني كهرباء',
         'الخدمات',
-        'خدمات تعليمية',
+        'خدمات فنية',
         '2021-10-17',
         'الخليل',
         '988-113-5825',
@@ -1912,7 +1912,7 @@ VALUES (
         'شيكل',
         true,
         37,
-        '[{"image_1":"https://www.alaraby.co.uk/sites/default/files/2020-09/one_6.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_3":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_4":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg"}]'
     ),
     (
         3,
@@ -1927,13 +1927,13 @@ VALUES (
         'شيكل',
         true,
         21,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_2":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_3":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg","image_4":"https://mediaaws.almasryalyoum.com/news/large/2020/05/11/1240994_0.jpg"}]'
     ),
     (
         45,
         'حصص تعليمية خاصة باللغة الانجليزية',
         'الخدمات',
-        'خدمات فنية',
+        'خدمات تعليمية',
         '2021-07-12',
         'بيت حانون',
         '346-618-9300',
@@ -1942,7 +1942,7 @@ VALUES (
         'شيكل',
         true,
         12,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_2":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_3":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_4":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg"}]'
     ),
     (
         33,
@@ -1957,7 +1957,7 @@ VALUES (
         'شيكل',
         true,
         36,
-        '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_2":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_3":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_4":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg"}]'
     ),
     (
         43,
@@ -1972,7 +1972,7 @@ VALUES (
         'شيكل',
         false,
         12,
-        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/electricity-man-worker.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_2":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_3":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand","image_4":"https://www.dooz.ps/wp-content/uploads/jojo/air-condtioner11.jpg?$rand"}]'
     ),
     (
         24,
@@ -1987,13 +1987,13 @@ VALUES (
         'شيكل',
         true,
         6,
-        '[{"image_1":"https://changetireq8.com/wp-content/uploads/2021/02/%D8%B3%D8%AA%D9%84%D8%A7%D9%8A%D8%AA-%D8%A7%D9%84%D8%B9%D9%85%D9%8A%D8%B1%D9%8A%D9%87-%D8%A7%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D9%87-98833505-e1613075020435.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://modo3.com/thumbs/fit630x300/74639/1449744800/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%B7%D9%81%D9%84_%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A9.jpg","image_2":"https://modo3.com/thumbs/fit630x300/74639/1449744800/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%B7%D9%81%D9%84_%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A9.jpg","image_3":"https://modo3.com/thumbs/fit630x300/74639/1449744800/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%B7%D9%81%D9%84_%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A9.jpg","image_4":"https://modo3.com/thumbs/fit630x300/74639/1449744800/%D8%A7%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9_%D8%A8%D8%A7%D9%84%D8%B7%D9%81%D9%84_%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A9.jpg"}]'
     ),
     (
         9,
         'جلسات علاج طبيعي في المنزل',
         'الخدمات',
-        'خدمات تعليمية',
+        'خدمات طبية',
         '2021-04-09',
         'رأس الناقورة',
         '649-501-2261',
@@ -2002,13 +2002,13 @@ VALUES (
         'شيكل',
         true,
         5,
-        '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_2":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_3":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png","image_4":"https://1.bp.blogspot.com/-WIyXgh6SQD8/XKfwNEKRh8I/AAAAAAAABnQ/Xo7xdI5fNewDtpkBNbbuQBSGexSAnVxDgCLcBGAs/s1600/26230403_730865693769646_1406977036695413078_n.png"}]'
     ),
     (
         16,
         'تعليم البرمجة للأطفال من',
         'الخدمات',
-        'خدمات طبية',
+        'خدمات تعليمية',
         '2021-09-09',
         'دير البلح',
         '417-716-8684',
@@ -2017,7 +2017,7 @@ VALUES (
         'شيكل',
         false,
         23,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_2":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_3":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_4":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg"}]'
     ),
     (
         24,
@@ -2032,13 +2032,13 @@ VALUES (
         'شيكل',
         true,
         5,
-        '[{"image_1":"https://i1.wp.com/eduschool40.blog/wp-content/uploads/2021/07/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%AA%D8%B9%D9%84%D9%8A%D9%85_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84_%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_2":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_3":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_4":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg"}]'
     ),
     (
         46,
         'حصص تعليمية خاصة باللغة الانجليزية',
         'الخدمات',
-        'خدمات فنية',
+        'خدمات تعليمية',
         '2021-10-23',
         'رام الله',
         '136-974-9534',
@@ -2047,13 +2047,13 @@ VALUES (
         'شيكل',
         false,
         39,
-        '[{"image_1":"https://moi.gov.ps/Content/Data/Images/original/635234989235994152.jpg?mode=crop\u0026anchor=topleft\u0026scale=both","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_2":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_3":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg","image_4":"https://www.youstudy.com/gallery/blog/post/basic-learning-english-skills.jpg"}]'
     ),
     (
         24,
         'تعليم البرمجة للأطفال من',
         'الخدمات',
-        'خدمات فنية',
+        'خدمات تعليمية',
         '2021-10-01',
         'النصيرات',
         '756-543-0914',
@@ -2062,13 +2062,13 @@ VALUES (
         'شيكل',
         false,
         34,
-        '[{"image_1":"https://www.wenak.ps/assets/_up/jobs/-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1-%D9%85%D9%86%D8%A7%D8%B2%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%A7%D9%86%D9%8A%D8%A9_1627452632.jpg","image_2":"https://www.alwatan.com.sa/uploads/images/2020/03/17/482348.jpeg","image_3":"https://kuwaitelectricitytechnicianhome.website/wp-content/uploads/2019/06/elec4-1-1.jpg","image_4":"https://i.ytimg.com/vi/tg0xmDJmSo8/maxresdefault.jpg"}]'
+        '[{"image_1":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_2":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_3":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg","image_4":"https://3.bp.blogspot.com/-hz9mb6u_n20/Wy8w482pvDI/AAAAAAAAGIw/sFYvuwjGp9QxDqfEbREj4I8H4gfBiXIYACLcBGAs/s1600/%25D9%2583%25D9%258A%25D9%2581%25D9%258A%25D8%25A9%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B7%25D9%2581%25D8%25A7%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9%2B%25D9%2588%2B%25D8%25B7%25D8%25B1%25D9%2582%2B%25D8%25AA%25D8%25B9%25D9%2584%25D9%258A%25D9%2585%2B%25D8%25A7%25D9%2584%25D8%25B7%25D9%2581%25D9%2584%2B%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2585%25D8%25AC%25D8%25A9.jpg"}]'
     ),
     (
         47,
         'عقلة تثبت في الحائط',
         'الرياضة',
-        'ملابس رياضية',
+        'اجهزة رياضية',
         '2020-11-10',
         'اللد',
         '225-193-5719',
@@ -2077,13 +2077,13 @@ VALUES (
         'شيكل',
         false,
         44,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg"}]'
     ),
     (
         3,
         'طقم كامل لفريق تشيلسي',
         'الرياضة',
-        'أحذية رياضية',
+        'ملابس رياضية',
         '2020-12-15',
         'رام الله',
         '816-229-8221',
@@ -2092,13 +2092,13 @@ VALUES (
         'شيكل',
         false,
         17,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_2":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_3":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_4":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg"}]'
     ),
     (
         13,
         'حذاء رياضي نايك',
         'الرياضة',
-        'ملابس رياضية',
+        'أحذية رياضية',
         '2021-11-11',
         'الخليل',
         '536-869-8819',
@@ -2107,7 +2107,7 @@ VALUES (
         'شيكل',
         false,
         28,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg"}]'
     ),
     (
         6,
@@ -2122,13 +2122,13 @@ VALUES (
         'شيكل',
         false,
         6,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_2":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_3":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_4":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg"}]'
     ),
     (
         34,
         'جهاز مساج للرقبة',
         'الرياضة',
-        'أحذية رياضية',
+        'اجهزة رياضية',
         '2021-10-19',
         'القدس',
         '211-609-7546',
@@ -2137,7 +2137,7 @@ VALUES (
         'شيكل',
         true,
         48,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         4,
@@ -2152,7 +2152,7 @@ VALUES (
         'شيكل',
         true,
         47,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_2":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_3":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_4":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513"}]'
     ),
     (
         27,
@@ -2167,13 +2167,13 @@ VALUES (
         'شيكل',
         true,
         35,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_2":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_3":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_4":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513"}]'
     ),
     (
         45,
         'حذاء رياضي نايك',
         'الرياضة',
-        'ملابس رياضية',
+        'أحذية رياضية',
         '2021-04-11',
         'يافا',
         '794-931-8996',
@@ -2182,7 +2182,7 @@ VALUES (
         'شيكل',
         false,
         43,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg"}]'
     ),
     (
         22,
@@ -2197,13 +2197,13 @@ VALUES (
         'شيكل',
         true,
         29,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg"}]'
     ),
     (
         7,
         'طقم كامل ليفربول',
         'الرياضة',
-        'اجهزة رياضية',
+        'ملابس رياضية',
         '2021-05-02',
         'بيت حانون',
         '577-124-7069',
@@ -2212,13 +2212,13 @@ VALUES (
         'شيكل',
         false,
         19,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_2":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_3":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_4":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg"}]'
     ),
     (
         46,
         'جهاز مساج للرقبة',
         'الرياضة',
-        'ملابس رياضية',
+        'اجهزة رياضية',
         '2021-08-20',
         'رام الله',
         '192-269-8700',
@@ -2227,7 +2227,7 @@ VALUES (
         'شيكل',
         true,
         24,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         27,
@@ -2242,13 +2242,13 @@ VALUES (
         'شيكل',
         true,
         11,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_2":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_3":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_4":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513"}]'
     ),
     (
         39,
         'جهاز مساج للرقبة',
         'الرياضة',
-        'أحذية رياضية',
+        'اجهزة رياضية',
         '2021-03-07',
         'نابلس',
         '609-580-2736',
@@ -2257,13 +2257,13 @@ VALUES (
         'شيكل',
         true,
         17,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         4,
         'حذاء رياضي نايك',
         'الرياضة',
-        'اجهزة رياضية',
+        'أحذية رياضية',
         '2021-11-07',
         'غزة',
         '205-521-9678',
@@ -2272,7 +2272,7 @@ VALUES (
         'شيكل',
         true,
         38,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg"}]'
     ),
     (
         45,
@@ -2287,13 +2287,13 @@ VALUES (
         'شيكل',
         false,
         3,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_2":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_3":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_4":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg"}]'
     ),
     (
         48,
         'طقم كامل ليفربول',
         'الرياضة',
-        'أحذية رياضية',
+        'ملابس رياضية',
         '2021-09-02',
         'جباليا',
         '565-350-0108',
@@ -2302,13 +2302,13 @@ VALUES (
         'شيكل',
         true,
         27,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_2":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_3":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_4":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg"}]'
     ),
     (
         7,
         'طقم كامل ليفربول',
         'الرياضة',
-        'اجهزة رياضية',
+        'ملابس رياضية',
         '2021-07-10',
         'جنين',
         '523-466-2106',
@@ -2317,13 +2317,13 @@ VALUES (
         'شيكل',
         true,
         17,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_2":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_3":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_4":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg"}]'
     ),
     (
         6,
         'جهاز تمرين للمعدة',
         'الرياضة',
-        'أحذية رياضية',
+        'اجهزة رياضية',
         '2021-05-09',
         'اللد',
         '135-272-9858',
@@ -2338,7 +2338,7 @@ VALUES (
         23,
         'جهاز مساج للرقبة',
         'الرياضة',
-        'ملابس رياضية',
+        'اجهزة رياضية',
         '2021-03-22',
         'جباليا',
         '403-246-0246',
@@ -2347,13 +2347,13 @@ VALUES (
         'شيكل',
         false,
         20,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         22,
         'طقم كامل لفريق تشيلسي',
         'الرياضة',
-        'أحذية رياضية',
+        'ملابس رياضية',
         '2020-11-17',
         'الرملة',
         '963-350-9287',
@@ -2362,13 +2362,13 @@ VALUES (
         'شيكل',
         true,
         35,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_2":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_3":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg","image_4":"https://cdn.salla.sa/DOPdj/f9dmUEbkNzJiR7ExFhluY7e7quqmbTUKJxBtfWyw.jpg"}]'
     ),
     (
         14,
         'جهاز تمرين للمعدة',
         'الرياضة',
-        'أحذية رياضية',
+        'اجهزة رياضية',
         '2021-05-02',
         'القدس',
         '522-753-5580',
@@ -2383,7 +2383,7 @@ VALUES (
         13,
         'جهاز تمرين للمعدة',
         'الرياضة',
-        'ملابس رياضية',
+        'اجهزة رياضية',
         '2021-09-08',
         'غزة',
         '806-267-6416',
@@ -2407,13 +2407,13 @@ VALUES (
         'شيكل',
         true,
         29,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         2,
         'حذاء رياضي نايك',
         'الرياضة',
-        'ملابس رياضية',
+        'أحذية رياضية',
         '2021-06-07',
         'الخليل',
         '321-753-0018',
@@ -2422,7 +2422,7 @@ VALUES (
         'شيكل',
         false,
         21,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/31vXTDPBDaL._AC_SY780_.jpg"}]'
     ),
     (
         30,
@@ -2437,13 +2437,13 @@ VALUES (
         'شيكل',
         true,
         14,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_2":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_3":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg","image_4":"https://m.media-amazon.com/images/I/41SCVEJF0pL._AC_SY1000_.jpg"}]'
     ),
     (
         17,
         'جهاز مساج للرقبة',
         'الرياضة',
-        'أحذية رياضية',
+        'اجهزة رياضية',
         '2021-07-28',
         'اللد',
         '246-190-9847',
@@ -2452,7 +2452,7 @@ VALUES (
         'شيكل',
         false,
         24,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         37,
@@ -2467,13 +2467,13 @@ VALUES (
         'شيكل',
         false,
         26,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_2":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_3":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513","image_4":"https://www.aljazeera.net/wp-content/uploads/2019/08/7a2980c0-d21c-401f-8756-28c6b9b502ab.jpeg?resize=770%2C513"}]'
     ),
     (
         43,
         'طقم كامل ليفربول',
         'الرياضة',
-        'اجهزة رياضية',
+        'ملابس رياضية',
         '2020-11-10',
         'رأس الناقورة',
         '517-831-7108',
@@ -2482,13 +2482,13 @@ VALUES (
         'شيكل',
         true,
         39,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_2":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_3":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg","image_4":"https://cdn.salla.sa/ZYjal/mdIl5GZud5OhSLxwLojqe45QwZXZpdAfeczx1PpN.jpg"}]'
     ),
     (
         48,
         'جهاز تمرين للمعدة',
         'الرياضة',
-        'ملابس رياضية',
+        'اجهزة رياضية',
         '2020-10-25',
         'نابلس',
         '259-148-7809',
@@ -2503,7 +2503,7 @@ VALUES (
         23,
         'عقلة تثبت في الحائط',
         'الرياضة',
-        'ملابس رياضية',
+        'اجهزة رياضية',
         '2021-11-07',
         'خانيونس',
         '193-687-2270',
@@ -2512,13 +2512,13 @@ VALUES (
         'شيكل',
         true,
         47,
-        '[{"image_1":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_2":"https://apollo-ireland.akamaized.net/v1/files/r5svolt6o9ds3-LB/image;s=644x461;olx-st/_1_.jpg","image_3":"https://afafmall.com/wp-content/uploads/2020/10/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%86%D8%A7%D9%8A%D9%83100.jpg","image_4":"http://4.bp.blogspot.com/_ddYcZtNTKIA/SIprsJjDjvI/AAAAAAAAAFY/Dmk2iGpPYmo/s320/DSC01664+copy.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_2":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_3":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg","image_4":"https://i.ytimg.com/vi/V9_sPzCbXtQ/maxresdefault.jpg"}]'
     ),
     (
         25,
         'سكودا رمش موديل 2017',
         'المركبات',
-        'جيب',
+        'سيارة',
         '2021-01-20',
         'بيت حانون',
         '485-425-0856',
@@ -2527,13 +2527,13 @@ VALUES (
         'دولار',
         true,
         29,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_2":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_3":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_4":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG"}]'
     ),
     (
         39,
         'سكودا رمش موديل 2017',
         'المركبات',
-        'دراجة نارية',
+        'سيارة',
         '2020-10-19',
         'رأس الناقورة',
         '742-815-8627',
@@ -2542,13 +2542,13 @@ VALUES (
         'دولار',
         false,
         27,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_2":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_3":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_4":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG"}]'
     ),
     (
         47,
         'جيب Toyota 4 × 4 جديد',
         'المركبات',
-        'سيارة',
+        'جيب',
         '2021-03-14',
         'رفح',
         '901-690-8095',
@@ -2557,13 +2557,13 @@ VALUES (
         'دولار',
         false,
         24,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_2":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_3":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_4":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg"}]'
     ),
     (
         21,
         'هونداي H1 أبيض',
         'المركبات',
-        'دراجة هوائية',
+        'جيب',
         '2020-11-03',
         'يافا',
         '622-109-2613',
@@ -2572,13 +2572,13 @@ VALUES (
         'دولار',
         false,
         3,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_2":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_3":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_4":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg"}]'
     ),
     (
         31,
         'فزبة حلاوة تايجر جديد',
         'المركبات',
-        'دراجة هوائية',
+        'دراجة نارية',
         '2021-11-17',
         'الرملة',
         '614-940-5246',
@@ -2587,7 +2587,7 @@ VALUES (
         'دولار',
         true,
         12,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_2":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_3":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_4":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg"}]'
     ),
     (
         45,
@@ -2602,13 +2602,13 @@ VALUES (
         'دولار',
         true,
         13,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_2":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_3":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_4":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg"}]'
     ),
     (
         1,
         'جيب Toyota 4 × 4 جديد',
         'المركبات',
-        'سيارة',
+        'جيب',
         '2021-08-18',
         'اللد',
         '709-274-2281',
@@ -2617,13 +2617,13 @@ VALUES (
         'دولار',
         false,
         49,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_2":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_3":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_4":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg"}]'
     ),
     (
         14,
         'سيارة سوبار',
         'المركبات',
-        'دراجة نارية',
+        'سيارة',
         '2021-01-06',
         'الخليل',
         '634-701-4971',
@@ -2632,13 +2632,13 @@ VALUES (
         'دولار',
         false,
         38,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_2":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_3":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_4":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg"}]'
     ),
     (
         4,
         'فزبة دايون 400',
         'المركبات',
-        'جيب',
+        'دراجة نارية',
         '2020-10-02',
         'يافا',
         '961-941-8732',
@@ -2647,13 +2647,13 @@ VALUES (
         'دولار',
         true,
         4,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg"}]'
     ),
     (
         23,
         'فيات 400 موديل 2019',
         'المركبات',
-        'دراجة نارية',
+        'سيارة',
         '2021-07-01',
         'يافا',
         '917-216-7091',
@@ -2662,13 +2662,13 @@ VALUES (
         'دولار',
         true,
         1,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_2":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_3":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_4":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg"}]'
     ),
     (
         26,
         'فزبة دايون 400',
         'المركبات',
-        'سيارة',
+        'دراجة نارية',
         '2021-03-26',
         'دير البلح',
         '503-996-1795',
@@ -2677,13 +2677,13 @@ VALUES (
         'دولار',
         true,
         47,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/sDqtMD4-z8A/hqdefault.jpg"}]'
     ),
     (
         16,
         'هونداي H1 أبيض',
         'المركبات',
-        'دراجة نارية',
+        'جيب',
         '2020-12-17',
         'اللد',
         '369-912-3656',
@@ -2692,13 +2692,13 @@ VALUES (
         'دولار',
         false,
         2,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/258863002_438310314323671_5489259470837966375_n.jpg?_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jdEsFTq_pUYAX8UBuGN\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=fce66173a4dd21cfac0f4a01f7a1a63b\u0026oe=61A2A3BF","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_2":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_3":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_4":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg"}]'
     ),
     (
         50,
         'هونداي سيفيك موديل 2005',
         'المركبات',
-        'دراجة هوائية',
+        'سيارة',
         '2020-11-01',
         'جباليا',
         '396-620-1724',
@@ -2707,13 +2707,13 @@ VALUES (
         'دولار',
         false,
         31,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_2":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_3":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_4":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg"}]'
     ),
     (
         28,
         'جيب اكسنت رمادي',
         'المركبات',
-        'دراجة نارية',
+        'جيب',
         '2020-11-01',
         'جنين',
         '516-112-1967',
@@ -2722,13 +2722,13 @@ VALUES (
         'دولار',
         false,
         50,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_2":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_3":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_4":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg"}]'
     ),
     (
         26,
         'جيب Toyota 4 × 4 جديد',
         'المركبات',
-        'دراجة هوائية',
+        'جيب',
         '2021-06-18',
         'رأس الناقورة',
         '960-687-9023',
@@ -2737,13 +2737,13 @@ VALUES (
         'دولار',
         false,
         46,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_2":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_3":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_4":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg"}]'
     ),
     (
         19,
         'جيب Toyota 4 × 4 جديد',
         'المركبات',
-        'دراجة هوائية',
+        'جيب',
         '2020-12-10',
         'الرملة',
         '653-606-8101',
@@ -2752,13 +2752,13 @@ VALUES (
         'دولار',
         false,
         18,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_2":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_3":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_4":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg"}]'
     ),
     (
         13,
         'سيارة سوبار',
         'المركبات',
-        'دراجة نارية',
+        'سيارة',
         '2020-11-29',
         'يافا',
         '576-355-3882',
@@ -2767,7 +2767,7 @@ VALUES (
         'دولار',
         true,
         17,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/258863002_438310314323671_5489259470837966375_n.jpg?_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jdEsFTq_pUYAX8UBuGN\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=fce66173a4dd21cfac0f4a01f7a1a63b\u0026oe=61A2A3BF","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_2":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_3":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_4":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg"}]'
     ),
     (
         18,
@@ -2782,13 +2782,13 @@ VALUES (
         'دولار',
         true,
         24,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_2":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_3":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg","image_4":"https://hadfnews.ps/img/e1fe3c2e1bc685f78997b1e2ffb12826.jpg"}]'
     ),
     (
         47,
         'هونداي H1 أبيض',
         'المركبات',
-        'دراجة نارية',
+        'سيارة',
         '2020-11-25',
         'جباليا',
         '800-881-7296',
@@ -2797,13 +2797,13 @@ VALUES (
         'دولار',
         false,
         29,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_2":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_3":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_4":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg"}]'
     ),
     (
         8,
         'بسكليت اسرائيلي مستخدم خفيف',
         'المركبات',
-        'سيارة',
+        'دراجة هوائية',
         '2021-11-07',
         'جنين',
         '651-767-5648',
@@ -2812,13 +2812,13 @@ VALUES (
         'دولار',
         false,
         30,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_2":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_3":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_4":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg"}]'
     ),
     (
         12,
         'جيب اكسنت رمادي',
         'المركبات',
-        'سيارة',
+        'جيب',
         '2021-05-31',
         'يافا',
         '690-822-5537',
@@ -2827,13 +2827,13 @@ VALUES (
         'دولار',
         false,
         49,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/259466840_630989761268953_2007413062067387199_n.jpg?_nc_cat=100\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=wMNpEeEphjsAX9x_ORl\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=bb68387e2ce4fa74b24cd4861cca8701\u0026oe=61A2A09B","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_2":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_3":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_4":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg"}]'
     ),
     (
         39,
         'بسكليت اسرائيلي مستخدم خفيف',
         'المركبات',
-        'جيب',
+        'دراجة هوائية',
         '2021-08-31',
         'جباليا',
         '178-719-1135',
@@ -2842,13 +2842,13 @@ VALUES (
         'دولار',
         false,
         35,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_2":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_3":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg","image_4":"https://zeigenproblemen.com/tllp/wD4__V4QQx-wCIUhKPJezwHaO0.jpg"}]'
     ),
     (
         5,
         'فيات 400 موديل 2019',
         'المركبات',
-        'دراجة هوائية',
+        'سيارة',
         '2021-11-11',
         'عكا',
         '911-607-5172',
@@ -2857,13 +2857,13 @@ VALUES (
         'دولار',
         false,
         32,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_2":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_3":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg","image_4":"https://imgy.pro/alamelsyarat/768x433/9201924133076941428790.jpg"}]'
     ),
     (
         7,
         'هونداي سيفيك موديل 2005',
         'المركبات',
-        'دراجة هوائية',
+        'سيارة',
         '2021-06-27',
         'اللد',
         '968-857-6714',
@@ -2872,13 +2872,13 @@ VALUES (
         'دولار',
         true,
         18,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_2":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_3":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg","image_4":"https://shobiddak.com/uploads/picture/car/name/656606/%D9%A2%D9%A0%D9%A1%D9%A9%D9%A0%D9%A3%D9%A2%D9%A8_%D9%A1%D9%A7%D9%A1%D9%A5%D9%A1%D9%A3.jpg"}]'
     ),
     (
         47,
         'جيب اكسنت رمادي',
         'المركبات',
-        'سيارة',
+        'جيب',
         '2021-09-19',
         'عكا',
         '282-422-4588',
@@ -2887,13 +2887,13 @@ VALUES (
         'دولار',
         false,
         32,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_2":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_3":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg","image_4":"https://www.aliqtisadi.ps//files/image/2016/8/000000adsvadv0adv0ad0v0.jpg"}]'
     ),
     (
         43,
         'جيب Toyota 4 × 4 جديد',
         'المركبات',
-        'دراجة هوائية',
+        'جيب',
         '2020-12-27',
         'دير البلح',
         '757-128-1335',
@@ -2902,13 +2902,13 @@ VALUES (
         'دولار',
         false,
         24,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_2":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_3":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg","image_4":"https://striveme.com/img/2021/%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA/1/%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7%20%D9%81%D9%88%D8%B1%D8%AA%D8%B4%D9%86%D8%B1%202020.jpg"}]'
     ),
     (
         21,
         'هونداي H1 أبيض',
         'المركبات',
-        'دراجة نارية',
+        'سيارة',
         '2021-09-13',
         'رام الله',
         '235-508-5848',
@@ -2917,13 +2917,13 @@ VALUES (
         'دولار',
         false,
         39,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_2":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_3":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_4":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg"}]'
     ),
     (
         12,
         'هونداي H1 أبيض',
         'المركبات',
-        'دراجة هوائية',
+        'سيارة',
         '2021-07-11',
         'النصيرات',
         '655-957-4902',
@@ -2932,7 +2932,7 @@ VALUES (
         'دولار',
         true,
         29,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_2":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_3":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg","image_4":"https://sayartii.com/uploads/cars/17592196449457/9b46a68c9f3ac9f22651eafe1f3e325b74c03e6a_med.jpg"}]'
     ),
     (
         25,
@@ -2947,13 +2947,13 @@ VALUES (
         'دولار',
         true,
         1,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/258863002_438310314323671_5489259470837966375_n.jpg?_nc_cat=103\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jdEsFTq_pUYAX8UBuGN\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=fce66173a4dd21cfac0f4a01f7a1a63b\u0026oe=61A2A3BF","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_2":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_3":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG","image_4":"https://shobiddak.com/uploads/picture/car/name/655327/IMG_1783.JPG"}]'
     ),
     (
         48,
         'فزبة حلاوة تايجر جديد',
         'المركبات',
-        'دراجة هوائية',
+        'دراجة نارية',
         '2021-01-01',
         'القدس',
         '747-809-0817',
@@ -2962,7 +2962,7 @@ VALUES (
         'دولار',
         false,
         25,
-        '[{"image_1":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p526x395/260263314_438310097657026_230457544442932676_n.jpg?_nc_cat=107\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=jZe3Lf9Kc-kAX-XVKV8\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=188732b54839ad84e0230644c22e6c0a\u0026oe=61A20B22","image_2":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260438194_1101248250686347_7861358665876379878_n.jpg?_nc_cat=105\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=TZNqtRGxCwkAX8AalTZ\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=ae238020776efd784950a330bb8d16cc\u0026oe=61A207EC","image_3":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/259933427_1101248157353023_4267377405616078692_n.jpg?_nc_cat=109\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=RKU3k2MHnKQAX8MxKil\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=956ce4003afb153cc693ce58f29acdce\u0026oe=61A21B78","image_4":"https://scontent.fgza9-1.fna.fbcdn.net/v/t39.30808-6/p720x720/260370774_1101248204019685_1253103020191057337_n.jpg?_nc_cat=101\u0026ccb=1-5\u0026_nc_sid=b9115d\u0026_nc_ohc=JbdbBYBXHGQAX_q9VHK\u0026_nc_ht=scontent.fgza9-1.fna\u0026oh=f14458c7c9d983269a1e75fb2b794ddc\u0026oe=61A23C7A"}]'
+        '[{"image_1":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_2":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_3":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg","image_4":"https://i.servimg.com/u/f77/17/45/72/39/20089110.jpg"}]'
     ),
     (
         24,
@@ -2977,7 +2977,7 @@ VALUES (
         'شيكل',
         true,
         41,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         20,
@@ -2992,7 +2992,7 @@ VALUES (
         'شيكل',
         false,
         47,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         44,
@@ -3007,7 +3007,7 @@ VALUES (
         'شيكل',
         false,
         41,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         25,
@@ -3022,7 +3022,7 @@ VALUES (
         'شيكل',
         true,
         11,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_2":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_3":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_4":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$"}]'
     ),
     (
         49,
@@ -3037,7 +3037,7 @@ VALUES (
         'شيكل',
         false,
         29,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_2":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_3":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_4":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg"}]'
     ),
     (
         4,
@@ -3052,7 +3052,7 @@ VALUES (
         'شيكل',
         true,
         42,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         13,
@@ -3067,7 +3067,7 @@ VALUES (
         'شيكل',
         false,
         28,
-        '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_2":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_3":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_4":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg"}]'
     ),
     (
         48,
@@ -3082,7 +3082,7 @@ VALUES (
         'شيكل',
         true,
         44,
-        '[{"image_1":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         19,
@@ -3097,7 +3097,7 @@ VALUES (
         'شيكل',
         false,
         34,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         45,
@@ -3112,7 +3112,7 @@ VALUES (
         'شيكل',
         false,
         49,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         49,
@@ -3127,7 +3127,7 @@ VALUES (
         'شيكل',
         true,
         32,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         17,
@@ -3142,7 +3142,7 @@ VALUES (
         'شيكل',
         false,
         15,
-        '[{"image_1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_2":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_3":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg","image_4":"https://rjeem.com/wp-content/uploads/2019/10/%D8%A7%D9%81%D8%B6%D9%84-%D9%81%D8%B1%D9%86-%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A-.-2.jpg"}]'
     ),
     (
         21,
@@ -3157,7 +3157,7 @@ VALUES (
         'شيكل',
         true,
         43,
-        '[{"image_1":"https://7znn.net/wp-content/uploads/2019/10/2358.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         46,
@@ -3172,7 +3172,7 @@ VALUES (
         'شيكل',
         true,
         27,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         2,
@@ -3187,7 +3187,7 @@ VALUES (
         'شيكل',
         false,
         20,
-        '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_2":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_3":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg","image_4":"https://www.voltiat.com/wp-content/uploads/2021/09/%D8%AA%D8%B5%D9%85%D9%8A%D9%85-%D9%86%D8%B8%D8%A7%D9%85-%D8%B7%D8%A7%D9%82%D8%A9-%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-12V-1-780x470.jpg"}]'
     ),
     (
         32,
@@ -3202,7 +3202,7 @@ VALUES (
         'شيكل',
         false,
         41,
-        '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         2,
@@ -3217,7 +3217,7 @@ VALUES (
         'شيكل',
         true,
         18,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         33,
@@ -3232,7 +3232,7 @@ VALUES (
         'شيكل',
         true,
         16,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_2":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_3":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_4":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg"}]'
     ),
     (
         6,
@@ -3247,7 +3247,7 @@ VALUES (
         'شيكل',
         false,
         1,
-        '[{"image_1":"https://abdeencenter.com/pub/media/catalog/product/cache/56cad32dc0f5a0dcc8728e0c028748a5/8/6/8699131222607_2.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         18,
@@ -3262,7 +3262,7 @@ VALUES (
         'شيكل',
         false,
         20,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         24,
@@ -3277,7 +3277,7 @@ VALUES (
         'شيكل',
         false,
         49,
-        '[{"image_1":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/home-appliance-AR18012021-2-1024x640.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         34,
@@ -3292,7 +3292,7 @@ VALUES (
         'شيكل',
         false,
         42,
-        '[{"image_1":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_2":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_3":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$","image_4":"https://images.samsung.com/is/image/samsung/levant-top-mount-freezer-rt58k7010sl-rt58k7010sl-lv-002-r-perspective-silver-thumb?$320_320_PNG$"}]'
     ),
     (
         8,
@@ -3307,7 +3307,7 @@ VALUES (
         'شيكل',
         true,
         48,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         3,
@@ -3322,7 +3322,7 @@ VALUES (
         'شيكل',
         false,
         21,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_2":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_3":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg","image_4":"https://m.media-amazon.com/images/I/41qLc8M0VGL._AC_SY780_.jpg"}]'
     ),
     (
         14,
@@ -3337,7 +3337,7 @@ VALUES (
         'شيكل',
         false,
         39,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_2":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_3":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg","image_4":"https://www.ibelieveinsci.com/wp-content/uploads/sharp-microwave-32liter-r-340r-s.jpg"}]'
     ),
     (
         9,
@@ -3352,7 +3352,7 @@ VALUES (
         'شيكل',
         true,
         6,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     ),
     (
         15,
@@ -3367,7 +3367,7 @@ VALUES (
         'شيكل',
         true,
         34,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_2":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_3":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp","image_4":"https://read.opensooq.com/wp-content/uploads/2021/02/%D8%A3%D9%81%D8%B6%D9%84-%D8%B4%D9%81%D8%A7%D8%B7-%D9%85%D8%B7%D8%A8%D8%AE.webp"}]'
     ),
     (
         8,
@@ -3382,7 +3382,7 @@ VALUES (
         'شيكل',
         true,
         22,
-        '[{"image_1":"https://upload.3dlat.com/uploads/3dlat.net_30_17_c73d_fec86ed324fc5.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_2":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_3":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg","image_4":"https://cdn.mart.ps/70984-thickbox_default/%D8%AE%D9%84%D8%A7%D8%B7-15-%D9%84%D8%AA%D8%B1-300-%D9%88%D8%A7%D8%B7-%D9%85%D8%B9-%D9%85%D8%B7%D8%AD%D9%86%D8%A9-%D8%A8%D9%87%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88-%D9%81%D9%84%D8%AA%D8%B1-mega.jpg"}]'
     ),
     (
         49,
@@ -3397,7 +3397,7 @@ VALUES (
         'شيكل',
         false,
         31,
-        '[{"image_1":"https://www.portal.ps/image/cache/catalog/products_2021/WhatsApp-Image-2021-05-04-at-1.11.50-AM-250x250w.jpg","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_2":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_3":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg","image_4":"https://cdn.mart.ps/72511-large_default/%D8%B9%D8%AC%D8%A7%D9%86%D8%A9-5-%D9%84%D8%AA%D8%B1-800%D9%88%D8%A7%D8%B7-gold-line.jpg"}]'
     ),
     (
         49,
@@ -3427,7 +3427,7 @@ VALUES (
         'شيكل',
         true,
         34,
-        '[{"image_1":"https://vestel.com/uploads/categories/4-04383159375.png","image_2":"https://www.e7kky.com/uploads/article/internal/images/%D8%B4%D9%81%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A7%D8%B3%D8%A8-%D9%85%D8%AE%D8%AA%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%A3%D8%BA%D8%B1%D8%A7%D8%B6.jpeg","image_3":"https://www.elarabygroup.com/media/catalog/category/food-preparation-appliances.png","image_4":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Ayx7W3WchCYGqso_gklUSdq65Lsoe2EKaeYvDfsGU6My9jfIOTTaf_-muy6hHy4vnLo\u0026usqp=CAU"}]'
+        '[{"image_1":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_2":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_3":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg","image_4":"https://images-na.ssl-images-amazon.com/images/I/41NOc-wdL6L._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"}]'
     );
 INSERT INTO favourite_products (user_id, product_id)
 VALUES (39, 70),
