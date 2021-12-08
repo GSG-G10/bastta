@@ -8,7 +8,7 @@ const modal = {
     width: '50vw',
     height: '80vh',
     bgcolor: 'background.paper',
-    borderٌRadius: '16px',
+    borderRadius: '16px',
     boxShadow: 24,
     p: 0,
     overflowY: 'auto',
@@ -39,14 +39,14 @@ const adsType = {
   item: {
     p: 1,
     m: 4,
-    width: '150px',
-    height: '150px',
+    width: '160px',
+    height: '160px',
     cursor: 'pointer',
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'space-evenly',
     alignItems: 'center',
-    borderRadius: '4px',
+    borderRadius: '12px',
     boxShadow: '0px 0px 20px rgba(0, 0, 0, 0.1)',
     transition: 'all .4s ease-in-out',
     '&:hover': {
@@ -61,4 +61,9 @@ const adsType = {
     height: '60%',
   },
 };
-export { modal, adsType };
+
+const logoBox = {
+  width: 'fit-content',
+  margin: 'auto',
+};
+export { modal, adsType, logoBox };

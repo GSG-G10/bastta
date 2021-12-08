@@ -5,10 +5,11 @@ import * as muiModules from '../../mui-modules';
 import Form from './Form';
 
 import * as assets from '../../assets';
+import * as style from './style';
 
 const NewAdsForm = ({ category, setOpenForm }) => (
   <>
-    <muiModules.Box sx={{ margin: 'auto' }}>
+    <muiModules.Box sx={style.logoBox}>
       <img src={assets.logo} alt="logo" />
 
     </muiModules.Box>

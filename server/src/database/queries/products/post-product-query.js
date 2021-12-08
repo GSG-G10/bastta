@@ -2,7 +2,7 @@ const connection = require('../../connection');
 
 module.exports = async ({
   userId,
-  productName,
+  name,
   section,
   type,
   date,
@@ -26,7 +26,7 @@ module.exports = async ({
     `,
     [
       userId,
-      productName,
+      name,
       section,
       type,
       date,

@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import axios from 'axios';
 import InputLabel from '@mui/material/InputLabel';
-// import FormGroup from '@mui/material/FormGroup';
+
 import * as muiModules from '../../mui-modules';
 
 const ceties = [
@@ -128,6 +128,7 @@ const types = {
     'غير ذلك',
   ],
 };
+
 const Input = muiModules.styled('input')({
   display: 'none',
 });
@@ -140,87 +141,41 @@ const request = async (data) => {
     console.log(err.response);
   }
 };
-// const date = new Date();
 
 const Form = ({ category }) => {
+  const [limit, setLimit] = useState(false);
   const [adsData, setAdsData] = useState({
-    productName: '',
+    name: '',
     price: 10,
     currency: '',
     city: '',
-    productClass: category,
+    section: classes[category],
     type: '',
     images: [],
     description: '',
     phone: '',
-    date: '',
   });
-  console.log(category);
 
-  const handleUpload = async (event) => {
-    // console.log([...event.target.files]);
-    // const file = [...event.target.files];
-    const file = event.target.files[0];
-    const reader = new FileReader();
-    // file.map((e) => {
-    reader.onload = (evt) => {
-      setAdsData({
-        ...adsData,
-        images: [...adsData.images, evt.target.result],
-      });
-    };
-    // console.log('file', file[0]);
-    return reader.readAsDataURL(file);
-    // });
-    // eslint-disable-next-line func-names
-  };
-
-  console.log(adsData.images);
-
-  // const request = await axios.post('/api/v1/products/upload');
-  // const file = [event.target.files];
-  // const reader = new FileReader(file);
-
-  // reader.onload = (e) => {
-  //   // The file's text will be printed here
-  //   console.log(e.target.result);
-  // };
-
-  // reader.readAsText(file);
-
-  // const { files } = e.target;
-  // // eslint-disable-next-line func-names
-  // console.log(files);
-  // reader.onload = (evt) => {
-  // setAdsData({ ...adsData, images: [evt.target.result] });
-  // console.log(evt.target.result);
-  // };
-  // reader.readAsDataURL(file);
-
-  // const res = await axios({
-  //   method: 'post',
-  //   url: '/api/v1/products/upload',
-  //   file: files[0],
-  //   headers: {
-  //     'Content-Type': 'multipart/form-data',
-  //   },
-  // });
-
-  /* const uploadImages = await axios({
-      method: 'post',
-      url: '/api/v1/products/upload',
-      data: [files[0]],
-      headers: { 'Content-Type': 'multipart/form-data' },
+  const handleUpload = (event) => {
+    if (event.target.files.length > 4) return setLimit(true);
+    const file = event.target.files;
+    const arr = Object.keys(file);
+    return arr.forEach((e) => {
+      const reader = new FileReader();
+      reader.onload = (evt) => {
+        setAdsData((prevState) => ({
+          ...prevState,
+          images: [...prevState.images, evt.target.result],
+        }));
+      };
+      reader.readAsDataURL(file[e]);
     });
-    console.log(files[0]);
-    console.log(uploadImages); */
+  };
 
   return (
     <form
       onSubmit={(e) => {
         e.preventDefault();
-        console.log(adsData);
-        setAdsData({ ...adsData, date: new Date() });
         request(adsData);
       }}
     >
@@ -229,7 +184,7 @@ const Form = ({ category }) => {
         <InputLabel>إسم المنتج</InputLabel>
         <muiModules.TextField
           required
-          onChange={(elm) => setAdsData({ ...adsData, productName: elm.target.value })}
+          onChange={(elm) => setAdsData({ ...adsData, name: elm.target.value })}
         />
       </muiModules.Box>
 
@@ -324,18 +279,14 @@ const Form = ({ category }) => {
       </muiModules.Box>
       {/* Product images  */}
       <form>
-        <InputLabel>
-          صورة للمنتج
-          {' '}
-          <span>الحد الأقصى 4 صور</span>
-        </InputLabel>
+        <InputLabel>صورة للمنتج </InputLabel>
         <muiModules.Stack direction="row" alignItems="center" spacing={2}>
           <InputLabel htmlFor="contained-button-file">
             <Input
               id="contained-button-file"
               multiple
               type="file"
-              accept=".jpg, .jpeg, .png"
+              accept=".jpeg, .jpg"
               required
               data-multiple-caption={4}
               onChange={handleUpload}
@@ -345,11 +296,11 @@ const Form = ({ category }) => {
             <muiModules.Button variant="contained" component="span">
               رفع الصور
             </muiModules.Button>
+            {limit ? <span>الحد الأقصى 4 صور</span> : null}
           </InputLabel>
         </muiModules.Stack>
       </form>
 
-      {JSON.stringify(adsData)}
       <muiModules.Button type="submit" variant="contained">
         نشر الإعلان
       </muiModules.Button>
