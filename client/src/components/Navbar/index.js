@@ -24,7 +24,7 @@ const Navbar = () => {
           <muiModules.Box sx={style.userTools}>
             <muiModules.Box
               sx={style.chatBox}
-              onClick={() => navigate('/chat')}
+              onClick={() => navigate('/')}
             >
               <muiModules.ChatIcon color="primary" fontSize="large" />
             </muiModules.Box>

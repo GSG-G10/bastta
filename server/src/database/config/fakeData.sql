@@ -2137,7 +2137,7 @@ VALUES (
         'شيكل',
         true,
         48,
-        '[{"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
+        '[{"image_1":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_2":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_3":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg","image_4":"https://i.ytimg.com/vi/QDI-2kEQqnk/hqdefault.jpg"}]'
     ),
     (
         4,
