@@ -6,6 +6,9 @@ const style = {
     justifyContent: 'space-around',
     alignItems: 'center',
     marginBottom: '6.25rem',
+    flexWrap: 'wrap',
+    gap: '20px',
+    mt: '8px',
   },
   link: {
     cursor: 'pointer',

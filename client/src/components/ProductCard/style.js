@@ -3,13 +3,8 @@ const cardContent = {
   py: 1.6,
 };
 const cardMedia = {
-  height: {
-    xs: '700px',
-    sm: '400px',
-    md: '300px',
-    lg: '200px',
-  },
-  objectFit: 'fill',
+  height: '200px',
+  objectFit: 'cover',
 };
 const categoryLable = {
   position: 'absolute',

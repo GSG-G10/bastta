@@ -7,6 +7,7 @@ export default {
     height: '750px',
     position: 'sticky',
     top: '5vh',
+    width: { xs: '100%', md: '25%' },
   },
   containerHeading: {
     color: '#7C8284',

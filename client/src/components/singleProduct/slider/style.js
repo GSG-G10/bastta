@@ -37,7 +37,7 @@ const styles = {
     height: '100%',
     width: '100%',
     maxWidth: '100%',
-    objectFit: 'fill',
+    objectFit: 'cover',
   },
 
 };
