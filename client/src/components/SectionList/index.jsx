@@ -15,7 +15,7 @@ const links = [
 const SectionList = () => (
   <muiModules.Box sx={style.body}>
     {links.map((e) => (
-      <muiModules.Link sx={style.link} href={`/product/${e}`}>
+      <muiModules.Link key={e} sx={style.link} href={`/product/${e}`}>
         {e}
       </muiModules.Link>
     ))}

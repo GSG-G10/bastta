@@ -11,6 +11,7 @@ const {
   getOneProduct,
   profileProducts,
   searchProducts,
+  getFilteredData,
   getLandingProducts,
   deleteProduct,
   postProduct,
@@ -28,6 +29,9 @@ router.get('/public', getLandingProducts);
 router.get('/public/:page/:section', getPagination);
 router.get('/search', searchProducts);
 router.get('/profile/:userId', profileProducts);
+
+// filter
+router.get('/filter', getFilteredData);
 
 // Favorites
 router.get('/favorites', checkSignIn, getFavs);

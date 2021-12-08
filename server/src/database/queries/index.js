@@ -1,5 +1,6 @@
 const {
   newFavorites,
+  filterQuery,
   getAllProducts,
   findProductById,
   postProductQuery,
@@ -29,6 +30,7 @@ const {
 module.exports = {
   deleteFav,
   addNewUser,
+  filterQuery,
   getUserFavs,
   findFavById,
   checkAccount,

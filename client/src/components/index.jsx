@@ -10,6 +10,7 @@ import AdsLoginCard from './adsLoginCard';
 import CalssifiedCard from './classifiedCard';
 import Snakbar from './Snackabr';
 import SectionList from './SectionList';
+import ProfileCard from './profileCards';
 
 export {
   SliderHome,
@@ -24,4 +25,5 @@ export {
   Snakbar,
   Filter,
   SectionList,
+  ProfileCard,
 };

@@ -1,4 +1,3 @@
-/* eslint-disable react/forbid-prop-types */
 import { useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react/swiper-react';
 import SwiperCore, { FreeMode, Navigation, Thumbs } from 'swiper';
@@ -11,30 +10,48 @@ import 'swiper/modules/free-mode/free-mode';
 import 'swiper/modules/thumbs/thumbs';
 
 import './style.css';
+import styles from './style';
 
 SwiperCore.use([FreeMode, Navigation, Thumbs]);
 
 const SliderOneProduct = ({ data }) => {
   const [thumbsSwiper, setThumbsSwiper] = useState(null);
-  const imagess = JSON.parse(data[0].images);
-  const ArrauImg = [imagess[0].image_1, imagess[0].image_2, imagess[0].image_3, imagess[0].image_4];
+
+  const images = JSON.parse(data[0].images);
+  const ArrayImg = [
+    images[0].image_1,
+    images[0].image_2,
+    images[0].image_3,
+    images[0].image_4,
+  ];
+
   return (
     <Box sx={{ width: '45%' }}>
       <Swiper
         style={{
           '--swiper-navigation-color': '#fff',
           '--swiper-pagination-color': '#fff',
+          ...styles.mealSwiper,
         }}
         spaceBetween={10}
         navigation
         thumbs={{ swiper: thumbsSwiper }}
-        className="meal-swiper"
       >
-        {imagess.length !== 0 ? ArrauImg.map((ele) => (
-          <SwiperSlide>
-            <div className="container-img-show">
+        {images.length !== 0 ? ArrayImg.map((ele) => (
+          <SwiperSlide key={ele}>
+            <div
+              style={styles.containerImgShow}
+            >
 
-              <img src={ele} alt="img" />
+              <img
+                style={{
+                  height: '100%',
+                  width: '100%',
+                  objectFit: 'fill',
+                }}
+                src={ele}
+                alt="img"
+              />
             </div>
           </SwiperSlide>
         )) : ' no data'}
@@ -45,13 +62,25 @@ const SliderOneProduct = ({ data }) => {
         slidesPerView={4}
         freeMode
         watchSlidesProgress
-        className="mySwiper"
+        style={styles.mySwiper}
       >
-        {' '}
-        {imagess.length !== 0 ? ArrauImg.map((ele) => (
-          <SwiperSlide>
-            <div className="container-img">
-              <img src={ele} alt="img" />
+        {images.length !== 0 ? ArrayImg.map((ele) => (
+          <SwiperSlide style={{ opacity: 1 }} key={ele}>
+            <div
+              style={styles.containerImg}
+            >
+              <img
+                style={{
+                  objectFit: 'cover',
+                  display: 'block',
+                  width: '100%',
+                  height: '100%',
+                  borderRadius: 0,
+                  opacity: 0.5,
+                }}
+                src={ele}
+                alt="img"
+              />
 
             </div>
           </SwiperSlide>
@@ -60,9 +89,9 @@ const SliderOneProduct = ({ data }) => {
     </Box>
   );
 };
-export default SliderOneProduct;
 
 SliderOneProduct.propTypes = {
-  data: PropTypes.array.isRequired,
-
+  data: PropTypes.arrayOf(PropTypes.any).isRequired,
 };
+
+export default SliderOneProduct;

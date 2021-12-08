@@ -4,6 +4,10 @@
   flex-direction: column;
   margin: auto;
 }
+.containers {
+  display: flex;
+}
+
 .sub-container {
   display: flex;
   flex-direction: row;
@@ -13,6 +17,8 @@
   box-sizing: border-box;
   border-radius: 8px;
   text-decoration: none;
+  height: 20vh;
+  margin-bottom: 2rem;
 }
 .rihgt {
   width: 25%;
@@ -129,19 +135,15 @@
   cursor: pointer;
 }
 
-.btn-chat-classified {
+.btn-append-product {
   background-color: #1a6e9a;
   color: #ffffff;
   border: 1px solid #ffffff;
 }
 
-.btn-call-classified {
-  background-color: #ffffff;
-  color: #1a6e9a;
-  border: 1px solid #1a6e9a;
-}
 .btn-like-classified {
   border: none;
   background-color: #ffffff;
   cursor: pointer;
 }
+

@@ -31,7 +31,7 @@ const SingleProduct = () => {
       justifyContent: 'space-between',
       border: '1px solid rgba(169, 175, 176, 0.5)',
       borderRadius: '4px',
-      margin: '10px 0 10px 0',
+      marginBottom: '3rem',
       padding: '10px',
     }}
     >

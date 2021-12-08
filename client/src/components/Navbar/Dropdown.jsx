@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 
 import * as muiModules from '../../mui-modules';
 
@@ -10,6 +10,7 @@ import { schemaErrors } from '../../utils';
 import style from './style';
 
 const Dropdown = () => {
+  const { authId } = useSelector((state) => state);
   const [anchorEl, setAnchorEl] = useState(null);
   const navigate = useNavigate();
   const open = Boolean(anchorEl);
@@ -25,9 +26,10 @@ const Dropdown = () => {
     try {
       const {
         data: { message },
-      } = await axios.get('api/v1/users/logout');
+      } = await axios.get('/api/v1/users/logout');
       dispatch(showMessage(schemaErrors[Number(message)]), 'success');
       setTimeout(() => window.location.reload(), 0);
+      navigate('/');
     } catch (err) {
       // eslint-disable-next-line no-console
       console.error(err.response);
@@ -51,7 +53,13 @@ const Dropdown = () => {
         open={open}
         onClose={handleClose}
       >
-        <muiModules.MenuItem sx={style.profile} onClick={() => navigate('/profile')}>
+        <muiModules.MenuItem
+          sx={style.profile}
+          onClick={() => {
+            navigate(`/profile/${authId.id}`);
+            setTimeout(() => window.location.reload(), 0);
+          }}
+        >
           الصفحة الشخصية
         </muiModules.MenuItem>
         <muiModules.MenuItem sx={style.logout} onClick={() => logoutRequest()}>

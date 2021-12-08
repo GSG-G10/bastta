@@ -9,6 +9,7 @@ const postProduct = require('./post-product');
 const getPagination = require('./get-pagination');
 const adminDeleteProduct = require('./admin-delete-product');
 const uploadImages = require('./upload-images');
+const getFilteredData = require('./get-filter');
 
 module.exports = {
   postProduct,
@@ -18,6 +19,7 @@ module.exports = {
   profileProducts,
   searchProducts,
   publishProduct,
+  getFilteredData,
   adminDeleteProduct,
   getLandingProducts,
   getDashboardProducts,

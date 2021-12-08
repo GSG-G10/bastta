@@ -9,8 +9,10 @@ const getDashboardProductsQuery = require('./get-dashboard-products');
 const deleteProductQuery = require('./delete-product-query');
 const profileProductsQuery = require('./profile-products-query');
 const postProductQuery = require('./post-product-query');
+const filterQuery = require('./filter-query');
 
 module.exports = {
+  filterQuery,
   newFavorites,
   getAllProducts,
   findProductById,

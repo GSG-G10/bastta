@@ -26,6 +26,7 @@ const LoginForm = ({ setManageModal }) => {
       setLoading((c) => !c);
       dispatch(showMessage(schemaErrors[Number(message)]), 'success');
       const response = await axios.get('/api/v1/users/isAuth');
+      setTimeout(() => window.location.reload(), 0);
       return dispatch(createAuth(response.data));
     } catch (err) {
       return dispatch(
@@ -42,13 +43,13 @@ const LoginForm = ({ setManageModal }) => {
         id="modal-title"
         variant="h6"
         component="h1"
-        sx={{ textAlign: 'center', height: '10%', padding: '0.5rem 0' }}
+        sx={{ textAlign: 'center', padding: '0.5rem 0' }}
       >
         <span style={style.activeString}>تسجيل الدخول </span>
         | إنشاء حساب
       </muiModules.Typography>
       <muiModules.Box
-        sx={{ display: 'flex', justifyContent: 'center', height: '2.5rem' }}
+        sx={{ display: 'flex', justifyContent: 'center' }}
       >
         {loading ? <muiModules.CircularProgress /> : null}
       </muiModules.Box>
@@ -95,7 +96,7 @@ const LoginForm = ({ setManageModal }) => {
               type="text"
               placeholder="البريد الإلكتروني"
               onChange={(e) => setEmailInput(e.target.value.trim())}
-              require
+              require="true"
               sx={{ width: '100%' }}
             />
           </muiModules.Box>
@@ -113,14 +114,14 @@ const LoginForm = ({ setManageModal }) => {
               type="password"
               placeholder="كلمة المرور"
               onChange={(e) => setPasswordInput(e.target.value)}
-              require
+              require="true"
               sx={{ width: '100%' }}
             />
           </muiModules.Box>
 
           <muiModules.Button
             onClick={() => setManageModal((c) => !c)}
-            sx={{ border: 'none', '&:hover': { border: '1px solid #1a6e9a' } }}
+            sx={{ border: 'none', margin: '0.5rem 0' }}
           >
             تسجيل حساب جديد ؟
           </muiModules.Button>
@@ -130,7 +131,7 @@ const LoginForm = ({ setManageModal }) => {
           variant="contained"
           type="submit"
           color="primary"
-          sx={{ width: '100%', padding: '1rem 0' }}
+          sx={{ width: '100%', padding: '0.5rem 0' }}
         >
           تسجيل الدخول
         </muiModules.Button>

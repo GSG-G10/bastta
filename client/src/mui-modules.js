@@ -66,7 +66,7 @@ import ChatIcon from '@mui/icons-material/Chat';
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
-
+import DeleteIcon from '@mui/icons-material/Delete';
 /* Material UI Buttons */
 
 export {
@@ -133,4 +133,5 @@ export {
   styled,
   Stack,
   Slider,
+  DeleteIcon,
 };
