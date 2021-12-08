@@ -3,7 +3,7 @@
 /* Material UI Components */
 
 import CssBaseline from '@mui/material/CssBaseline';
-import { ThemeProvider } from '@mui/material/styles';
+import { ThemeProvider, styled } from '@mui/material/styles';
 import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
 import Tabs from '@mui/material/Tabs';
@@ -39,6 +39,8 @@ import InputBase from '@mui/material/InputBase';
 import Select from '@mui/material/Select';
 import Menu from '@mui/material/Menu';
 import MenuItem from '@mui/material/MenuItem';
+import Stack from '@mui/material/Stack';
+import Slider from '@mui/material/Slider';
 
 /* Material UI Icons */
 import PhoneIcon from '@mui/icons-material/Phone';
@@ -128,4 +130,7 @@ export {
   Select,
   Menu,
   MenuItem,
+  styled,
+  Stack,
+  Slider,
 };

@@ -75,7 +75,7 @@ const Table = () => {
                         sx={{ cursor: 'pointer', textDecoration: 'none' }}
                         target="_blank"
                         href={
-                          e.user_id ? `/products/${e.id}` : `/users/${e.id}`
+                          e.user_id ? `/products/${e.id}` : `/profile/${e.id}`
                         }
                       >
                         {e.name}
