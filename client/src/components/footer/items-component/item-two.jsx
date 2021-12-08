@@ -1,16 +1,17 @@
 import sections from '../utils/sections';
 import styles from '../style';
+import * as M from '../../../mui-modules';
 
 const Itemtwo = () => (
   <>
-    <h1 style={styles.header}>الأقسام :</h1>
-    <div style={styles.sections}>
+    <M.Typography variant="h5" sx={styles.header}>الأقسام :</M.Typography>
+    <M.Box sx={styles.sections}>
       {sections[0].map((section) => (
-        <a style={styles.par} key={section.id} href={`/product/${section.name}`}>
+        <M.Link sx={styles.par} key={section.id} href={`/product/${section.name}`}>
           {section.name}
-        </a>
+        </M.Link>
       ))}
-    </div>
+    </M.Box>
   </>
 );
 

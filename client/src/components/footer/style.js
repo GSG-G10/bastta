@@ -6,26 +6,45 @@ const styles = {
     alignItems: 'center',
     height: '90%',
   },
+  itemsBox: {
+    display: 'flex',
+    flexDirection: {
+      xs: 'column',
+      md: 'row',
+    },
+    width: '100%',
+    color: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+    gap: '45px',
+    py: '25px',
+
+  },
+  item: {
+    height: '100%',
+    width: { xs: 'auto', md: 'calc(100%/3)' },
+    display: 'flex',
+    justifyContent: 'space-evenly',
+    flexDirection: 'column',
+  },
   logo: {
     display: 'flex',
-    width: '55%',
     justifyContent: 'space-between',
     fontSize: '1.5rem ',
   },
+  logoImg: {
+    filter: 'brightness(0) invert(1)',
+    width: '100%',
+  },
   social: {
     display: 'flex',
-    width: '55%',
     justifyContent: 'space-evenly',
     alignItems: 'center',
   },
   sections: {
     display: 'flex',
-    width: '90%',
-    height: '70%',
-    justifyContent: 'space-between',
-    alignItems: 'center',
     flexWrap: 'wrap',
-    color: 'white',
+    rowGap: '22px',
   },
   par: {
     width: '33%',
@@ -34,8 +53,8 @@ const styles = {
     color: 'white',
   },
   header: {
-    textAlign: 'right',
-    marginRight: '30px',
+    fontWeight: '700',
+    mb: '18px',
   },
 };
 

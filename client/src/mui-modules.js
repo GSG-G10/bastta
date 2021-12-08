@@ -41,6 +41,11 @@ import Menu from '@mui/material/Menu';
 import MenuItem from '@mui/material/MenuItem';
 import Stack from '@mui/material/Stack';
 import Slider from '@mui/material/Slider';
+import Divider from '@mui/material/Divider';
+import IconButton from '@mui/material/IconButton';
+import useMediaQuery from '@mui/material/useMediaQuery';
+import Drawer from '@mui/material/Drawer';
+import Pagination from '@mui/material/Pagination';
 
 /* Material UI Icons */
 import PhoneIcon from '@mui/icons-material/Phone';
@@ -67,6 +72,9 @@ import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
 import DeleteIcon from '@mui/icons-material/Delete';
+import FilterListIcon from '@mui/icons-material/FilterList';
+import ClearIcon from '@mui/icons-material/Clear';
+
 /* Material UI Buttons */
 
 export {
@@ -101,6 +109,7 @@ export {
   Draggable,
   Link,
   CircularProgress,
+  Divider,
   PhoneIcon,
   FavoriteIcon,
   PersonPinIcon,
@@ -134,4 +143,10 @@ export {
   Stack,
   Slider,
   DeleteIcon,
+  IconButton,
+  useMediaQuery,
+  FilterListIcon,
+  ClearIcon,
+  Drawer,
+  Pagination,
 };

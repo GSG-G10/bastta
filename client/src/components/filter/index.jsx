@@ -24,7 +24,7 @@ const initialState = {
   search: '',
 };
 const Filter = ({
-  setData, setCount, setIsLoaded,
+  setData, setCount, setIsLoaded, handleDrawerClose,
 }) => {
   const [typesArr, setTypesArr] = useState(types[1].typesArr);
   const [params, setParams] = useState(initialState);
@@ -69,6 +69,7 @@ const Filter = ({
       return searchRequest();
     }
     filterRequest();
+    handleDrawerClose();
   };
 
   const clearFilters = () => {
@@ -174,6 +175,7 @@ Filter.propTypes = {
   setData: propTypes.func.isRequired,
   setCount: propTypes.func.isRequired,
   setIsLoaded: propTypes.func.isRequired,
+  handleDrawerClose: propTypes.func.isRequired,
 
 };
 export default Filter;

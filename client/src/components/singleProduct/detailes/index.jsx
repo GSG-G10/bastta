@@ -44,8 +44,7 @@ const Detailes = ({ data }) => {
 
   return (
     <M.Box
-      width={{ width: '50%' }}
-      sx={{ margin: 'auto' }}
+      sx={{ margin: 'auto', width: { xs: '100%', md: '50%' } }}
     >
 
       {data.length !== 0 ? data.map((ele) => (
