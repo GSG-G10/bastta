@@ -16,6 +16,7 @@ const styles = {
     boxSizing: 'border-box',
     borderRadius: '8px',
     textDecoration: 'none',
+    cursor: 'pointer',
   },
 
   right: {
