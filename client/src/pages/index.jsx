@@ -5,8 +5,10 @@ import { Dashboard, DashboardLogin } from './Dashboard';
 import SingleProductPage from './single';
 import ClassifiedProduct from './classifiedProduct';
 import ProfileUser from './profile';
+import Chat from './chat';
 
 export {
+  Chat,
   Home,
   Document,
   Dashboard,

@@ -36,6 +36,7 @@ const App = () => {
           <Route exact path="/dashboard" element={<Pages.Dashboard />} />
           <Route exact path="/admin/*" element={<Pages.DashboardLogin />} />
           <Route exact path="/profile/:UserID" element={<Pages.ProfileUser />} />
+          <Route exact path="/chat" element={<Pages.Chat />} />
           <Route
             exact
             path="/product/:search"
