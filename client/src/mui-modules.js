@@ -46,6 +46,7 @@ import IconButton from '@mui/material/IconButton';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import Drawer from '@mui/material/Drawer';
 import Pagination from '@mui/material/Pagination';
+import InputLabel from '@mui/material/InputLabel';
 
 /* Material UI Icons */
 import PhoneIcon from '@mui/icons-material/Phone';
@@ -153,4 +154,5 @@ export {
   Pagination,
   ArrowForwardIcon,
   ArrowForwardIosIcon,
+  InputLabel,
 };

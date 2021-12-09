@@ -3,7 +3,6 @@
 import { useState } from 'react';
 import axios from 'axios';
 import { useDispatch } from 'react-redux';
-import InputLabel from '@mui/material/InputLabel';
 import * as muiModules from '../../mui-modules';
 
 import { showMessage } from '../../store/actions';
@@ -29,7 +28,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
     description: '',
     phone: '',
   });
-
+  const [loading, setLoading] = useState(false);
   const handleUpload = (event) => {
     if (event.target.files.length > 4) return dispatch(showMessage('الحد الأقصى للصور 4', 'error'));
 
@@ -52,6 +51,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
       return;
     }
     try {
+      setLoading(true);
       const {
         data: { message },
       } = await axios.post('/api/v1/products', content);
@@ -70,6 +70,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
       dispatch(showMessage(schemaErrors[Number(message)]), 'success');
       setOpen((c) => !c);
     } catch (err) {
+      setLoading(false);
       dispatch(showMessage(schemaErrors[1016], 'error'));
     }
   };
@@ -85,7 +86,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
     >
       {/* Product name  */}
       <muiModules.Box sx={style.form.name}>
-        <InputLabel>إسم المنتج</InputLabel>
+        <muiModules.InputLabel>إسم المنتج</muiModules.InputLabel>
         <muiModules.TextField
           sx={style.form.nameInput}
           required
@@ -96,7 +97,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
       {/* Product price  */}
       <muiModules.Box sx={style.form.priceBox}>
         <muiModules.Box sx={style.form.priceSlider}>
-          <InputLabel> سعر المنتج 10-100</InputLabel>
+          <muiModules.InputLabel> سعر المنتج 10-100</muiModules.InputLabel>
           <muiModules.Slider
             required
             onChange={(elm) => setAdsData({ ...adsData, price: elm.target.value })}
@@ -108,7 +109,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
           />
         </muiModules.Box>
         <muiModules.Box>
-          <InputLabel> إدخال السعر يدوي</InputLabel>
+          <muiModules.InputLabel> إدخال السعر يدوي</muiModules.InputLabel>
           <muiModules.TextField
             sx={style.form.priceInput}
             onChange={(elm) => setAdsData({ ...adsData, price: elm.target.value })}
@@ -121,7 +122,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
       </muiModules.Box>
       {/* Product currency  */}
       <muiModules.Box>
-        <InputLabel>العملة</InputLabel>
+        <muiModules.InputLabel>العملة</muiModules.InputLabel>
         <muiModules.Select
           onChange={(elm) => setAdsData({ ...adsData, currency: elm.target.value })}
           placeholder="ddsd"
@@ -134,7 +135,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
       </muiModules.Box>
       {/* city  */}
       <muiModules.Box>
-        <InputLabel>المدينة</InputLabel>
+        <muiModules.InputLabel>المدينة</muiModules.InputLabel>
         <muiModules.Select
           onChange={(elm) => setAdsData({ ...adsData, city: elm.target.value })}
           required
@@ -155,7 +156,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
       </muiModules.Box>
       {/* Product type  */}
       <muiModules.Box>
-        <InputLabel>الفئة</InputLabel>
+        <muiModules.InputLabel>الفئة</muiModules.InputLabel>
         <muiModules.Select
           sx={{ width: '100%' }}
           onChange={(elm) => setAdsData({ ...adsData, type: elm.target.value })}
@@ -168,7 +169,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
       </muiModules.Box>
       {/* Product description  */}
       <muiModules.Box>
-        <InputLabel>وصف المنتج</InputLabel>
+        <muiModules.InputLabel>وصف المنتج</muiModules.InputLabel>
         <muiModules.TextField
           onChange={(elm) => setAdsData({ ...adsData, description: elm.target.value })}
           required
@@ -178,7 +179,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
       </muiModules.Box>
       {/* Product phone  */}
       <muiModules.Box>
-        <InputLabel>رقم الهاتف</InputLabel>
+        <muiModules.InputLabel>رقم الهاتف</muiModules.InputLabel>
         <muiModules.TextField
           onChange={(elm) => setAdsData({ ...adsData, phone: elm.target.value })}
           required
@@ -189,16 +190,16 @@ const Form = ({ category, setOpen, setOpenForm }) => {
       </muiModules.Box>
       {/* Product images  */}
       <form>
-        <InputLabel>
+        <muiModules.InputLabel>
           صورة للمنتج
           <muiModules.Typography variant="caption">
             {' '}
             الحد الأقصى 4
             {' '}
           </muiModules.Typography>
-        </InputLabel>
+        </muiModules.InputLabel>
         <muiModules.Stack direction="row" alignItems="center" spacing={2}>
-          <InputLabel htmlFor="contained-button-file">
+          <muiModules.InputLabel htmlFor="contained-button-file">
             <Input
               id="contained-button-file"
               multiple
@@ -213,7 +214,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
             <muiModules.Button variant="contained" component="span">
               رفع الصور
             </muiModules.Button>
-          </InputLabel>
+          </muiModules.InputLabel>
           <muiModules.Typography variant="caption">
             {adsData.images.length
               ? `الصور ${adsData.images.length}`
@@ -222,13 +223,17 @@ const Form = ({ category, setOpen, setOpenForm }) => {
         </muiModules.Stack>
       </form>
 
-      <muiModules.Button
-        type="submit"
-        variant="contained"
-        sx={style.form.submitBtn}
-      >
-        نشر الإعلان
-      </muiModules.Button>
+      <muiModules.Box sx={style.form.submitBtn}>
+        <muiModules.Button
+          type="submit"
+          variant="contained"
+          sx={style.form.submitBtn}
+          disabled={loading}
+        >
+          نشر الإعلان
+        </muiModules.Button>
+        {loading ? <muiModules.CircularProgress /> : null}
+      </muiModules.Box>
     </muiModules.Box>
   );
 };
