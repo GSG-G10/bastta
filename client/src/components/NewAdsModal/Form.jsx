@@ -32,6 +32,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
 
   const handleUpload = (event) => {
     if (event.target.files.length > 4) return dispatch(showMessage('الحد الأقصى للصور 4', 'error'));
+
     const file = event.target.files;
     const arr = Object.keys(file);
     return arr.forEach((e) => {
@@ -46,6 +47,10 @@ const Form = ({ category, setOpen, setOpenForm }) => {
     });
   };
   const request = async (content) => {
+    if (content.images.length === 0) {
+      dispatch(showMessage('يرجى وضع صورة واحدة على الأقل للمنتج', 'error'));
+      return;
+    }
     try {
       const {
         data: { message },
@@ -211,7 +216,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
           <muiModules.Typography variant="caption">
             {adsData.images.length
               ? `الصور ${adsData.images.length}`
-              : 'لم تختر صورة للمنتج'}
+              : 'لم تختر صور للمنتج'}
           </muiModules.Typography>
         </muiModules.Stack>
       </form>

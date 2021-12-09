@@ -87,7 +87,7 @@ const Table = () => {
                       <muiModules.Link
                         sx={{ cursor: 'pointer', textDecoration: 'none' }}
                         target="_blank"
-                        href={`/users/${e.user_id}`}
+                        href={`/profile/${e.user_id}`}
                       >
                         <muiModules.ContactPageIcon />
                       </muiModules.Link>

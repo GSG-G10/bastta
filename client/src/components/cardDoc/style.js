@@ -1,9 +1,6 @@
 const styles = {
   docSection: {
     backgroundColor: '#eef4fc',
-    width: '75%',
-    height: '200px',
-    margin: 'auto',
     borderRight: '8px solid #1a6e9a',
     fontFamily: 'Cairo',
     fontStyle: 'normal',
@@ -12,6 +9,8 @@ const styles = {
     lineHeight: '56px',
     textAlign: 'right',
     color: '#000000',
+    mb: '30px',
+    pb: '20px',
   },
 
   border: {
@@ -26,12 +25,16 @@ const styles = {
     lineHeight: '150%',
     paddingRight: '40px',
     paddingTop: '1rem',
+    mb: '20px',
   },
 
   description: {
     paddingRight: '40px',
+    paddingLeft: '20px',
     fontSize: '1.2rem',
     fontWeight: '350',
+    display: 'block',
+    lineHeight: '1.8',
   },
 
   contact: {
@@ -40,12 +43,8 @@ const styles = {
   },
 
   ol: {
-    marginTop: '-1.5rem',
     marginRight: '-1.2rem',
-  },
-
-  li: {
-    height: '25px',
+    lineHeight: 2,
   },
 
   text: {
@@ -56,14 +55,11 @@ const styles = {
     margin: '0',
     lineHeight: 'normal',
     height: '40px',
+    textAlign: 'right',
   },
 
-  h6: {
+  listText: {
     marginRight: '.5rem',
-    fontFamily: 'Cairo',
-    fontStyle: 'normal',
-    fontWeight: 'normal',
-    fontSize: '1.1rem',
   },
 };
 
