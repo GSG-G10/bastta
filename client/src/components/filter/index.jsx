@@ -19,12 +19,12 @@ const initialState = {
   city: '',
   section: '',
   type: '',
-  min: 0,
-  max: 100000,
+  min: 1000,
+  max: 1000000,
   search: '',
 };
 const Filter = ({
-  setData, setCount, setIsLoaded, handleDrawerClose,
+  setData, setCount, setIsLoaded,
 }) => {
   const [typesArr, setTypesArr] = useState(types[1].typesArr);
   const [params, setParams] = useState(initialState);
@@ -69,7 +69,6 @@ const Filter = ({
       return searchRequest();
     }
     filterRequest();
-    handleDrawerClose();
   };
 
   const clearFilters = () => {
@@ -175,7 +174,6 @@ Filter.propTypes = {
   setData: propTypes.func.isRequired,
   setCount: propTypes.func.isRequired,
   setIsLoaded: propTypes.func.isRequired,
-  handleDrawerClose: propTypes.func.isRequired,
 
 };
 export default Filter;
