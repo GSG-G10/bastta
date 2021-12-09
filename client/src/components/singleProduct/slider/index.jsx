@@ -18,12 +18,6 @@ const SliderOneProduct = ({ data }) => {
   const [thumbsSwiper, setThumbsSwiper] = useState(null);
 
   const images = JSON.parse(data[0].images);
-  const ArrayImg = [
-    images[0].image_1,
-    images[0].image_2,
-    images[0].image_3,
-    images[0].image_4,
-  ];
 
   return (
     <Box sx={{ width: { xs: '100%', md: '45%' } }}>
@@ -37,8 +31,8 @@ const SliderOneProduct = ({ data }) => {
         navigation
         thumbs={{ swiper: thumbsSwiper }}
       >
-        {images.length !== 0 ? ArrayImg.map((ele) => (
-          <SwiperSlide key={ele}>
+        {images.length !== 0 ? images.map((ele, i) => (
+          <SwiperSlide key={ele[`image_${i + 1}`]}>
             <div
               style={styles.containerImgShow}
             >
@@ -49,7 +43,7 @@ const SliderOneProduct = ({ data }) => {
                   width: '100%',
                   objectFit: 'cover',
                 }}
-                src={ele}
+                src={ele[`image_${i + 1}`]}
                 alt="img"
               />
             </div>
@@ -64,8 +58,8 @@ const SliderOneProduct = ({ data }) => {
         watchSlidesProgress
         style={styles.mySwiper}
       >
-        {images.length !== 0 ? ArrayImg.map((ele) => (
-          <SwiperSlide style={{ opacity: 1 }} key={ele}>
+        {images.length !== 0 ? images.map((ele, i) => (
+          <SwiperSlide style={{ opacity: 1 }} key={ele[`image_${i + 1}`]}>
             <div
               style={styles.containerImg}
             >
@@ -78,7 +72,7 @@ const SliderOneProduct = ({ data }) => {
                   borderRadius: 0,
                   opacity: 0.5,
                 }}
-                src={ele}
+                src={ele[`image_${i + 1}`]}
                 alt="img"
               />
 
