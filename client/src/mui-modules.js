@@ -74,6 +74,8 @@ import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
 import DeleteIcon from '@mui/icons-material/Delete';
 import FilterListIcon from '@mui/icons-material/FilterList';
 import ClearIcon from '@mui/icons-material/Clear';
+import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
+import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 
 /* Material UI Buttons */
 
@@ -149,4 +151,6 @@ export {
   ClearIcon,
   Drawer,
   Pagination,
+  ArrowForwardIcon,
+  ArrowForwardIosIcon,
 };

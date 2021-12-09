@@ -9,10 +9,12 @@ const NewAdsForm = ({ category, setOpenForm, setOpen }) => (
   <>
     <muiModules.Box sx={style.logoBox}>
       <img src={assets.logo} alt="logo" />
-
     </muiModules.Box>
     <muiModules.Box>
-      <muiModules.Button onClick={() => setOpenForm((c) => !c)}>
+      <muiModules.Button
+        startIcon={<muiModules.ArrowForwardIosIcon />}
+        onClick={() => setOpenForm((c) => !c)}
+      >
         الرجوع للخلف
       </muiModules.Button>
     </muiModules.Box>
