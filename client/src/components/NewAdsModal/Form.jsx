@@ -113,6 +113,7 @@ const Form = ({ category, setOpen, setOpenForm }) => {
             sx={style.form.priceInput}
             onChange={(elm) => setAdsData({ ...adsData, price: elm.target.value })}
             type="number"
+            InputProps={{ inputProps: { min: 0 } }}
             required
             value={adsData.price}
           />
