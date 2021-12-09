@@ -28,7 +28,7 @@ const Sncakbar = ({ message, type }) => {
       open={open}
       onClose={handleClose}
       key={vertical + horizontal}
-      sx={{ width: 'fit-content', zIndex: '-20' }}
+      sx={{ width: 'fit-content' }}
     >
       <muiModules.Alert severity={type}>{message}</muiModules.Alert>
     </muiModules.Snackbar>

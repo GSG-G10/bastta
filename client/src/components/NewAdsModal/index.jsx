@@ -27,8 +27,13 @@ const NewAdsModal = () => {
         aria-describedby="keep-mounted-modal-description"
       >
         <muiModules.Box sx={style.modal.body}>
+
           {openForm ? (
-            <NewAdsForm setOpenForm={setOpenForm} category={category} />
+            <NewAdsForm
+              setOpenForm={setOpenForm}
+              category={category}
+              setOpen={setOpen}
+            />
           ) : (
             <AdsType setOpenForm={setOpenForm} setCategory={setCategory} />
           )}

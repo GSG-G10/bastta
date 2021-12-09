@@ -1,16 +1,17 @@
 /* eslint-disable import/prefer-default-export */
+
 const modal = {
   body: {
     position: 'absolute',
     top: '50%',
     left: '50%',
     transform: 'translate(-50%, -50%)',
-    width: '50vw',
+    width: { xs: '95%', md: '75%', lg: '50%' },
     height: '80vh',
     bgcolor: 'background.paper',
     borderRadius: '16px',
     boxShadow: 24,
-    p: 0,
+    p: 2,
     overflowY: 'auto',
   },
 };
@@ -52,11 +53,9 @@ const adsType = {
     '&:hover': {
       transform: 'scale(1.1)',
     },
-
   },
   itemTitle: {},
   itemIcon: {
-
     width: '60%',
     height: '60%',
   },
@@ -66,4 +65,33 @@ const logoBox = {
   width: 'fit-content',
   margin: 'auto',
 };
-export { modal, adsType, logoBox };
+const form = {
+  body: {
+    width: {
+      xs: '95%',
+      sm: '75%',
+      md: '55%',
+      lg: '40%',
+    },
+    margin: 'auto',
+    mb: 5,
+  },
+  name: {
+    width: '100%',
+  },
+  nameInput: {
+    width: '100%',
+  },
+  priceBox: {
+    width: '100%',
+  },
+  priceInput: {
+    width: '100%',
+  },
+  submitBtn: {
+    float: 'left',
+  },
+};
+export {
+  modal, adsType, logoBox, form,
+};

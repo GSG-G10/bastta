@@ -18,7 +18,6 @@ const {
   getLandingProducts,
   getDashboardProducts,
   getPagination,
-  uploadImages,
 } = require('./products');
 
 const {
@@ -63,5 +62,4 @@ module.exports = {
   adminDeleteProduct,
   getLandingProducts,
   getDashboardProducts,
-  uploadImages,
 };

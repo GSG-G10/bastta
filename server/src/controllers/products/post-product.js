@@ -17,7 +17,7 @@ module.exports = async (req, res, next) => {
     }));
     req.body.images = JSON.stringify(imagesArr); // stringify images array
     const productPosted = await postProductQuery(req.body); // database query
-    return res.status(201).json(productPosted);
+    return res.status(200).json({ message: '1015', data: productPosted });
   } catch (err) {
     if (err.details) {
       err.status = 400;

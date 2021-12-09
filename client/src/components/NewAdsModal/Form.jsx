@@ -2,148 +2,22 @@
 /* eslint-disable react/prop-types */
 import { useState } from 'react';
 import axios from 'axios';
+import { useDispatch } from 'react-redux';
 import InputLabel from '@mui/material/InputLabel';
-
 import * as muiModules from '../../mui-modules';
 
-const ceties = [
-  'غزة',
-  'جباليا',
-  'بيت حانون',
-  'دير البلح',
-  'المغازي',
-  'النصيرات',
-  'خانيونس',
-  'رفح',
-  'الخليل',
-  'رام الله',
-  'جنين',
-  'نابلس',
-  'القدس',
-  'أخرى',
-];
-const classes = {
-  elctronics: 'الإلكترونيات',
-  car: 'المركبات',
-  house: 'العقارات',
-  furniture: 'الأثاث',
-  service: 'الخدمات',
-  sport: 'الرياضة',
-  appliances: 'الأجهزة الكهربائية',
-};
-
-const types = {
-  elctronics: [
-    'Samsung',
-    'Apple',
-    'Acer',
-    'Lenovo',
-    'Xiaomi',
-    'Dell',
-    'Asus',
-    'Hp',
-    'Google',
-    'Toshiba',
-    'HTC',
-    'Oppo',
-    'Huawei',
-    'Alcatel',
-    'Meziu',
-    'غير ذلك',
-  ],
-  car: [
-    'سيارة',
-    'جيب',
-    'دراجة هوائية',
-    'دراجة نارية',
-    'شاحنة',
-    'باص',
-    'غير ذلك',
-  ],
-  house: ['أراضي', 'عقار للإجار', 'عقار للبيع', 'محل', 'غير ذلك'],
-  furniture: [
-    'أثاث أطفال',
-    'أثاث مكاتب',
-    'أرائك، أسرة وصالونات',
-    'أطقم الطعام',
-    'تسريحة',
-    'خزائن',
-    'خزائن للكتب',
-    'خزائن و دواليب',
-    'سرير وأطقم سرير',
-    'طاولات',
-    'طاولات وعربات المطبخ',
-    'كرسي ومقاعد',
-    'إضاءة ومراوح',
-    'سجاجيد',
-    'ستائر',
-    'أدوات تحسين المنزل',
-    'غير ذلك',
-  ],
-  service: [
-    'محاسب',
-    'تصميم معماري',
-    'الصحة والجمال',
-    'الإنشاءات',
-    'خدمة العملاء',
-    'تعليم',
-    'هندسة',
-    'موضة وأزياء',
-    'تسويق وإعلان',
-    'وسائل إعلام',
-    'خدمات لوجيستية',
-    'خدمات قانونية',
-    'صناعة وتصنيع',
-    'الإنترنت',
-    'طب ورعاية صحية',
-    'وسائل إعلام عبر الانترنت',
-    'بضائع التجزئة والمستهلك',
-    'أنظمة الأمان',
-    'موارد بشرية وتوظيف',
-    'تصميم جرافيكي',
-    'مأكولات ومشروبات',
-    'تنمية الأعمال',
-    'غير ذلك',
-  ],
-  sport: [
-    'أجهزة رياضية',
-    'أحذية رياضية',
-    'أدوات رياضية',
-    'ملابس رياضية',
-    'كورة ملاعب',
-    'أدوات كمال أجسام',
-    'مكملات غذائية',
-    'غير ذلك',
-  ],
-  appliances: [
-    'ثلاجة',
-    'غسالة',
-    'مولد كهرباء',
-    'مضخة مياه',
-    'شاحن بطارية',
-    'إنفيرتر',
-    'ماكينة فرم',
-    'شفاط مطبخ',
-    'خلاط',
-    'غير ذلك',
-  ],
-};
+import { showMessage } from '../../store/actions';
+import {
+  schemaErrors, types, classes, ceties,
+} from '../../utils';
+import * as style from './style';
 
 const Input = muiModules.styled('input')({
   display: 'none',
 });
 
-const request = async (data) => {
-  try {
-    const response = await axios.post('/api/v1/products', data);
-    console.log(response);
-  } catch (err) {
-    console.log(err.response);
-  }
-};
-
-const Form = ({ category }) => {
-  const [limit, setLimit] = useState(false);
+const Form = ({ category, setOpen, setOpenForm }) => {
+  const dispatch = useDispatch();
   const [adsData, setAdsData] = useState({
     name: '',
     price: 10,
@@ -157,7 +31,7 @@ const Form = ({ category }) => {
   });
 
   const handleUpload = (event) => {
-    if (event.target.files.length > 4) return setLimit(true);
+    if (event.target.files.length > 4) return dispatch(showMessage('الحد الأقصى للصور 4', 'error'));
     const file = event.target.files;
     const arr = Object.keys(file);
     return arr.forEach((e) => {
@@ -171,43 +45,73 @@ const Form = ({ category }) => {
       reader.readAsDataURL(file[e]);
     });
   };
+  const request = async (content) => {
+    try {
+      const {
+        data: { message },
+      } = await axios.post('/api/v1/products', content);
+      setOpenForm((c) => !c);
+      setAdsData({
+        name: '',
+        price: 10,
+        currency: '',
+        city: '',
+        section: classes[category],
+        type: '',
+        images: [],
+        description: '',
+        phone: '',
+      });
+      dispatch(showMessage(schemaErrors[Number(message)]), 'success');
+      setOpen((c) => !c);
+    } catch (err) {
+      dispatch(showMessage(schemaErrors[1016], 'error'));
+    }
+  };
 
   return (
-    <form
+    <muiModules.Box
+      component="form"
       onSubmit={(e) => {
         e.preventDefault();
         request(adsData);
       }}
+      sx={style.form.body}
     >
       {/* Product name  */}
-      <muiModules.Box>
+      <muiModules.Box sx={style.form.name}>
         <InputLabel>إسم المنتج</InputLabel>
         <muiModules.TextField
+          sx={style.form.nameInput}
           required
           onChange={(elm) => setAdsData({ ...adsData, name: elm.target.value })}
         />
       </muiModules.Box>
 
       {/* Product price  */}
-      <muiModules.Box>
-        <InputLabel> سعر المنتج من 10 إلى 100</InputLabel>
-        <muiModules.Slider
-          required
-          onChange={(elm) => setAdsData({ ...adsData, price: elm.target.value })}
-          defaultValue={0}
-          step={10}
-          marks
-          min={10}
-          max={100}
-          sx={{ width: '50%' }}
-        />
-        <InputLabel> إدخال السعر يدوي</InputLabel>
-        <muiModules.TextField
-          onChange={(elm) => setAdsData({ ...adsData, price: elm.target.value })}
-          type="number"
-          required
-          value={adsData.price}
-        />
+      <muiModules.Box sx={style.form.priceBox}>
+        <muiModules.Box sx={style.form.priceSlider}>
+          <InputLabel> سعر المنتج 10-100</InputLabel>
+          <muiModules.Slider
+            required
+            onChange={(elm) => setAdsData({ ...adsData, price: elm.target.value })}
+            defaultValue={0}
+            step={10}
+            marks
+            min={10}
+            max={100}
+          />
+        </muiModules.Box>
+        <muiModules.Box>
+          <InputLabel> إدخال السعر يدوي</InputLabel>
+          <muiModules.TextField
+            sx={style.form.priceInput}
+            onChange={(elm) => setAdsData({ ...adsData, price: elm.target.value })}
+            type="number"
+            required
+            value={adsData.price}
+          />
+        </muiModules.Box>
       </muiModules.Box>
       {/* Product currency  */}
       <muiModules.Box>
@@ -279,7 +183,14 @@ const Form = ({ category }) => {
       </muiModules.Box>
       {/* Product images  */}
       <form>
-        <InputLabel>صورة للمنتج </InputLabel>
+        <InputLabel>
+          صورة للمنتج
+          <muiModules.Typography variant="caption">
+            {' '}
+            الحد الأقصى 4
+            {' '}
+          </muiModules.Typography>
+        </InputLabel>
         <muiModules.Stack direction="row" alignItems="center" spacing={2}>
           <InputLabel htmlFor="contained-button-file">
             <Input
@@ -296,15 +207,23 @@ const Form = ({ category }) => {
             <muiModules.Button variant="contained" component="span">
               رفع الصور
             </muiModules.Button>
-            {limit ? <span>الحد الأقصى 4 صور</span> : null}
           </InputLabel>
+          <muiModules.Typography variant="caption">
+            {adsData.images.length
+              ? `الصور ${adsData.images.length}`
+              : 'لم تختر صورة للمنتج'}
+          </muiModules.Typography>
         </muiModules.Stack>
       </form>
 
-      <muiModules.Button type="submit" variant="contained">
+      <muiModules.Button
+        type="submit"
+        variant="contained"
+        sx={style.form.submitBtn}
+      >
         نشر الإعلان
       </muiModules.Button>
-    </form>
+    </muiModules.Box>
   );
 };
 export default Form;
