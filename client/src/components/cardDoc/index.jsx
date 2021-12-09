@@ -1,128 +1,130 @@
 import LocalPhoneIcon from '@mui/icons-material/LocalPhone';
 import EmailIcon from '@mui/icons-material/Email';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
-
+import List from '@mui/material/List';
+import ListItem from '@mui/material/ListItem';
+import ListItemIcon from '@mui/material/ListItemIcon';
+import ListItemText from '@mui/material/ListItemText';
 import styles from './style';
+import * as M from '../../mui-modules';
 
 const CardDoc = () => (
-  <div
-    style={{ margin: 'auto', marginBottom: '10vh' }}
+  <M.Container
+    maxWidth="xl"
+    sx={{ marginBottom: '10vh' }}
   >
-    <section
-      style={styles.docSection}
+    <M.Box
+      sx={styles.docSection}
     >
-      <h3
-        style={styles.title}
+      <M.Typography
+        variant="h3"
+        sx={styles.title}
       >
         رؤيتنا
-      </h3>
-      <p
-        style={styles.description}
+      </M.Typography>
+      <M.Typography
+        variant="body"
+        sx={styles.description}
       >
-        النهوض بحركة التجارة الالكترونية وتسهيلها في فلسطين وتوفير خدمات تواكب التقدم التكنولوجي .
+        النهوض بحركة التجارة الالكترونية وتسهيلها في فلسطين وتوفير خدمات تواكب التقدم التكنولوجي.
 
-      </p>
-    </section>
-    <section
-      style={{ ...styles.docSection, ...styles.border }}
+      </M.Typography>
+    </M.Box>
+    <M.Box
+      sx={{ ...styles.docSection, ...styles.border }}
     >
-      <h3
-        style={styles.title}
+      <M.Typography
+        variant="h3"
+        sx={styles.title}
       >
         من نحن ؟
-      </h3>
-      <p
-        style={styles.description}
+      </M.Typography>
+      <M.Typography
+        variant="body"
+        sx={styles.description}
       >
         نقرب كل ما تحتاجه إليك! متجر يسهل عليك إيجاد والبحث من  بسطة وسهولة التواصل مع صاحب المنتج
 
-      </p>
-    </section>
-    <section
-      style={styles.docSection}
+      </M.Typography>
+    </M.Box>
+    <M.Box
+      sx={styles.docSection}
     >
-      <h3
-        style={styles.title}
+      <M.Typography
+        variant="h3"
+        sx={styles.title}
       >
         لماذا تختار بسطة ؟
 
-      </h3>
-      <p
-        style={styles.description}
+      </M.Typography>
+      <M.Box
+        sx={styles.description}
       >
         <ol
           style={styles.ol}
         >
-          <li
-            style={styles.li}
-          >
+          <li>
             الاول في فلسطين
           </li>
-          <li
-            style={styles.li}
-          >
+          <li>
             تجميع والاهتمام بكل ما يحتاجه الانسان في مكان واحد
           </li>
-          <li
-            style={styles.li}
-          >
+          <li>
             سهولة  الوصول للمنتجات والبحث عنها
           </li>
-          <li
-            style={styles.li}
-          >
+          <li>
             سهولة التواصل مع اصحاب الإعلانات المعروضة
           </li>
         </ol>
-      </p>
-    </section>
-    <section
-      style={{ ...styles.docSection, ...styles.border }}
+      </M.Box>
+    </M.Box>
+    <M.Box
+      sx={{ ...styles.docSection, ...styles.border }}
     >
-      <h3
-        style={styles.title}
+      <M.Typography
+        variant="h3"
+        sx={styles.title}
         aria-hidden
       >
         تواصل معنا
-      </h3>
-      <article
+      </M.Typography>
+      <M.Box
         style={{ ...styles.description, ...styles.contact }}
       >
-        <p
-          style={styles.text}
-        >
-          <LocalPhoneIcon sx={{ color: '#1A6E9A' }} />
-          <h6
-            style={styles.h6}
-          >
-            05xx-xxx-xxx
-          </h6>
-        </p>
-        <p
-          style={styles.text}
-        >
-          <EmailIcon sx={{ color: '#1A6E9A' }} />
-          <h6
-            style={styles.h6}
-          >
-            info@basta.com
-          </h6>
-        </p>
-        <p
-          style={styles.text}
-        >
-          <LocationOnIcon
-            sx={{ color: '#1A6E9A' }}
-          />
-          <h6
-            style={styles.h6}
-          >
-            فلسطين
-          </h6>
-        </p>
-      </article>
-    </section>
-  </div>
+        <List>
+          <ListItem sx={styles.text}>
+            <ListItemIcon>
+              <LocalPhoneIcon sx={{ color: '#1A6E9A' }} />
+            </ListItemIcon>
+            <ListItemText
+              sx={styles.listText}
+              primary="05xx-xxx-xxx"
+            />
+          </ListItem>
+          <ListItem sx={styles.text}>
+            <ListItemIcon>
+              <EmailIcon sx={{ color: '#1A6E9A' }} />
+            </ListItemIcon>
+            <ListItemText
+              sx={styles.listText}
+              primary="info@basta.com"
+            />
+          </ListItem>
+          <ListItem sx={styles.text}>
+            <ListItemIcon>
+              <LocationOnIcon
+                sx={{ color: '#1A6E9A' }}
+              />
+            </ListItemIcon>
+            <ListItemText
+              sx={styles.listText}
+              primary="فلسطين"
+            />
+          </ListItem>
+        </List>
+      </M.Box>
+    </M.Box>
+  </M.Container>
 );
 
 export default CardDoc;
