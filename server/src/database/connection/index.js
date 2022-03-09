@@ -21,11 +21,12 @@ switch (NODE_ENV) {
   default:
     throw new Error('NO DATABASE URL Founded !');
 }
-const options = {
-  connectionString: dbUrl,
-  ssl: {
-    rejectUnauthorized: false,
-  },
-};
 
-module.exports = new Pool(options);
+const options = {
+    connectionString: DB_URL,
+    ssl: {
+      rejectUnauthorized: false,
+    },
+  };
+  
+  module.exports = new Pool(options);
